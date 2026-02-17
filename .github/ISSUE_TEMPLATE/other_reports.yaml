@@ -1,0 +1,12 @@
+name: 'Feature Request'
+description: 'Create a discussion about your new feature/suggestion'
+labels:
+  - 'Feature'
+body:
+  - type: 'textarea'
+    id: 'feature-desc'
+    attributes:
+      label: 'What new things do you want to see or change?'
+      description: 'Please give a thorough explanation of what happened.'
+    validations:
+      required: true
