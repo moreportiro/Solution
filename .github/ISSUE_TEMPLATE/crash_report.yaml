@@ -4,7 +4,7 @@ labels:
   - 'Bug'
 type: 'Bug'
 body:
-- type: 'markdown'
+- type: markdown
       attributes:
         value: '## Please Read the following
   
