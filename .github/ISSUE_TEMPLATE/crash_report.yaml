@@ -1,0 +1,56 @@
+name: 'Crash Report'
+description: 'Use this form if you are running into any crashes or disconnects'
+labels:
+  - 'Bug'
+body:
+  - type: 'markdown'
+      attributes:
+        value: '## Please Read the following
+  
+          - If you are having issues with a specific mod, we recommend
+          reporting the issue directly to the mod author
+  
+          - Only 1 issue per bug report, if you need to report multiple
+          issues, open multiple bug reports
+          
+          ## Common solutions
+  
+          - Updating the pack to the latest available version
+  
+          - If you have added/updated/removed any mods, either undo the changes or
+          install a second unmodified copy of the modpack and test if the issue still happens'
+          
+  - type: 'dropdown'
+    id: 'triedSolutions'
+    attributes:
+      label: 'Have you tried the solutions mentioned above?'
+      options:
+        - 'No'
+        - 'Yes'
+    validations:
+      required: true
+
+  - type: 'input'
+    id: 'modpack-version'
+    attributes:
+      label: 'Modpack Version'
+      description: 'Which version of the modpack are you using?'
+      placeholder: '0.6'
+    validations:
+      required: true
+
+  - type: 'textarea'
+    id: 'bug-desc'
+    attributes:
+      label: 'Describe what happened'
+      description: 'A clear and concise description of what the bug is along with any screenshots that can help explain the issue'
+    validations:
+      required: true
+
+  - type: 'textarea'
+    id: 'crash-assistant-message'
+    attributes:
+      label: 'Crash Assistant Message (big green button)'
+      description: 'When you crash, Crash Assistant should popup and click Upload all and copy message, wait for logs to be uploaded, after it is done, paste here.'
+    validations:
+      required: false
