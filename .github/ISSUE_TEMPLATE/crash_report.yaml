@@ -3,7 +3,7 @@ description: 'Use this form if you are running into any crashes or disconnects'
 labels:
   - 'Bug'
 body:
-  - type: markdown
+  - type: 'markdown'
     attributes:
       value: |
           ## Please Read the following
@@ -21,7 +21,7 @@ body:
           - If you have added/updated/removed any mods, either undo the changes or
           install a second unmodified copy of the modpack and test if the issue still happens"
           
-  - type: dropdown
+  - type: 'dropdown'
     id: 'triedSolutions'
     attributes:
       label: 'Have you tried the solutions mentioned above?'
@@ -31,7 +31,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: 'input'
     id: 'modpack-version'
     attributes:
       label: 'Modpack Version'
@@ -40,7 +40,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: 'textarea'
     id: 'bug-desc'
     attributes:
       label: 'Describe what happened'
@@ -48,7 +48,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: 'textarea'
     id: 'crash-assistant-message'
     attributes:
       label: 'Crash Assistant Message (big green button)'
