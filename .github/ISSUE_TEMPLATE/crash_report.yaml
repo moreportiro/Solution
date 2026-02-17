@@ -4,9 +4,9 @@ labels:
   - 'Bug'
 type: 'Bug'
 body:
-- type: markdown
-      attributes:
-        value: '## Please Read the following
+  - type: markdown
+    attributes:
+      value: "## Please Read the following
   
           - If you are having issues with a specific mod, we recommend
           reporting the issue directly to the mod author
@@ -19,7 +19,7 @@ body:
           - Updating the pack to the latest available version
   
           - If you have added/updated/removed any mods, either undo the changes or
-          install a second unmodified copy of the modpack and test if the issue still happens'
+          install a second unmodified copy of the modpack and test if the issue still happens"
           
   - type: 'dropdown'
     id: 'triedSolutions'
