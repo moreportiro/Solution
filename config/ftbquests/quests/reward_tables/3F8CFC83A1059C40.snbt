@@ -1,0 +1,18 @@
+{
+	id: "3F8CFC83A1059C40"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "21C1177D1B9663CC", item: { count: 1, id: "additional_rpg_jewelry:aquamarine_ring" } }
+		{ id: "247DB09235BCC10B", item: { count: 1, id: "additional_rpg_jewelry:rage_ring" } }
+		{ id: "33C8D906627626C8", item: { count: 1, id: "additional_rpg_jewelry:silver_sapphire_ring" } }
+		{ id: "66DA41D903333C7F", item: { count: 1, id: "additional_rpg_jewelry:steel_jade_ring" } }
+		{ id: "0EF83F828E683CBC", item: { count: 1, id: "jewelry:ruby_ring" } }
+		{ id: "0594A751C4C9A68C", item: { count: 1, id: "jewelry:topaz_ring" } }
+		{ id: "195B86453639CB35", item: { count: 1, id: "jewelry:citrine_ring" } }
+		{ id: "1EB4F8DD4816D8BE", item: { count: 1, id: "jewelry:jade_ring" } }
+		{ id: "53C19174033A2B29", item: { count: 1, id: "jewelry:sapphire_ring" } }
+		{ id: "08079D3195A335C3", item: { count: 1, id: "jewelry:tanzanite_ring" } }
+		{ id: "585A89389362E63B", item: { count: 1, id: "additional_rpg_jewelry:malachite_ring" } }
+	]
+}

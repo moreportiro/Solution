@@ -1,0 +1,12 @@
+{
+	id: "11D1CBA7DD97124D"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ id: "1F9F0C46E40AE038", item: { count: 1, id: "witcher_rpg:greater_aard_glyph" } }
+		{ id: "7E12ABBD225AD9FB", item: { count: 1, id: "witcher_rpg:greater_axii_glyph" } }
+		{ id: "17DC00FCBD91EEDC", item: { count: 1, id: "witcher_rpg:greater_igni_glyph" } }
+		{ id: "3961C5362B43853D", item: { count: 1, id: "witcher_rpg:greater_quen_glyph" } }
+		{ id: "416625E328C0EFB4", item: { count: 1, id: "witcher_rpg:greater_yrden_glyph" } }
+	]
+}

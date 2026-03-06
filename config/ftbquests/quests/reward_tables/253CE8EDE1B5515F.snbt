@@ -1,0 +1,18 @@
+{
+	id: "253CE8EDE1B5515F"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "68A25C22F8687CE0", item: { count: 1, id: "additional_rpg_jewelry:netherite_aquamarine_ring" } }
+		{ id: "479E100A89332BAE", item: { count: 1, id: "additional_rpg_jewelry:netherite_malachite_ring" } }
+		{ id: "0AC6A4CA4F480925", item: { count: 1, id: "additional_rpg_jewelry:netherite_rage_ring" } }
+		{ id: "76D7AAABADC4A507", item: { count: 1, id: "additional_rpg_jewelry:meteorite_silver_sapphire_ring" } }
+		{ id: "29F1034BA4A99F43", item: { count: 1, id: "additional_rpg_jewelry:dark_steel_jade_ring" } }
+		{ id: "74A5127CD586D869", item: { count: 1, id: "jewelry:netherite_ruby_ring" } }
+		{ id: "24FB8BBC4890379F", item: { count: 1, id: "jewelry:netherite_topaz_ring" } }
+		{ id: "70B25EB8403FE647", item: { count: 1, id: "jewelry:netherite_citrine_ring" } }
+		{ id: "760AEB22473EFE02", item: { count: 1, id: "jewelry:netherite_jade_ring" } }
+		{ id: "3875FD32FC47FC65", item: { count: 1, id: "jewelry:netherite_sapphire_ring" } }
+		{ id: "3593CFEBC6001B12", item: { count: 1, id: "jewelry:netherite_tanzanite_ring" } }
+	]
+}

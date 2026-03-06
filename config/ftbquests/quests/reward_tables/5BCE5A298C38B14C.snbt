@@ -1,0 +1,31 @@
+{
+	id: "5BCE5A298C38B14C"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 64
+			id: "5A865E49CDE31BDD"
+			item: {
+				count: 1
+				id: "runes:fire_stone"
+			}
+		}
+		{
+			count: 64
+			id: "40410EFC9341DB0E"
+			item: {
+				count: 1
+				id: "runes:arcane_stone"
+			}
+		}
+		{
+			count: 64
+			id: "5EBFFBDFE6774CC0"
+			item: {
+				count: 1
+				id: "runes:frost_stone"
+			}
+		}
+	]
+}

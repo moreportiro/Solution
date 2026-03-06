@@ -1,0 +1,25 @@
+{
+	id: "418E3AAB1348DC55"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "7654672D5962F645", item: { count: 1, id: "additional_rpg_jewelry:unique_ocean_ring" } }
+		{ id: "2EFC437A2B36E80C", item: { count: 1, id: "additional_rpg_jewelry:unique_sky_ring" } }
+		{ id: "793203FD8161192F", item: { count: 1, id: "additional_rpg_jewelry:unique_earth_ring" } }
+		{ id: "733C567753B57B5F", item: { count: 1, id: "additional_rpg_jewelry:unique_rage_ring" } }
+		{ id: "07BE44851979A107", item: { count: 1, id: "additional_rpg_jewelry:unique_forest_ring" } }
+		{ id: "2EB8E1EE3ABC287A", item: { count: 1, id: "additional_rpg_jewelry:vampire_ring" } }
+		{ id: "1D6E93E390EF064B", item: { count: 1, id: "additional_rpg_jewelry:spell_vampire_ring" } }
+		{ id: "3DA0289BBAC74605", item: { count: 1, id: "additional_rpg_jewelry:unique_witcher_ring" } }
+		{ id: "598966AF1BA7F5EC", item: { count: 1, id: "jewelry:unique_attack_ring" } }
+		{ id: "3AEF3FCA4B0655F0", item: { count: 1, id: "jewelry:unique_dex_ring" } }
+		{ id: "7C6BC2EFD050B905", item: { count: 1, id: "jewelry:unique_tank_ring" } }
+		{ id: "43CE5E797FA737AD", item: { count: 1, id: "jewelry:unique_archer_ring" } }
+		{ id: "6A7EAA58502A9BC6", item: { count: 1, id: "jewelry:unique_arcane_ring" } }
+		{ id: "755E169313771C1A", item: { count: 1, id: "jewelry:unique_fire_ring" } }
+		{ id: "4B9C7811DB5F8FAF", item: { count: 1, id: "jewelry:unique_frost_ring" } }
+		{ id: "4873C7EC45F795F1", item: { count: 1, id: "jewelry:unique_healing_ring" } }
+		{ id: "533577E03D4BB9DC", item: { count: 1, id: "jewelry:unique_spell_ring" } }
+		{ id: "4E9C3664ADF856A2", item: { count: 1, id: "jewelry:unique_crit_ring" } }
+	]
+}

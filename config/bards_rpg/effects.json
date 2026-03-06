@@ -1,0 +1,33 @@
+{
+  "effects": {
+    "bards_rpg:ballad": {
+      "attributes": [
+        {
+          "attribute": "spell_power:generic",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.025,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "bards_rpg:troubadours_minuet": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": -0.03,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "bards_rpg:armys_paeon": {
+      "attributes": []
+    },
+    "bards_rpg:armys_motivation": {
+      "attributes": []
+    }
+  }
+}

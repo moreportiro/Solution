@@ -1,0 +1,25 @@
+{
+	id: "40C847386BA29E0C"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ id: "230CE34B7472AE4E", item: { count: 1, id: "additional_rpg_jewelry:unique_ocean_necklace" } }
+		{ id: "6241E3F8877FDD5A", item: { count: 1, id: "additional_rpg_jewelry:unique_sky_necklace" } }
+		{ id: "1C4CA923798ACE3C", item: { count: 1, id: "additional_rpg_jewelry:unique_earth_necklace" } }
+		{ id: "115B8D92680322D0", item: { count: 1, id: "additional_rpg_jewelry:unique_rage_necklace" } }
+		{ id: "5DF4600C8C6C0C35", item: { count: 1, id: "additional_rpg_jewelry:unique_forest_necklace" } }
+		{ id: "107217D21CFC31A3", item: { count: 1, id: "additional_rpg_jewelry:vampire_necklace" } }
+		{ id: "566B250ED54340F3", item: { count: 1, id: "additional_rpg_jewelry:spell_vampire_necklace" } }
+		{ id: "13BC6B0DF10ACD8B", item: { count: 1, id: "additional_rpg_jewelry:unique_witcher_necklace" } }
+		{ id: "015C604C007149C8", item: { count: 1, id: "jewelry:unique_attack_necklace" } }
+		{ id: "1136D7BAEE50D467", item: { count: 1, id: "jewelry:unique_dex_necklace" } }
+		{ id: "358D83C4671852EF", item: { count: 1, id: "jewelry:unique_tank_necklace" } }
+		{ id: "3D7C2A6629A5D95E", item: { count: 1, id: "jewelry:unique_archer_necklace" } }
+		{ id: "6084C3D5BD53834D", item: { count: 1, id: "jewelry:unique_arcane_necklace" } }
+		{ id: "13439D1C674E64CA", item: { count: 1, id: "jewelry:unique_fire_necklace" } }
+		{ id: "5B244B7035B2FD00", item: { count: 1, id: "jewelry:unique_frost_necklace" } }
+		{ id: "5B52CFE3EE0BCCD9", item: { count: 1, id: "jewelry:unique_healing_necklace" } }
+		{ id: "6E3D4F7091FBEE6E", item: { count: 1, id: "jewelry:unique_spell_necklace" } }
+		{ id: "4468D69A7374C43D", item: { count: 1, id: "jewelry:unique_crit_necklace" } }
+	]
+}

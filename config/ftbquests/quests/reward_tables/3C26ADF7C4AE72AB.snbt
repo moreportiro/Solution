@@ -1,0 +1,17 @@
+{
+	id: "3C26ADF7C4AE72AB"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "70AA082EAA6366EF", item: { count: 1, id: "witcher_rpg:greater_dazhbog_runestone" } }
+		{ id: "01D8042C7CED21AF", item: { count: 1, id: "witcher_rpg:greater_chernobog_runestone" } }
+		{ id: "01333623C7FFB631", item: { count: 1, id: "witcher_rpg:greater_stribog_runestone" } }
+		{ id: "0C0C667E3B8569A4", item: { count: 1, id: "witcher_rpg:greater_svarog_runestone" } }
+		{ id: "260E6F2750F35BBF", item: { count: 1, id: "witcher_rpg:greater_triglav_runestone" } }
+		{ id: "17C15C7C0E4244BE", item: { count: 1, id: "witcher_rpg:greater_perun_runestone" } }
+		{ id: "24FBD568F3FCFE01", item: { count: 1, id: "witcher_rpg:greater_veles_runestone" } }
+		{ id: "383BD88722FF935A", item: { count: 1, id: "witcher_rpg:greater_morana_runestone" } }
+		{ id: "2F7471C7A9EA6882", item: { count: 1, id: "witcher_rpg:greater_zoria_runestone" } }
+		{ id: "7ABB5A84D883E1AE", item: { count: 1, id: "witcher_rpg:greater_devana_runestone" } }
+	]
+}

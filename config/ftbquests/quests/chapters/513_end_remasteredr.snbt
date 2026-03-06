@@ -1,0 +1,904 @@
+{
+	autofocus_id: "731B274A4E67BFA5"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "513_end_remasteredr"
+	group: "063C1996E841C2DC"
+	icon: {
+		id: "minecraft:ender_eye"
+	}
+	id: "45E8D0D49D7C8632"
+	images: [
+		{
+			height: 1.5d
+			image: "block_factorys_bosses:item/yeti"
+			rotation: 15.0d
+			width: 1.5d
+			x: -9.3d
+			y: -0.9d
+		}
+		{
+			height: 1.5d
+			image: "block_factorys_bosses:item/worm"
+			rotation: 15.0d
+			width: 1.5d
+			x: -7.1d
+			y: -0.8d
+		}
+		{
+			height: 1.5d
+			image: "block_factorys_bosses:item/knight"
+			rotation: 15.0d
+			width: 1.5d
+			x: -5.0d
+			y: -0.8d
+		}
+		{
+			height: 1.5d
+			image: "bosses_of_mass_destruction:item/ancient_anima"
+			rotation: 0.0d
+			width: 1.5d
+			x: 5.4d
+			y: -0.9d
+		}
+		{
+			height: 1.5d
+			image: "eternal_starlight:block/parasol_grass"
+			rotation: 15.0d
+			width: 1.5d
+			x: 6.0d
+			y: 2.9d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/ender_dragon_spawn_egg"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -1.6d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/enderdragon/dragon_fireball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/enderdragon/dragon_fireball"
+			rotation: 40.0d
+			width: 1.0d
+			x: -1.4d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/witch_pupil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/witch_pupil"
+			rotation: 45.0d
+			width: 1.0d
+			x: -0.2d
+			y: 1.2d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/witch_pupil"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.1d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/wither_spawn_egg"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 2.8d
+		}
+		{
+			height: 1.5d
+			image: "bosses_of_mass_destruction:item/crystal_fruit"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.5d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "bosses_of_mass_destruction:block/void_lily"
+			rotation: 45.0d
+			width: 1.0d
+			x: 4.1d
+			y: -0.6d
+		}
+		{
+			height: 1.0d
+			image: "bosses_of_mass_destruction:block/void_lily"
+			rotation: -45.0d
+			width: 1.0d
+			x: 2.9d
+			y: -0.6d
+		}
+		{
+			height: 1.5d
+			image: "bosses_of_mass_destruction:item/blazing_eye"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -0.8d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/miscellaneous/gold_dungeon_key"
+			rotation: 130.0d
+			width: 1.0d
+			x: 9.5d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/miscellaneous/silver_dungeon_key"
+			rotation: 120.0d
+			width: 1.0d
+			x: 9.0d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/miscellaneous/bronze_dungeon_key"
+			rotation: 150.0d
+			width: 1.0d
+			x: 10.1d
+			y: -0.9d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/storm_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: -5.7d
+			y: -4.9d
+		}
+		{
+			height: 1.5d
+			image: "eternal_starlight:item/light_crystal"
+			rotation: 15.0d
+			width: 1.5d
+			x: 7.9d
+			y: 3.2d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/the_baby_leviathan_bucket"
+			rotation: -25.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.7d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/cursium_helmet"
+			rotation: -20.0d
+			width: 1.0d
+			x: -2.6d
+			y: -4.9d
+		}
+		{
+			height: 1.5d
+			image: "twilightforest:item/snow_queen_trophy"
+			rotation: 25.0d
+			width: 1.5d
+			x: 4.0d
+			y: 3.2d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/blazing_grips"
+			rotation: -20.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.6d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/mech_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: 4.3d
+			y: -4.9d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/remnant_skull"
+			rotation: -25.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.7d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/frozen_fist"
+			rotation: -45.0d
+			width: 1.0d
+			x: -10.3d
+			y: -0.4d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/sandworm_dart"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.1d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/spawn_egg/soul_skeleton_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.9d
+			y: -0.7d
+		}
+		{
+			height: 1.5d
+			image: "block_factorys_bosses:item/dragon"
+			rotation: 15.0d
+			width: 1.5d
+			x: -3.1d
+			y: -0.8d
+		}
+		{
+			height: 1.25d
+			image: "minecraft:textures/mob_effect/wither.png"
+			rotation: 40.0d
+			width: 1.25d
+			x: 0.6d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/wither_skeleton_spawn_egg"
+			rotation: -30.0d
+			width: 1.0d
+			x: -0.5d
+			y: 3.3d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/music_disc_scylla"
+			rotation: -10.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.6d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/cursed_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: -1.6d
+			y: -4.8d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/netherite_ministrosity_bucket"
+			rotation: -25.0d
+			width: 1.0d
+			x: 1.6d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/witherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.6d
+			y: -4.7d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/dragon_bone"
+			rotation: -80.0d
+			width: 1.0d
+			x: -3.9d
+			y: -0.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:item/warden_spawn_egg"
+			rotation: 15.0d
+			width: 1.5d
+			x: -3.0d
+			y: 3.2d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:item/heart_of_the_deep"
+			rotation: -15.0d
+			width: 1.0d
+			x: -3.8d
+			y: 3.3d
+		}
+		{
+			height: 1.5d
+			image: "twilightforest:item/lich_trophy"
+			rotation: -25.0d
+			width: 1.5d
+			x: 3.0d
+			y: 3.2d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/flame_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: 0.3d
+			y: -4.7d
+		}
+		{
+			height: 1.0d
+			image: "eternal_starlight:item/golem_steel_ingot"
+			rotation: -15.0d
+			width: 1.0d
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/abyss_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: -3.7d
+			y: -4.9d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/monstrous_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: 2.4d
+			y: -4.7d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:item/desert_eye"
+			rotation: 15.0d
+			width: 1.5d
+			x: 6.3d
+			y: -4.8d
+		}
+		{
+			height: 1.0d
+			image: "bosses_of_mass_destruction:item/soul_star"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.2d
+			y: -0.6d
+		}
+		{
+			height: 1.0d
+			image: "bosses_of_mass_destruction:item/soul_star"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.8d
+			y: -0.7d
+		}
+		{
+			height: 1.0d
+			image: "eternal_starlight:item/tenacious_vine"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.2d
+			y: 3.2d
+		}
+		{
+			height: 1.0d
+			image: "fdbosses:item/fire_and_ice_core"
+			rotation: -15.0d
+			width: 1.0d
+			x: -5.8d
+			y: 3.3d
+		}
+		{
+			height: 1.5d
+			image: "fdbosses:item/eye_of_malkuth"
+			rotation: 15.0d
+			width: 1.5d
+			x: -5.1d
+			y: 3.1d
+		}
+		{
+			height: 1.0d
+			image: "fdbosses:item/lightning_core"
+			rotation: -15.0d
+			width: 1.0d
+			x: -7.9d
+			y: 3.4d
+		}
+		{
+			height: 1.5d
+			image: "fdbosses:item/eye_of_chesed"
+			rotation: 15.0d
+			width: 1.5d
+			x: -7.2d
+			y: 3.1d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"488C0F49FAD59005"
+				"492D0F1941F41E46"
+				"071E91E3CE74A26F"
+				"0870184AF4CAA4E2"
+				"282B04F05705B739"
+				"4B4CE5D55F70F632"
+				"4E29982F8A0AEDFC"
+				"6AA4E70DD0976284"
+				"190B607CD433D829"
+				"06BAA3D67831AB46"
+				"1FB44C2E2D3F34D0"
+				"671A23725044A9B5"
+				"442AE46D5673426A"
+				"3598DE2C37BE5E3E"
+				"4FF2DAC67EE0387D"
+				"7F16585A864E8FA0"
+				"7D4A0B6B9A25D672"
+				"6E2152332E4E839D"
+				"0318E76EA2A37421"
+				"75DC401C86B5A6D9"
+				"423616169C88E369"
+				"5823E163425DB9AF"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "731B274A4E67BFA5"
+			min_required_dependencies: 12
+			rewards: [{
+				id: "66DA76CC64A1F4A4"
+				type: "xp"
+				xp: 200
+			}]
+			size: 3.0d
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "13FEDB448FC8144F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B68FBEA3243A842"]
+			icon_scale: 2.0d
+			id: "488C0F49FAD59005"
+			rewards: [{
+				id: "3F952217AC7EFD17"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "731C9019A59C40D2"
+				item: { count: 1, id: "endrem:cold_eye" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D11171C570F7435"]
+			icon_scale: 2.0d
+			id: "492D0F1941F41E46"
+			rewards: [{
+				id: "50652E17B9D09EC4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "2342B076B202E6E0"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["006E51565082FEC8"]
+			icon_scale: 2.0d
+			id: "071E91E3CE74A26F"
+			rewards: [{
+				id: "4DD531049009C058"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "5375A66A197163D1"
+				item: { count: 1, id: "endrem:black_eye" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["353C786C9FA14F7E"]
+			icon_scale: 2.0d
+			id: "0870184AF4CAA4E2"
+			rewards: [{
+				id: "0BF29836ACDD8EFE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "74E25EA0DB916F5F"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["478E30357991FE03"]
+			icon_scale: 2.0d
+			id: "282B04F05705B739"
+			rewards: [{
+				id: "30EC63A2C4E8963B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "15B8557E9B22D109"
+				item: { count: 1, id: "endrem:witch_eye" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49FDBEDAF859750E"]
+			icon_scale: 2.0d
+			id: "4B4CE5D55F70F632"
+			rewards: [{
+				id: "4F1F21ABF963C52F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "64CD8AFC481EC80D"
+				item: { count: 1, id: "endrem:blossom_eye" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1325CB47026AB836"]
+			icon_scale: 2.0d
+			id: "4E29982F8A0AEDFC"
+			rewards: [{
+				id: "2E1C3449A8767985"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "4F64461F94391711"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49E54621B90CB807"]
+			icon_scale: 2.0d
+			id: "6AA4E70DD0976284"
+			rewards: [{
+				id: "15857AD281F218D4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "685123994E43552B"
+				item: { count: 1, id: "endrem:aether_eye" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			icon_scale: 2.0d
+			id: "190B607CD433D829"
+			rewards: [{
+				id: "3A0649AC3D2C8FE9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "42DF0D1FE84239E3"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6586079E049D9DA5"]
+			icon_scale: 2.0d
+			id: "06BAA3D67831AB46"
+			rewards: [{
+				id: "101EE6CB00BCCE97"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "6EA45AD6C45A6467"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["29F897963C821BA4"]
+			icon_scale: 2.0d
+			id: "1FB44C2E2D3F34D0"
+			rewards: [{
+				id: "7EF72133681BA86F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "5A79759B1E9990E8"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["13B864699327D18E"]
+			icon_scale: 2.0d
+			id: "671A23725044A9B5"
+			rewards: [{
+				id: "6E3F011FA774A302"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "19D30ACA92A0C3C9"
+				item: { count: 1, id: "endrem:rogue_eye" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["166AA7AEFA6BF8CD"]
+			icon_scale: 2.0d
+			id: "442AE46D5673426A"
+			rewards: [{
+				id: "5F03CD5742CA11CD"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "56911859B4A6674B"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5B96BEA24B36E203"]
+			icon_scale: 2.0d
+			id: "3598DE2C37BE5E3E"
+			rewards: [{
+				id: "70E4923D76CF8792"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "7EDE588E98B32C7E"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["40AC2C8860CCA482"]
+			icon_scale: 2.0d
+			id: "4FF2DAC67EE0387D"
+			rewards: [{
+				id: "07E73933EFFFB1E9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "504E3A805C1450DA"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4F63E691F984762F"]
+			icon_scale: 2.0d
+			id: "7F16585A864E8FA0"
+			rewards: [{
+				id: "6C702C6E9F45FFDC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "0141F33495EB30D4"
+				item: { count: 1, id: "endrem:undead_eye" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1C98B76D4FED745E"]
+			icon_scale: 2.0d
+			id: "7D4A0B6B9A25D672"
+			rewards: [{
+				id: "07849BD20DFED2A7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "118B5A3CB4853135"
+				item: { count: 1, id: "endrem:sculk_eye" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["37B82375D3056EA5"]
+			icon_scale: 2.0d
+			id: "6E2152332E4E839D"
+			rewards: [{
+				id: "3B79ACFA37C04FD7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "5455C2FCD54AF0CE"
+				item: { count: 1, id: "endrem:trial_eye" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6EC6B25FB1A556C3"]
+			icon_scale: 2.0d
+			id: "0318E76EA2A37421"
+			rewards: [{
+				id: "30481178493C22A4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "6EED6D285CB55119"
+				item: { count: 1, id: "endrem:fishing_eye" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7404D65B4DE9F35E"]
+			icon_scale: 2.0d
+			id: "423616169C88E369"
+			rewards: [{
+				id: "04A318F414EEDA6F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "7702433E202DACD1"
+				item: { count: 1, id: "endrem:potato_eye" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["48D666C94E17BB0E"]
+			icon_scale: 2.0d
+			id: "75DC401C86B5A6D9"
+			rewards: [{
+				id: "62E63BB784321D60"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "2513DD6EC49C510F"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36B6A07CBE873C6C"]
+			icon_scale: 2.0d
+			id: "5823E163425DB9AF"
+			rewards: [{
+				id: "485D133C781F4D23"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "20F74B9BC26F3E08"
+				item: { count: 1, id: "endrem:guardian_eye" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+	]
+}

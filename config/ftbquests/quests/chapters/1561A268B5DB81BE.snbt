@@ -1,0 +1,347 @@
+{
+	autofocus_id: "1A3236B0858AA6F4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "1561A268B5DB81BE"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:item/cit/book/unbreaking"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1561A268B5DB81BE"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon_scale: 1.8d
+			id: "1A3236B0858AA6F4"
+			rewards: [{
+				id: "31BFDEF4F6C7312C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "5CD1B6D2B6EA80F0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wizards:wizard_robe_head"
+			}
+			id: "0F6AC99C5C076E2C"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4FE27BB3CAEF5F9D"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "combat_roll:textures/attribute_icon/count.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D0501E408C15704"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "5136A56C66FF4B65"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "witcher_rpg:textures/spell/yrden.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "57BDE4855514EABE"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "1BBDCD426A1032B3"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:item/warden_spawn_egg"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5A446CDF53B170A0"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "19EBF3B731244EEB"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "eternal_starlight:starlight_flower"
+			}
+			id: "3D664D60F02C963C"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "0D24757B31610AE3"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "critical_strike:textures/mob_effect/damage.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C44FC9CD8853E8E"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "114E5DE9FF81B99C"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "twilightforest:twilight_portal_miniature_structure"
+			}
+			id: "16A5944FA65A672A"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4A41CFDF39321F77"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "enderzoology:confusing_powder"
+			}
+			id: "721A149D7C0AED82"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "06FAF2949BEB40D2"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:golden_sword"
+			}
+			id: "6660E7EC61427D59"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "3ABA4599BE4BB399"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "farmersdelight:netherite_knife"
+			}
+			id: "6309B94397FA8B37"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "63541D8A6923E816"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "piglinproliferation:piglin_traveler_head"
+			}
+			id: "2A09179980EA5983"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "29714C594CA1DFE0"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A3236B0858AA6F4"]
+			hide_dependency_lines: true
+			icon: {
+				id: "aether:obsidian_gloves"
+			}
+			id: "033807D0CD1946F9"
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "1E8982D260CD3879"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+	]
+}

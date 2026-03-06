@@ -1,0 +1,545 @@
+{
+	autofocus_id: "0B2AE46F70CD1EC1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "544_illager_invasionr"
+	group: "02892542B4CF1B4D"
+	icon: {
+		components: {
+			"minecraft:banner_patterns": [
+				{
+					color: "cyan"
+					pattern: {
+						asset_id: "minecraft:rhombus"
+						translation_key: "block.minecraft.banner.rhombus"
+					}
+				}
+				{
+					color: "light_gray"
+					pattern: {
+						asset_id: "minecraft:stripe_bottom"
+						translation_key: "block.minecraft.banner.stripe_bottom"
+					}
+				}
+				{
+					color: "gray"
+					pattern: {
+						asset_id: "minecraft:stripe_center"
+						translation_key: "block.minecraft.banner.stripe_center"
+					}
+				}
+				{
+					color: "light_gray"
+					pattern: {
+						asset_id: "minecraft:border"
+						translation_key: "block.minecraft.banner.border"
+					}
+				}
+				{
+					color: "black"
+					pattern: {
+						asset_id: "minecraft:stripe_middle"
+						translation_key: "block.minecraft.banner.stripe_middle"
+					}
+				}
+				{
+					color: "light_gray"
+					pattern: {
+						asset_id: "minecraft:half_horizontal"
+						translation_key: "block.minecraft.banner.half_horizontal"
+					}
+				}
+				{
+					color: "light_gray"
+					pattern: {
+						asset_id: "minecraft:circle"
+						translation_key: "block.minecraft.banner.circle"
+					}
+				}
+				{
+					color: "black"
+					pattern: {
+						asset_id: "minecraft:border"
+						translation_key: "block.minecraft.banner.border"
+					}
+				}
+			]
+			"minecraft:hide_additional_tooltip": { }
+			"minecraft:item_name": "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+		}
+		id: "minecraft:white_banner"
+	}
+	id: "4808B7E0C0BC4E57"
+	images: [
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			height: 1.1d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			height: 1.6d
+			image: "illagerinvasion:block/imbuing_table_top"
+			rotation: 0.0d
+			width: 1.6d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/vindicator_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.1d
+			y: -0.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0B2AE46F70CD1EC1"
+			rewards: [{
+				id: "0622FC66C7280C6E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "3A67929758207DB7"
+				item: { count: 1, id: "illagerinvasion:platinum_chunk" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "4E36A30F2B37057C"
+			rewards: [{
+				id: "27515B6DA67AC0B6"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:red_sandstone"
+				}
+				id: "08FB46AC8668E11E"
+				structure: "illagerinvasion:firecaller_hut"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "49AC385671E2592F"
+			rewards: [{
+				id: "7952BC0568726E6D"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:cobblestone"
+				}
+				id: "10E591B416158F2E"
+				structure: "illagerinvasion:illager_fort"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "4113977B134EFABC"
+			rewards: [{
+				id: "37075252AFC483E1"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:dark_oak_planks"
+				}
+				id: "5D2F4135B3202B80"
+				structure: "illagerinvasion:illusioner_tower"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4113977B134EFABC"]
+			id: "09E369722344D3E1"
+			rewards: [
+				{
+					id: "0E0419A1C06059D6"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "76341B794CA328A8"
+					item: {
+						count: 1
+						id: "illagerinvasion:illusionary_dust"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "1EFC8F609221BB2B"
+				item: { count: 1, id: "illagerinvasion:illusionary_dust" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "32F3B71ED4A53FBF"
+			rewards: [{
+				id: "1B1DC481BF9EBF3A"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:mossy_cobblestone"
+				}
+				id: "4358922A6A438326"
+				structure: "illagerinvasion:sorcerer_hut"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["78D54ABC23D08ED9"]
+			id: "0ADA1703A074A8EB"
+			rewards: [{
+				id: "2D27908F03114C37"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [{
+				id: "3BED5F416DAB1D16"
+				item: { count: 1, id: "illagerinvasion:lost_candle" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "78D54ABC23D08ED9"
+			rewards: [{
+				id: "41027D8368EDDFF2"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:stone_bricks"
+				}
+				id: "2E737887D1D9F09A"
+				structure: "illagerinvasion:labyrinth"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["32F3B71ED4A53FBF"]
+			id: "7FAEB2BDA9AABA53"
+			rewards: [
+				{
+					id: "3F5B49F6356A74CA"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "4435451E315A38CF"
+					item: {
+						count: 1
+						id: "illagerinvasion:unusual_dust"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "25D8787154C2F31C"
+				item: { count: 1, id: "illagerinvasion:unusual_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"09E369722344D3E1"
+				"7FAEB2BDA9AABA53"
+			]
+			id: "2BA2B4184882F89F"
+			rewards: [{
+				id: "393816209FA365E2"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1F52B312C3E5154E"
+				item: { count: 1, id: "illagerinvasion:hallowed_gem" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2BA2B4184882F89F"]
+			id: "40B1C21CDCCD5746"
+			rewards: [{
+				id: "7723C0EDE8FD416B"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			tasks: [{
+				id: "79FFD959011B9D0B"
+				item: { count: 1, id: "illagerinvasion:horn_of_sight" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			hide_dependency_lines: true
+			id: "46F1C585306D27C7"
+			rewards: [{
+				id: "274EBD3FDCDADC93"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "pentagon"
+			tasks: [{
+				id: "03F26CEBA368088B"
+				item: { count: 1, id: "illagerinvasion:platinum_infused_hatchet" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22294CAFD10DE2D9"]
+			icon: {
+				id: "illagerinvasion:primal_essence"
+			}
+			icon_scale: 1.45d
+			id: "36FBD7FC2263DAAE"
+			rewards: [
+				{
+					id: "2CE4C5001CF8BAC4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BCFD716481602B3"
+					table_id: 2683275586397622623L
+					type: "random"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				entity: "illagerinvasion:invoker"
+				id: "002A05D96570DC46"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["36FBD7FC2263DAAE"]
+			id: "7CFDEBCCC80B10FF"
+			rewards: [{
+				id: "48C854903E35D00C"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [{
+				id: "026126598CE727DA"
+				item: { count: 1, id: "illagerinvasion:imbuing_table" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "22294CAFD10DE2D9"
+			rewards: [{
+				id: "23738AD823250062"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:dark_oak_log"
+				}
+				id: "51C506BB50A86556"
+				structure: "minecraft:mansion"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B2AE46F70CD1EC1"]
+			id: "64003826DC3082A0"
+			rewards: [
+				{
+					id: "27112D02E051BA27"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "79CAA2C74AF9DB44"
+					item: {
+						count: 1
+						id: "illagerinvasion:platinum_sheet"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "767F871FE30BF991"
+				item: { count: 1, id: "illagerinvasion:platinum_sheet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

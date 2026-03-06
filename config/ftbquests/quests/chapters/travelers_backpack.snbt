@@ -1,0 +1,1827 @@
+{
+	autofocus_id: "08D1164CCB78EA17"
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "travelers_backpack"
+	group: "5B360DBC17246D58"
+	id: "00A5E405AA1FFEF6"
+	images: [
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/blank_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/blank_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/blank_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/blank_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/blank_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/iron_tier_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/gold_tier_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/diamond_tier_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "travelersbackpack:item/netherite_tier_upgrade"
+			rotation: 0.0d
+			width: 1.4d
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_disabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_disabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_disabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.7d
+			image: "jei:textures/jei/atlas/gui/button_enabled.png"
+			rotation: 0.0d
+			width: 1.7d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"08D1164CCB78EA17"
+				"77310DB8D07EBD14"
+				"38C5849CBA413365"
+				"6CA191AA887DB94F"
+				"2AB41609D90F71A8"
+				"14C4C81EB63FC4B6"
+				"7747318C2BF1E91E"
+				"7993C532B429E812"
+				"3AC71EAB4649E89B"
+				"744A5C111A04826D"
+				"19D8A7E136D941B2"
+				"701EBBF3702ED91F"
+				"0E6439C7BFC15E31"
+				"78C68B7D96DE3E16"
+				"24997875E62DB2AC"
+				"489CA0C2454FB46A"
+				"2C80FEC60AA7BE83"
+				"740017A3ED33569C"
+				"71CD2EEFFF0E6539"
+				"765D27138A203F32"
+				"0E59CD7F9CFABB65"
+				"6413DDA3DC978601"
+				"3A39E6B7C04F981A"
+				"2443A726EF7A1078"
+				"53AA0E8BA80E8A5F"
+				"23418A6512BCC386"
+				"41EEA665A3BF48F3"
+				"39E8AD136E46BE60"
+				"50EF3B620995A27B"
+				"2D9E509B495DB8AC"
+				"65F88D9820EAF20C"
+				"1C8BFBF4199482B2"
+				"1010B742C7DDD0DD"
+				"414E65E133DC0BD7"
+				"42127846AA8CC675"
+				"32C7C69DEEA00297"
+				"061DC12B2E924F37"
+				"6EEACE63E149DA97"
+				"1A1A6EB731B1880F"
+				"0B7334F00C970388"
+				"19C0CBFD07718FB0"
+				"186B1908400A462F"
+				"0A4CB0CF116E2603"
+			]
+			hide_dependency_lines: true
+			icon_scale: 2.0d
+			id: "219815D6EDBCB63A"
+			rewards: [
+				{
+					id: "5404719B7C0F02AA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 64
+					id: "42340FACF6883663"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "3DAEF9ABF38BA0E5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "085698723E45A960"
+			rewards: [
+				{
+					id: "141F3126CC610E63"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "087E33CDC8211932"
+					item: {
+						count: 1
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "75085F9AB430E808"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:standard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["085698723E45A960"]
+			id: "710485DF080DD82B"
+			rewards: [
+				{
+					id: "423BF69A04318E0D"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 2
+					id: "6E782905AF5C3501"
+					item: {
+						count: 1
+						id: "travelersbackpack:blank_upgrade"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "6A603A812258236B"
+				item: { count: 1, id: "travelersbackpack:blank_upgrade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["710485DF080DD82B"]
+			id: "63F4FE09BD5B99C3"
+			rewards: [{
+				id: "28E39BBC52E64A8D"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [{
+				id: "188F088CCE51FAEE"
+				item: { count: 1, id: "travelersbackpack:iron_tier_upgrade" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["63F4FE09BD5B99C3"]
+			id: "5F7324242A0F9EDC"
+			rewards: [{
+				id: "1522C440A4876CD3"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1CB74AB7D69B1D2D"
+				item: { count: 1, id: "travelersbackpack:gold_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5F7324242A0F9EDC"]
+			id: "2AA451EBD75257D4"
+			rewards: [{
+				id: "7C6FAA4527F65B29"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "square"
+			tasks: [{
+				id: "788634636DCE7A76"
+				item: { count: 1, id: "travelersbackpack:diamond_tier_upgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2AA451EBD75257D4"]
+			id: "29B80F8552FA3C68"
+			rewards: [{
+				id: "774DA224A001E216"
+				type: "xp"
+				xp: 35
+			}]
+			shape: "square"
+			tasks: [{
+				id: "53AEABF38D04AB9A"
+				item: { count: 1, id: "travelersbackpack:netherite_tier_upgrade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["710485DF080DD82B"]
+			id: "18BB243AE8C55F19"
+			rewards: [{
+				id: "1DD7ECCC5FDFC538"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [{
+				id: "65CE760613F02A5F"
+				item: { count: 1, id: "travelersbackpack:tanks_upgrade" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["710485DF080DD82B"]
+			id: "5FDDF23BC96EC148"
+			rewards: [{
+				id: "0A5DE6D017F1591A"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "05FCD9EACBE5437F"
+					item: { count: 1, id: "travelersbackpack:furnace_upgrade" }
+					type: "item"
+				}
+				{
+					id: "007E8C74AEF4560D"
+					item: { count: 1, id: "travelersbackpack:smoker_upgrade" }
+					type: "item"
+				}
+				{
+					id: "5E979D300028D41F"
+					item: { count: 1, id: "travelersbackpack:blast_furnace_upgrade" }
+					type: "item"
+				}
+				{
+					id: "221FBD69ECA0B6B2"
+					item: { count: 1, id: "travelersbackpack:crafting_upgrade" }
+					type: "item"
+				}
+				{
+					id: "4CBCE8759D364831"
+					item: { count: 1, id: "travelersbackpack:magnet_upgrade" }
+					type: "item"
+				}
+				{
+					id: "3A6CCB43759D8938"
+					item: { count: 1, id: "travelersbackpack:feeding_upgrade" }
+					type: "item"
+				}
+				{
+					id: "128CF8289C5D316F"
+					item: { count: 1, id: "travelersbackpack:refill_upgrade" }
+					type: "item"
+				}
+				{
+					id: "17A5CC691223CD81"
+					item: { count: 1, id: "travelersbackpack:void_upgrade" }
+					type: "item"
+				}
+				{
+					id: "3DBF52F5C0AF0DC7"
+					item: { count: 1, id: "travelersbackpack:jukebox_upgrade" }
+					type: "item"
+				}
+				{
+					id: "2B14DF737515A54C"
+					item: { count: 1, id: "travelersbackpack:pickup_upgrade" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["18BB243AE8C55F19"]
+			id: "2E8150C1C56CCF6B"
+			rewards: [{
+				id: "2FA9DC6C0782C03F"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "square"
+			tasks: [{
+				id: "26EFD443EE13CCD2"
+				item: { count: 1, id: "travelersbackpack:hose" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			id: "08D1164CCB78EA17"
+			rewards: [
+				{
+					id: "628A358C6F10F678"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "3841B239E280C39D"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "41E0B346B415CD4E"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:netherite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "77310DB8D07EBD14"
+			rewards: [
+				{
+					id: "0246CC65F28D21EF"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4BBD8891490DA5B6"
+					item: {
+						count: 1
+						id: "minecraft:diamond_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07094A1FAF2A5DCE"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:diamond" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "38C5849CBA413365"
+			rewards: [
+				{
+					id: "2AA13557F82FA734"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "2729D84F068B4D98"
+					item: {
+						count: 1
+						id: "minecraft:gold_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C88BF51653649AE"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:gold" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			id: "2AB41609D90F71A8"
+			rewards: [
+				{
+					id: "44561A72346A38AB"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "67D008DA2FFAD49E"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "163D6FBE056B9610"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:emerald" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			id: "6CA191AA887DB94F"
+			rewards: [
+				{
+					id: "2B7051A8482CA4FE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "45E91310B790361D"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67C8BEA56DC91028"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:iron" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			id: "3AC71EAB4649E89B"
+			rewards: [
+				{
+					id: "71824B5217650F7F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "23D6BF1BC0420B8F"
+					item: {
+						count: 1
+						id: "minecraft:lapis_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0329AD92E798385C"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:lapis" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "7993C532B429E812"
+			rewards: [
+				{
+					id: "75F6F623F8A3E8DC"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "2A6C22D95FB0CBE4"
+					item: {
+						count: 1
+						id: "minecraft:redstone_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26D2F370C321552B"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:redstone" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			id: "14C4C81EB63FC4B6"
+			rewards: [
+				{
+					id: "0277B9692E38ACB8"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4501A13B4480C38D"
+					item: {
+						count: 1
+						id: "minecraft:coal_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5DDE7504CD1A33D4"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:coal" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			id: "7747318C2BF1E91E"
+			rewards: [
+				{
+					id: "345CD29D7CAB34B2"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "02849504E14183E9"
+					item: {
+						count: 1
+						id: "minecraft:quartz_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "231E052C6CFAF4BA"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:quartz" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			id: "0A4CB0CF116E2603"
+			rewards: [
+				{
+					id: "39D1A9785F1183B2"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "755883992C401DC3"
+					item: {
+						count: 1
+						id: "minecraft:bookshelf"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6733C7C0B232A80E"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:bookshelf" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			id: "1A1A6EB731B1880F"
+			rewards: [
+				{
+					id: "767C1AFA7FF20F11"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "3B08D88AD5691703"
+					item: {
+						count: 1
+						id: "minecraft:ender_eye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7706574B906EFA90"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:end" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			id: "6EEACE63E149DA97"
+			rewards: [
+				{
+					id: "028E3B20A81CCA30"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "698CD7B6C34C340F"
+					item: {
+						count: 1
+						id: "minecraft:nether_bricks"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5223E2D8973481BE"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:nether" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			id: "0E59CD7F9CFABB65"
+			rewards: [
+				{
+					id: "458F749E3C487803"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "6764595770356C4B"
+					item: {
+						count: 1
+						id: "minecraft:chiseled_sandstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00A6BBDC34C2FBE8"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:sandstone" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			id: "6413DDA3DC978601"
+			rewards: [
+				{
+					id: "0BF890378ECEBE75"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "3F1DC89083DAF072"
+					item: {
+						count: 1
+						id: "minecraft:blue_ice"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6993FCE9856F77CC"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:snow" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			id: "3A39E6B7C04F981A"
+			rewards: [
+				{
+					id: "23FF7B2001D53F63"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "22A2C62CA158A094"
+					item: {
+						count: 1
+						id: "minecraft:sponge"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E362611B77A0A7C"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:sponge" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			id: "23418A6512BCC386"
+			rewards: [
+				{
+					id: "19D08AB0E0F9CBEA"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "368248173CE0FAFE"
+					item: {
+						count: 1
+						id: "minecraft:cake"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "64D3D73AAAA42BC8"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:cake" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "061DC12B2E924F37"
+			rewards: [
+				{
+					id: "3128F89D0B4D35C7"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "6560F851232B68DE"
+					item: {
+						count: 1
+						id: "minecraft:cactus"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "19B599079D61D4ED"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:cactus" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			id: "765D27138A203F32"
+			rewards: [
+				{
+					id: "113AE138F8A2ED1E"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "6E4F1DEF6CD66CC4"
+					item: {
+						count: 1
+						id: "minecraft:hay_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "027C909E761023A5"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:hay" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			id: "186B1908400A462F"
+			rewards: [
+				{
+					id: "77947AA29EADDFA2"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "03B0157CA3F70BCD"
+					item: {
+						count: 1
+						id: "minecraft:melon"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26D9D6E2C7FC1920"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:melon" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			id: "19C0CBFD07718FB0"
+			rewards: [
+				{
+					id: "21ECD542E25D471F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "0AEEFD0590E91CA3"
+					item: {
+						count: 1
+						id: "minecraft:carved_pumpkin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E33AD00D442BB20"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:pumpkin" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			id: "2D9E509B495DB8AC"
+			rewards: [
+				{
+					id: "415980C0EB672BE1"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "68998894D49D181D"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4B7BA35D9C95E19B"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:creeper" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			id: "414E65E133DC0BD7"
+			rewards: [
+				{
+					id: "4E2EAD712E145227"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "022A4744C7521F5D"
+					item: {
+						count: 1
+						id: "minecraft:dragon_breath"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3AB017EEE220259F"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:dragon" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			id: "42127846AA8CC675"
+			rewards: [
+				{
+					id: "5C2E4333640E55B8"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "540CDAB0EE8AC88F"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1AF62DC747493D98"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:enderman" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			id: "0E6439C7BFC15E31"
+			rewards: [
+				{
+					id: "580DC68588CE9070"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "6914D38A362BE264"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C316ABE1A900241"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:blaze" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			id: "24997875E62DB2AC"
+			rewards: [
+				{
+					id: "5C54EC6858AAB3AB"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "5900F16602AB93CF"
+					item: {
+						count: 1
+						id: "minecraft:ghast_tear"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5FE1E003C39AA126"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:ghast" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			id: "32C7C69DEEA00297"
+			rewards: [
+				{
+					id: "476A4171574D7DC5"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "1FF2834BEFAB406A"
+					item: {
+						count: 1
+						id: "minecraft:magma_cream"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "610C218C2CB519CF"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:magma_cube" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			id: "1C8BFBF4199482B2"
+			rewards: [
+				{
+					id: "000B06FED2AA3FBE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "611BB7B73E4DF066"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F1C06B02071D688"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:skeleton" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			id: "41EEA665A3BF48F3"
+			rewards: [
+				{
+					id: "2315E2208D629992"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 16
+					id: "40DD183CE1DEC85E"
+					item: {
+						count: 1
+						id: "minecraft:string"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "36C09C2CE2672201"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:spider" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "39E8AD136E46BE60"
+			rewards: [
+				{
+					id: "2594A99660BE2A43"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 3
+					id: "543B55A7A5DA0451"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59B235B658F60DBC"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:wither" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "0B7334F00C970388"
+			rewards: [
+				{
+					id: "4DF817759FE785A7"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "195DEB1950CDFD1F"
+					table_id: 4579312563401366592L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "128A846884C6D059"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:bat" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			id: "65F88D9820EAF20C"
+			rewards: [
+				{
+					id: "6A964E8FF53BD428"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5ED04D4E3E0686D0"
+					item: {
+						count: 1
+						id: "minecraft:honey_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6385F1D854673147"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:bee" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			id: "701EBBF3702ED91F"
+			rewards: [
+				{
+					id: "087F4A99D3FDB304"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "65DA3C2E9906E49F"
+					item: {
+						count: 1
+						id: "minecraft:bone_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "282A6CA0C64DCC52"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:wolf" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "744A5C111A04826D"
+			rewards: [
+				{
+					id: "61133389E6121D81"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "7C3A963660492255"
+					item: {
+						count: 1
+						id: "minecraft:sweet_berries"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "699EBDF66639D23B"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:fox" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "19D8A7E136D941B2"
+			rewards: [
+				{
+					id: "18BB87957DB793D7"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "15C10737C2380012"
+					item: {
+						count: 1
+						id: "minecraft:tropical_fish_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "671B6A1725E4A9FD"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:ocelot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "78C68B7D96DE3E16"
+			rewards: [
+				{
+					id: "72AA1D3331E6981E"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "019587205ABF2652"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4A38AE9CF353DBB9"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:horse" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			id: "489CA0C2454FB46A"
+			rewards: [
+				{
+					id: "0430B24821CA7838"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "5878C4F859D8961A"
+					item: {
+						count: 1
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1BBA92747CBF3122"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:cow" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			id: "740017A3ED33569C"
+			rewards: [
+				{
+					id: "3FBF25C7DF7E399B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1A60E39183DC6191"
+					item: {
+						count: 1
+						id: "minecraft:saddle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "356C9DC7D43FCC7C"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:pig" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			id: "71CD2EEFFF0E6539"
+			rewards: [
+				{
+					id: "139326270D48F978"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "2AB1920446AE8FE6"
+					item: {
+						count: 1
+						id: "minecraft:white_wool"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7178ADBEBAFE032B"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:sheep" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			id: "2C80FEC60AA7BE83"
+			rewards: [
+				{
+					id: "271A9E4B3636FD52"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "38BFA15D6274645C"
+					item: {
+						count: 1
+						id: "minecraft:feather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "056B5A782B915045"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:chicken" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			id: "1010B742C7DDD0DD"
+			rewards: [
+				{
+					id: "1A0513253AA2F322"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 4
+					id: "085DC6FF6D0A78B8"
+					item: {
+						count: 1
+						id: "minecraft:glow_ink_sac"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34CF5184C08E9E0A"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:squid" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			id: "2443A726EF7A1078"
+			rewards: [
+				{
+					id: "12C75DE00BEBBFCE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02B1B4A097F7C878"
+					table_id: 2573715955912541547L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "70A5588CEBB48ED5"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:villager" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			id: "53AA0E8BA80E8A5F"
+			rewards: [
+				{
+					id: "766B9ED688B6B468"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19BA27631B008FDB"
+					table_id: 4579312563401366592L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5043BF04AB1078E6"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:iron_golem" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			id: "50EF3B620995A27B"
+			rewards: [
+				{
+					id: "288C1815D5098931"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "549B840505156D35"
+					item: {
+						count: 1
+						id: "deeperdarker:reinforced_echo_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F528ACCB9EED0C6"
+				item: { components: { "travelersbackpack:starter_upgrades": [{ count: 1, id: "travelersbackpack:tanks_upgrade" }] }, count: 1, id: "travelersbackpack:warden" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+	]
+}

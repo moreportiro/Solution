@@ -1,0 +1,18 @@
+{
+	id: "23B7AD0698EC056B"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ id: "26313771DBA7586B", item: { count: 1, id: "additional_rpg_jewelry:aquamarine_necklace" } }
+		{ id: "11F51F7F33A71688", item: { count: 1, id: "additional_rpg_jewelry:malachite_necklace" } }
+		{ id: "44F3D225705D4A62", item: { count: 1, id: "additional_rpg_jewelry:rage_necklace" } }
+		{ id: "274098BECE24BA6A", item: { count: 1, id: "additional_rpg_jewelry:silver_sapphire_necklace" } }
+		{ id: "2CB899775326E1E6", item: { count: 1, id: "additional_rpg_jewelry:steel_jade_necklace" } }
+		{ id: "5CDE06D21E2AB8B0", item: { count: 1, id: "jewelry:ruby_necklace" } }
+		{ id: "09BFE761B5A6937C", item: { count: 1, id: "jewelry:topaz_necklace" } }
+		{ id: "71201D6B57F38359", item: { count: 1, id: "jewelry:citrine_necklace" } }
+		{ id: "1051E893A29BCB58", item: { count: 1, id: "jewelry:jade_necklace" } }
+		{ id: "45D4FDD6B8E0613F", item: { count: 1, id: "jewelry:sapphire_necklace" } }
+		{ id: "7ED0E20A8941198D", item: { count: 1, id: "jewelry:tanzanite_necklace" } }
+	]
+}

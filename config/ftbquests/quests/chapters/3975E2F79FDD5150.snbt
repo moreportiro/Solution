@@ -1,0 +1,517 @@
+{
+	autofocus_id: "3D73FDB26C3F5207"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3975E2F79FDD5150"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "ftblibrary:icons/info"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "3975E2F79FDD5150"
+	images: [
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -1.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "hoppergadgetry:grated_hopper"
+			}
+			id: "59254B8B20C07C15"
+			rewards: [{
+				id: "18E109511425F229"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [
+				{
+					id: "4D571F197B82BB5A"
+					item: { count: 1, id: "hoppergadgetry:grated_hopper" }
+					type: "item"
+				}
+				{
+					id: "61E30858870E1F00"
+					item: { count: 1, id: "hoppergadgetry:duct" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			id: "36BE0D0056E5EDA3"
+			rewards: [{
+				id: "1E2BD4691F201B2C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "5AAF55FEF7954559"
+				item: { count: 1, id: "netherchested:nether_chest" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "78A07D6F5D04E6BE"
+			rewards: [{
+				id: "5D777C881A544BE1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "64C708D0EFA65812"
+				item: { count: 1, id: "skill_tree_rpgs:orb_of_oblivion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "fantasticwings:angel_wings"
+					}
+				}
+				id: "minecraft:potion"
+			}
+			id: "333D42D68F95C6EA"
+			rewards: [{
+				id: "5CFDDDAC5FDBB6A7"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "3FDFD31966DCBFD9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "3D73FDB26C3F5207"
+			rewards: [{
+				id: "23FD15EBD5E5B4C8"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "2B9A51F22AD95110"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "items_displayed:item_display"
+			}
+			id: "40A746C349DAC99F"
+			rewards: [{
+				id: "0EFAB570B62DFD0D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [
+				{
+					id: "09A89D38C0A2ED98"
+					item: { count: 1, id: "items_displayed:item_display" }
+					type: "item"
+				}
+				{
+					id: "5367C272B9BFF257"
+					item: { components: { "ftbfiltersystem:filter": "or(item(items_displayed:white_jewelry_pillow)item(items_displayed:light_gray_jewelry_pillow)item(items_displayed:gray_jewelry_pillow)item(items_displayed:black_jewelry_pillow)item(items_displayed:red_jewelry_pillow)item(items_displayed:orange_jewelry_pillow)item(items_displayed:yellow_jewelry_pillow)item(items_displayed:lime_jewelry_pillow)item(items_displayed:green_jewelry_pillow)item(items_displayed:light_blue_jewelry_pillow)item(items_displayed:cyan_jewelry_pillow)item(items_displayed:blue_jewelry_pillow)item(items_displayed:purple_jewelry_pillow)item(items_displayed:magenta_jewelry_pillow)item(items_displayed:pink_jewelry_pillow)item(items_displayed:brown_jewelry_pillow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "fetzisdisplays:workbench"
+			}
+			id: "3C1A3000CD5BAB28"
+			rewards: [{
+				id: "343F251ACD9C4229"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [
+				{
+					id: "58687B51645E4A4E"
+					item: { count: 1, id: "fetzisdisplays:workbench" }
+					type: "item"
+				}
+				{
+					id: "074B9E3AC7313D01"
+					item: { count: 1, id: "fetzisdisplays:hammer" }
+					type: "item"
+				}
+				{
+					id: "71451483F89AF307"
+					item: { count: 1, id: "fetzisdisplays:magnifying_glass" }
+					type: "item"
+				}
+				{
+					id: "50A466DFEDED52BF"
+					item: { count: 1, id: "fetzisdisplays:protractor" }
+					type: "item"
+				}
+				{
+					id: "4552044032BF77B9"
+					item: { count: 1, id: "fetzisdisplays:ruler" }
+					type: "item"
+				}
+				{
+					id: "35F763F4664F9576"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:glass_cloche_black)item(fetzisdisplays:glass_cloche_blue)item(fetzisdisplays:glass_cloche_brown)item(fetzisdisplays:glass_cloche_cyan)item(fetzisdisplays:glass_cloche_gray)item(fetzisdisplays:glass_cloche_green)item(fetzisdisplays:glass_cloche_light_blue)item(fetzisdisplays:glass_cloche_light_gray)item(fetzisdisplays:glass_cloche_lime)item(fetzisdisplays:glass_cloche_magenta)item(fetzisdisplays:glass_cloche_orange)item(fetzisdisplays:glass_cloche_pink)item(fetzisdisplays:glass_cloche_purple)item(fetzisdisplays:glass_cloche_red)item(fetzisdisplays:glass_cloche_white)item(fetzisdisplays:glass_cloche_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "1B6E080392E0D3BA"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:katana_stand_oak)item(fetzisdisplays:katana_stand_birch)item(fetzisdisplays:katana_stand_spruce)item(fetzisdisplays:katana_stand_dark_oak)item(fetzisdisplays:katana_stand_acacia)item(fetzisdisplays:katana_stand_mangrove)item(fetzisdisplays:katana_stand_crimson)item(fetzisdisplays:katana_stand_warped)item(fetzisdisplays:katana_stand_jungle)item(fetzisdisplays:katana_stand_bamboo)item(fetzisdisplays:katana_stand_cherry))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "21AAFF76CD97EBAD"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_horizontal_wall_holder)item(fetzisdisplays:birch_horizontal_wall_holder)item(fetzisdisplays:spruce_horizontal_wall_holder)item(fetzisdisplays:dark_oak_horizontal_wall_holder)item(fetzisdisplays:acacia_horizontal_wall_holder)item(fetzisdisplays:mangrove_horizontal_wall_holder)item(fetzisdisplays:crimson_horizontal_wall_holder)item(fetzisdisplays:warped_horizontal_wall_holder)item(fetzisdisplays:jungle_horizontal_wall_holder)item(fetzisdisplays:bamboo_horizontal_wall_holder)item(fetzisdisplays:cherry_horizontal_wall_holder))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "5A9D4B6682AF2AFB"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_vertical_wall_holder)item(fetzisdisplays:birch_vertical_wall_holder)item(fetzisdisplays:spruce_vertical_wall_holder)item(fetzisdisplays:dark_oak_vertical_wall_holder)item(fetzisdisplays:acacia_vertical_wall_holder)item(fetzisdisplays:mangrove_vertical_wall_holder)item(fetzisdisplays:crimson_vertical_wall_holder)item(fetzisdisplays:warped_vertical_wall_holder)item(fetzisdisplays:jungle_vertical_wall_holder)item(fetzisdisplays:bamboo_vertical_wall_holder)item(fetzisdisplays:cherry_vertical_wall_holder))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "08D438FEFDCABB21"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_vertical_rack_a)item(fetzisdisplays:birch_vertical_rack_a)item(fetzisdisplays:spruce_vertical_rack_a)item(fetzisdisplays:acacia_vertical_rack_a)item(fetzisdisplays:dark_oak_vertical_rack_a)item(fetzisdisplays:mangrove_vertical_rack_a)item(fetzisdisplays:crimson_vertical_rack_a)item(fetzisdisplays:warped_vertical_rack_a)item(fetzisdisplays:jungle_vertical_rack_a)item(fetzisdisplays:bamboo_vertical_rack_a)item(fetzisdisplays:cherry_vertical_rack_a))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "0211BDB0941AC384"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_vertical_rack_b)item(fetzisdisplays:birch_vertical_rack_b)item(fetzisdisplays:spruce_vertical_rack_b)item(fetzisdisplays:dark_oak_vertical_rack_b)item(fetzisdisplays:acacia_vertical_rack_b)item(fetzisdisplays:mangrove_vertical_rack_b)item(fetzisdisplays:crimson_vertical_rack_b)item(fetzisdisplays:warped_vertical_rack_b)item(fetzisdisplays:jungle_vertical_rack_b)item(fetzisdisplays:bamboo_vertical_rack_b)item(fetzisdisplays:cherry_vertical_rack_b))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "77E0B72CA0B92353"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_vertical_rack_c)item(fetzisdisplays:birch_vertical_rack_c)item(fetzisdisplays:spruce_vertical_rack_c)item(fetzisdisplays:dark_oak_vertical_rack_c)item(fetzisdisplays:acacia_vertical_rack_c)item(fetzisdisplays:mangrove_vertical_rack_c)item(fetzisdisplays:crimson_vertical_rack_c)item(fetzisdisplays:warped_vertical_rack_c)item(fetzisdisplays:jungle_vertical_rack_c)item(fetzisdisplays:bamboo_vertical_rack_c)item(fetzisdisplays:cherry_vertical_rack_c))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2313C68895F5FC79"
+					item: { components: { "ftbfiltersystem:filter": "or(item(fetzisdisplays:oak_vertical_rack_d)item(fetzisdisplays:birch_vertical_rack_d)item(fetzisdisplays:spruce_vertical_rack_d)item(fetzisdisplays:dark_oak_vertical_rack_d)item(fetzisdisplays:acacia_vertical_rack_d)item(fetzisdisplays:mangrove_vertical_rack_d)item(fetzisdisplays:crimson_vertical_rack_d)item(fetzisdisplays:warped_vertical_rack_d)item(fetzisdisplays:jungle_vertical_rack_d)item(fetzisdisplays:bamboo_vertical_rack_d)item(fetzisdisplays:cherry_vertical_rack_d))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "2AA27FE0DB9222F8"
+			rewards: [{
+				id: "50B14A56B5DFF862"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "729DBCC98DFAB754"
+				item: { count: 1, id: "enchantinginfuser:advanced_enchanting_infuser" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "ironchest:obsidian_chest"
+			}
+			id: "6F8538F01A07ADB1"
+			rewards: [{
+				id: "2BA374CC7971D495"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "7A34D4B3C2A25B71"
+				item: { components: { "ftbfiltersystem:filter": "or(item(ironchest:wood_to_iron_chest_upgrade)item(ironchest:iron_to_gold_chest_upgrade)item(ironchest:gold_to_diamond_chest_upgrade)item(ironchest:diamond_to_crystal_chest_upgrade)item(ironchest:diamond_to_obsidian_chest_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "21F1417CB09D3970"
+			rewards: [{
+				id: "48C733F5BCD51E29"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [
+				{
+					id: "12145136FCA03904"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:waystones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4415D55C6315088D"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:sharestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "27B9A6EA66D2AED9"
+					item: { components: { "ftbfiltersystem:filter": "or(item(waystones:white_portstone)item(waystones:orange_portstone)item(waystones:magenta_portstone)item(waystones:light_blue_portstone)item(waystones:yellow_portstone)item(waystones:lime_portstone)item(waystones:pink_portstone)item(waystones:gray_portstone)item(waystones:light_gray_portstone)item(waystones:cyan_portstone)item(waystones:purple_portstone)item(waystones:blue_portstone)item(waystones:brown_portstone)item(waystones:green_portstone)item(waystones:red_portstone)item(waystones:black_portstone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "016DAE2E45B44124"
+					item: { count: 1, id: "waystones:warp_plate" }
+					type: "item"
+				}
+				{
+					id: "76AE93FD13226D5B"
+					item: { count: 1, id: "waystones:warp_stone" }
+					type: "item"
+				}
+				{
+					id: "67FFE1A40BBD2BAC"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:scrolls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "handcrafted:hammer"
+			}
+			id: "38163D0B54B4C7FA"
+			rewards: [{
+				id: "660B7732CB8FC36B"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [
+				{
+					id: "6C4DA847D6C9C67E"
+					item: { count: 1, id: "handcrafted:hammer" }
+					type: "item"
+				}
+				{
+					id: "08A4285B2FE448BA"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:trophies)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "1564B69F506B623E"
+					item: { components: { "ftbfiltersystem:filter": "or(item(handcrafted:oven)item(handcrafted:kitchen_hood)item(handcrafted:kitchen_hood_pipe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4BA2B3F2B4E7CDA9"
+					item: { components: { "ftbfiltersystem:filter": "or(item(handcrafted:fancy_painting)item(handcrafted:berry_jam_jar)item(handcrafted:stackable_book))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "428098995ADC03D4"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:pots)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "17AA0612801D3920"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:crockery_combos)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "35FC3E3E806A4559"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:benches)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3D58DD46CB6D49AF"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:dining_benches)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "0004394AB9FB835E"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:couches)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "119876BD2F8C8DBD"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:chairs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "5203F27B3445EBFB"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:side_tables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3352E67EA8183CA9"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:desks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4E6EDD1D79DB396A"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:tables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "63FB621B64474324"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:nightstands)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "266924B9D67E6AAC"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:drawers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2D6EC34E282B8437"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:fancy_beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2C4EE574FB8D4176"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:counters)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2CE213D945C2C5C4"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:cupboards)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4C8B4FA961F7199A"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:shelves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3BDF095F163CD91F"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:trims)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.0d
+		}
+	]
+}

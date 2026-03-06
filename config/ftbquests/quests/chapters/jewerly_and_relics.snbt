@@ -1,0 +1,2100 @@
+{
+	autofocus_id: "6D6C912FEA56AD7B"
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "jewerly_and_relics"
+	group: "5B360DBC17246D58"
+	id: "0724D1B931802DE4"
+	images: [
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/ring"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/necklace"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "spell_engine:gui/slot/spell_trinket"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/cyan.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "relics:textures/gui/description/experience/gems/oval/cyan.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "archers:item/ranger_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/rogue_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "wizards:item/wizard_robe_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "paladins:item/paladin_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "witcher_rpg:item/armor/witcher_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "berserker_rpg:item/wildling_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/general/icons/player_experience.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/experience/filters/purple.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -3.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"7F56331A11FE8D43"
+				"558E57D77D56BB52"
+				"7844CE4EF7F2E266"
+				"530345863E4131BA"
+				"550B24066FD5480C"
+				"5A00E18FAD55FE3E"
+				"064CF8F3B11DC198"
+				"2AB2CFCC2782D132"
+				"5AB12BDB534C5281"
+				"5C572D2559F85BF8"
+				"3282F2C98E0E8139"
+				"419E1455034687B4"
+				"7CBF17E714457E8C"
+				"2F46BE91C857CA79"
+				"4A1239E792C228F4"
+				"2445EBC0989BDDA1"
+				"631433A611401C06"
+				"467577EEE4E4D44D"
+				"4EA3EA8AEFF3FD98"
+				"5FEE73DCBB4523A8"
+				"55B0FD1C6DC4E327"
+				"412374FD5332374B"
+				"38B666777FC40214"
+				"2622D7B04A4DAC34"
+				"04CB2F93B72AB07D"
+				"6A791C70A5BCA918"
+				"21F1357E4FD26D26"
+				"63AB6CDDDB47F47B"
+				"4E57C6FD7C794481"
+				"7FAAA5C638A62B06"
+				"6D6C912FEA56AD7B"
+				"6346AE7C8BF8F661"
+				"007B53670A79C326"
+				"2EB58ECA1B07FB03"
+				"772C87FA25C65509"
+				"5361AF8D510B2C59"
+				"6FCBA048E32DF480"
+				"5059E809244E9B09"
+				"2F65217549830E32"
+				"424A5C9A9AB20F6F"
+				"1D7A51B161C58F58"
+				"771E6EA23E1F4554"
+				"22BD4810F5E66774"
+				"75A9CC68E96DB135"
+				"16659759B55631BA"
+				"3D987395A40EDBC9"
+				"24D617E8F203A1F1"
+				"1D59DE8CEA04BD9D"
+				"62828D0CB2E839D2"
+				"7D321952202CF439"
+				"7F8426B4292C33FD"
+				"24D81301D057C824"
+				"4F64753449E08356"
+				"3E7B105CDF9CEBAE"
+				"38F6DF17D143B8F0"
+				"7559C9E9DAA14510"
+				"6B2AB7D6A34AFFB0"
+				"6B97F7681BEF0A4A"
+				"542DD314BCD07D2B"
+				"2EFCFDC7A16CF7D1"
+				"00080DB83ED6FB9A"
+				"1C7E391436FD99D6"
+				"1C6F5D26E8E8BB19"
+				"31C6B861475D5C40"
+				"70464D9381AD6063"
+				"0CA970C86165F4F2"
+				"1EFD50C4D3A8CE72"
+				"5B0DA0B7CAFE6E83"
+				"04315760AA8DB576"
+				"130B09DD82C53C3C"
+				"5BDB63160CED429E"
+				"3B249D986FA7F9BB"
+				"30A82A16E4E22252"
+				"3A16551687033C62"
+				"364F20322417CDD8"
+				"1A90A2735D22B32E"
+				"063BACC09BBE9FD3"
+				"6EE44966E18F84D7"
+				"670E461C7E11091A"
+				"682CDD643BA742BC"
+				"3ACB2B1556BCDC66"
+				"4FFA20CEB9350E97"
+			]
+			hide_dependency_lines: true
+			icon_scale: 2.0d
+			id: "1BEFF06994C11398"
+			rewards: [
+				{
+					id: "2306993497B83787"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 64
+					id: "58B949D1AAE0A69B"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "3747B30212477499"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7F56331A11FE8D43"
+			rewards: [{
+				id: "5F07B203652AFBCA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1918D9AE71CDA8A2"
+				item: { count: 1, id: "jewelry:copper_ring" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			id: "558E57D77D56BB52"
+			rewards: [{
+				id: "0C8E2395DB5E488B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "75051BFC3338F2B5"
+				item: { count: 1, id: "jewelry:iron_ring" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			id: "7844CE4EF7F2E266"
+			rewards: [{
+				id: "2627EA92381BF9E8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "162796834C9434BE"
+				item: { count: 1, id: "jewelry:gold_ring" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			id: "5A00E18FAD55FE3E"
+			rewards: [{
+				id: "29771FEE165870CB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5AA381D6A585900A"
+				item: { count: 1, id: "jewelry:emerald_necklace" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "064CF8F3B11DC198"
+			rewards: [{
+				id: "79451D5EF59DC1CF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "45B36667046A73D3"
+				item: { count: 1, id: "jewelry:diamond_necklace" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "530345863E4131BA"
+			rewards: [{
+				id: "7D89FE248F8A7C25"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "392DA4E7E4C440CC"
+				item: { count: 1, id: "additional_rpg_jewelry:cactea_ring" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			id: "550B24066FD5480C"
+			rewards: [{
+				id: "54653CAF12CBCCC9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3519AFD93337C255"
+				item: { count: 1, id: "additional_rpg_jewelry:dripstone_necklace" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "7559C9E9DAA14510"
+			rewards: [{
+				id: "6C6F35AC80D7A542"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4B2643FC185239C3"
+				item: { count: 1, id: "relics_rpgs:lesser_roll" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			id: "2AB2CFCC2782D132"
+			rewards: [{
+				id: "1ABE4C37DBAC36C4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "34BA8CCF9E256CC1"
+				item: { count: 1, id: "relics_rpgs:lesser_use_damage" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			id: "6B97F7681BEF0A4A"
+			rewards: [{
+				id: "500BBAC1FF872E73"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "643CF895E1F26F91"
+				item: { count: 1, id: "relics_rpgs:lesser_use_dex" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			id: "5FEE73DCBB4523A8"
+			rewards: [{
+				id: "258694513284956F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "608DA878A3A11AEB"
+				item: { count: 1, id: "relics_rpgs:lesser_use_ranged" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			id: "2622D7B04A4DAC34"
+			rewards: [{
+				id: "511B9468B3511C6C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6EEECCE0D305D076"
+				item: { count: 1, id: "relics_rpgs:lesser_use_health" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			id: "38F6DF17D143B8F0"
+			rewards: [{
+				id: "73903DB835A38E38"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "034764CE11C760D1"
+				item: { count: 1, id: "relics_rpgs:lesser_use_spell_power" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			id: "424A5C9A9AB20F6F"
+			rewards: [{
+				id: "2374E2FD2CCE6DF4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "373CFAD9FDCD8783"
+				item: { count: 1, id: "relics_rpgs:lesser_use_spell_haste" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			id: "4F64753449E08356"
+			rewards: [{
+				id: "1FE3D913C01ED7FC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6519F87CCF48C6B8"
+				item: { count: 1, id: "relics_rpgs:lesser_proc_spell_crit" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			id: "24D81301D057C824"
+			rewards: [{
+				id: "59BA00138BCDFA3B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0DFFBE66CF2FEE69"
+				item: { count: 1, id: "relics_rpgs:lesser_proc_crit_damage" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			id: "7CBF17E714457E8C"
+			rewards: [{
+				id: "08104CF8706FA314"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "12087BD8D07CFD5E"
+				item: { count: 1, id: "relics_rpgs:lesser_proc_arcane_fire" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "7FAAA5C638A62B06"
+			rewards: [{
+				id: "4581A48F7141C18C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "74BF2BB55E1690C3"
+				item: { count: 1, id: "relics_rpgs:lesser_proc_frost_healing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			id: "5AB12BDB534C5281"
+			rewards: [{
+				id: "404FF25CEEB64E7E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "53892161DD30925B"
+				item: { count: 1, id: "relics_rpgs:medium_proc_attack_damage" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			id: "542DD314BCD07D2B"
+			rewards: [{
+				id: "4A9F2D9A277ED1AC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2187136D68359794"
+				item: { count: 1, id: "relics_rpgs:medium_proc_attack_speed" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			id: "55B0FD1C6DC4E327"
+			rewards: [{
+				id: "2E275562E92DAE56"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "58EB3781D3A9AA3E"
+				item: { count: 1, id: "relics_rpgs:medium_proc_ranged_damage" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			id: "04CB2F93B72AB07D"
+			rewards: [{
+				id: "374BA042828F49D4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "70E50465424E49E6"
+				item: { count: 1, id: "relics_rpgs:medium_proc_defense" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			id: "3E7B105CDF9CEBAE"
+			rewards: [{
+				id: "16A87F7A095DDEDD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5332CA18EEE10785"
+				item: { count: 1, id: "relics_rpgs:medium_proc_spell_power" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			id: "1D7A51B161C58F58"
+			rewards: [{
+				id: "3771AF3E0E133C39"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5CEA91FCE19B96F6"
+				item: { count: 1, id: "relics_rpgs:medium_proc_spell_haste" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			id: "2F46BE91C857CA79"
+			rewards: [{
+				id: "56FE64A05B614060"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2BF0464F0B54A502"
+				item: { count: 1, id: "relics_rpgs:medium_proc_arcane_power" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "4A1239E792C228F4"
+			rewards: [{
+				id: "59A6B2D69D2A758B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0CA30A4637478348"
+				item: { count: 1, id: "relics_rpgs:medium_proc_fire_power" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			id: "4E57C6FD7C794481"
+			rewards: [{
+				id: "2B5AEB9A5ADC205D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "411D88118D4CD916"
+				item: { count: 1, id: "relics_rpgs:medium_proc_frost_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			id: "2445EBC0989BDDA1"
+			rewards: [{
+				id: "4D8F91779B2D5ECA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "632C5FC6A87AE5F9"
+				item: { count: 1, id: "relics_rpgs:medium_proc_healing_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "6B2AB7D6A34AFFB0"
+			rewards: [{
+				id: "53391127DED9EEC3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "497E99E2A051E062"
+				item: { count: 1, id: "relics_rpgs:greater_perk_roll_damage" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			id: "5C572D2559F85BF8"
+			rewards: [{
+				id: "076A1741578A155E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4D3765D9EA7D44F3"
+				item: { count: 1, id: "relics_rpgs:greater_perk_melee_stun" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			id: "412374FD5332374B"
+			rewards: [{
+				id: "2433288A0E67CDA6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "274FE2DCB0A12929"
+				item: { count: 1, id: "relics_rpgs:greater_perk_ranged_levitate" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			id: "75A9CC68E96DB135"
+			rewards: [{
+				id: "6DA3438812F9F41D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7B88DDA09B5F54F7"
+				item: { count: 1, id: "relics_rpgs:greater_perk_spell_stun" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			id: "6A791C70A5BCA918"
+			rewards: [{
+				id: "4BBFECA894B0F4DB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7AFF8A8BE772AEC4"
+				item: { count: 1, id: "relics_rpgs:greater_perk_defense_block" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			id: "631433A611401C06"
+			rewards: [{
+				id: "0163E2FA50B824C6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "317E1D6BE187C1EA"
+				item: { count: 1, id: "relics_rpgs:greater_perk_heal_cleanse" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "62828D0CB2E839D2"
+			rewards: [{
+				id: "3F0702D1D9949AA3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "76BACC9B9DCB99AC"
+				item: { count: 1, id: "relics_rpgs:greater_proc_physical_trance" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			id: "24D617E8F203A1F1"
+			rewards: [{
+				id: "0DDB2805B09A1B17"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7347DCF7FC5ACA34"
+				item: { count: 1, id: "relics_rpgs:greater_proc_spell_trance" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			id: "467577EEE4E4D44D"
+			rewards: [{
+				id: "0E7734441D4A4CFF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "59FBCCFA62C979E8"
+				item: { count: 1, id: "relics_rpgs:greater_perk_heal_danger" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			id: "21F1357E4FD26D26"
+			rewards: [{
+				id: "219BEC209EDA1B9E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "58D02C2026D6A7F8"
+				item: { count: 1, id: "relics_rpgs:greater_proc_defense_danger" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			id: "7F8426B4292C33FD"
+			rewards: [{
+				id: "344EA332655F02DA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5E0C503E41679EC3"
+				item: { count: 1, id: "relics_rpgs:superior_use_area_attack_damage" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			id: "1D59DE8CEA04BD9D"
+			rewards: [{
+				id: "73AB0C52610D4C1B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7F9468FC2C2142B3"
+				item: { count: 1, id: "relics_rpgs:superior_use_area_defense_health" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			id: "1C7E391436FD99D6"
+			rewards: [{
+				id: "4A605794E66E26CB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6673A37915F194C4"
+				item: { count: 1, id: "relics_rpgs:superior_use_zone_spell_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			id: "00080DB83ED6FB9A"
+			rewards: [{
+				id: "4CB595C8FCF74F9B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5DE3EFE80AA27CBC"
+				item: { count: 1, id: "relics_rpgs:superior_use_zone_healing_taken" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			id: "007B53670A79C326"
+			rewards: [{
+				id: "024BF4BDE99A83D3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6D22E6BC2089875A"
+				item: { count: 1, id: "more_relics:lesser_proc_earth_nature" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			id: "6D6C912FEA56AD7B"
+			rewards: [{
+				id: "579656C0809B9BE8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "00219F3B896C186B"
+				item: { count: 1, id: "more_relics:lesser_proc_air_water" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			id: "772C87FA25C65509"
+			rewards: [{
+				id: "7D1C11E703C38CCC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1801A49A89E18FBC"
+				item: { count: 1, id: "more_relics:medium_use_nature_power" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "6FCBA048E32DF480"
+			rewards: [{
+				id: "5147A21AE444BC7C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6AA05FF3801EFEE7"
+				item: { count: 1, id: "more_relics:lesser_use_rage" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			id: "2EB58ECA1B07FB03"
+			rewards: [{
+				id: "01B93A8789058533"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2FA0C09A289426A3"
+				item: { count: 1, id: "more_relics:medium_use_air_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			id: "6346AE7C8BF8F661"
+			rewards: [{
+				id: "2006A7D73856DAB3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "24C51AD57A3BC673"
+				item: { count: 1, id: "more_relics:medium_use_earth_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "5361AF8D510B2C59"
+			rewards: [{
+				id: "5D75A50CCA387A0B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2368BEFAA1F7532D"
+				item: { count: 1, id: "more_relics:medium_use_water_power" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			id: "5059E809244E9B09"
+			rewards: [{
+				id: "0FA765A7DE52AE6D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0707CA44E529CC39"
+				item: { count: 1, id: "more_relics:medium_proc_rage" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			id: "3D987395A40EDBC9"
+			rewards: [{
+				id: "5959529399757322"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "641E18BE7CF85347"
+				item: { count: 1, id: "more_relics:medium_proc_lifesteal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			id: "63AB6CDDDB47F47B"
+			rewards: [{
+				id: "1CAED2E620AC3947"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "795200BDF27D2145"
+				item: { count: 1, id: "more_relics:greater_frozen_heart" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			id: "2F65217549830E32"
+			rewards: [{
+				id: "70A460A6BE3050D2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "01B29968509A64ED"
+				item: { count: 1, id: "more_relics:greater_proc_rage" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			id: "38B666777FC40214"
+			rewards: [{
+				id: "236589124E3AF39E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "54BBE9CAC045B686"
+				item: { count: 1, id: "more_relics:greater_kircheis_shard" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			id: "3282F2C98E0E8139"
+			rewards: [{
+				id: "755141B3804B3C20"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3B6802ADC9BE2D85"
+				item: { count: 1, id: "more_relics:greater_madreds_bloodrazor" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			id: "771E6EA23E1F4554"
+			rewards: [{
+				id: "6E1F4D8A517EEAD1"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4158E38BFDD409AE"
+				item: { count: 1, id: "more_relics:greater_liandrys_torment" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			id: "419E1455034687B4"
+			rewards: [{
+				id: "627DA88EA06DCF90"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "17842D1E1AFC8B65"
+				item: { count: 1, id: "more_relics:greater_sunfire_cape" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			id: "16659759B55631BA"
+			rewards: [{
+				id: "18811AE058ED03A9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2814CFC9F5222F40"
+				item: { count: 1, id: "more_relics:superior_mejais_soulstealer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			id: "7D321952202CF439"
+			rewards: [{
+				id: "60D5F7ADBAD6A287"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "05457BB1F63D691E"
+				item: { count: 1, id: "more_relics:superior_zhonyas_hourglass" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			id: "2EFCFDC7A16CF7D1"
+			rewards: [{
+				id: "43A410AFA56FBDD9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "15A5B9D6156A2930"
+				item: { count: 1, id: "more_relics:superior_shurelyas_battlesong" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			id: "4EA3EA8AEFF3FD98"
+			rewards: [{
+				id: "0CCADAE9EACA466D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "23A34931E01D030F"
+				item: { count: 1, id: "more_relics:superior_mikaels_blessing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			id: "22BD4810F5E66774"
+			rewards: [{
+				id: "25E4C3D41BF7293D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7E2B8CDFDF297D30"
+				item: { count: 1, id: "more_relics:superior_guardian_angel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			id: "1C6F5D26E8E8BB19"
+			rewards: [{
+				id: "0D5A335C62FFB318"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0BC0415CF0882487"
+				item: { count: 1, id: "jewelry:unique_crit_ring" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			id: "31C6B861475D5C40"
+			rewards: [{
+				id: "53CADD536090C79F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2343ADA2F148C2DA"
+				item: { count: 1, id: "jewelry:unique_crit_necklace" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "70464D9381AD6063"
+			rewards: [{
+				id: "2D6038666B48AD70"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "626549E93EA3BD9A"
+				item: { count: 1, id: "relics_rpgs:lesser_evasion" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			id: "130B09DD82C53C3C"
+			rewards: [{
+				id: "32779256B1CCB37A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7D415AB87A515BB2"
+				item: { count: 1, id: "relics_rpgs:lesser_melee_crit_chance" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			id: "5BDB63160CED429E"
+			rewards: [{
+				id: "4EA39B48B7C008A8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "461EE2FA4C38B5E9"
+				item: { count: 1, id: "relics_rpgs:lesser_melee_crit_damage" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			id: "0CA970C86165F4F2"
+			rewards: [{
+				id: "5122CEE206D406F2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0BDF94E5E94AE878"
+				item: { count: 1, id: "relics_rpgs:medium_proc_evasion" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			id: "5B0DA0B7CAFE6E83"
+			rewards: [{
+				id: "74D69ECE8FE4505A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "26BB30B60D49447C"
+				item: { count: 1, id: "relics_rpgs:greater_healing_taken" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			id: "1EFD50C4D3A8CE72"
+			rewards: [{
+				id: "58E29A6301967368"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "60ADF5CDC7C5B713"
+				item: { count: 1, id: "relics_rpgs:greater_perk_evasion_attack" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			id: "04315760AA8DB576"
+			rewards: [{
+				id: "6F29DB47FA44F333"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1E01C0087E37EFBE"
+				item: { count: 1, id: "relics_rpgs:greater_perk_shield_reset" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			id: "3A16551687033C62"
+			rewards: [{
+				id: "14EC5FCBB2F87BC5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7F13B18A1DE4E365"
+				item: { count: 1, id: "witcher_rpg:pure_silver" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -6.5d
+		}
+		{
+			id: "364F20322417CDD8"
+			rewards: [{
+				id: "490E62F62C0F65BF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2C60E08A325D104F"
+				item: { count: 1, id: "witcher_rpg:rose_of_remembrance" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			id: "30A82A16E4E22252"
+			rewards: [{
+				id: "0706B7BB82E45540"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0E4A92E8E0B7AFBA"
+				item: { count: 1, id: "witcher_rpg:crystal_skull" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			id: "3B249D986FA7F9BB"
+			rewards: [{
+				id: "598E92EC2942369C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4EBBE142B0B035E0"
+				item: { count: 1, id: "witcher_rpg:sunstone" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			id: "063BACC09BBE9FD3"
+			rewards: [{
+				id: "6CF52F7E193889C7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0AF5A9F8C353049D"
+				item: { count: 1, id: "additional_rpg_jewelry:vampire_necklace" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "1A90A2735D22B32E"
+			rewards: [{
+				id: "4A8252E8D06EAE04"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7DA1063AEC8A1EFB"
+				item: { count: 1, id: "additional_rpg_jewelry:vampire_ring" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			id: "6EE44966E18F84D7"
+			rewards: [{
+				id: "1EFF57D74324FDE2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1DE09E74DE21E721"
+				item: { count: 1, id: "jewelry:unique_spell_ring" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			id: "670E461C7E11091A"
+			rewards: [{
+				id: "4B3E66B2BD0F8551"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "145A1F30B7DA8C70"
+				item: { count: 1, id: "jewelry:unique_spell_necklace" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			id: "682CDD643BA742BC"
+			rewards: [{
+				id: "57C596228E745F8F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6EEA969FBFEC051A"
+				item: { count: 1, id: "additional_rpg_jewelry:spell_vampire_ring" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			id: "3ACB2B1556BCDC66"
+			rewards: [{
+				id: "20C44E30A1F1AFDC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7CA1B1E3633542EB"
+				item: { count: 1, id: "additional_rpg_jewelry:spell_vampire_necklace" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			id: "4FFA20CEB9350E97"
+			rewards: [{
+				id: "072460AE1304AAF8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2AD4976DA9285B4B"
+				item: { count: 1, id: "jewelry:diamond_ring" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+	]
+}

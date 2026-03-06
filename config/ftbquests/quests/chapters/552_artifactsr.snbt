@@ -1,0 +1,3032 @@
+{
+	autofocus_id: "07214EC4DCA862D6"
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "552_artifactsr"
+	group: "5B360DBC17246D58"
+	id: "5547D6640FFF7808"
+	images: [
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/hat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/shoes"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/necklace"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/charm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/wrist"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/hand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/cape"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/back"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/belt"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "accessories:gui/slot/ring"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.5d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 1.7d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.7d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/ability/page_counter.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"618514E268C1DE60"
+				"1B870D8371DD71B1"
+				"2FC87B023F42DF7C"
+				"3D09CFBADE7AC425"
+				"1B1A3284A9DD292A"
+				"2E1F794A9F798903"
+				"62EC17804F39952A"
+				"045F36B8DD45EB67"
+				"305AA58C72F2073C"
+				"2CCE93282049931E"
+				"1E7B03DE4D6FC828"
+				"725044DFD7C9F6BD"
+				"1E0F2250B06C4937"
+				"402900F8863CD835"
+				"4DD07546473089DC"
+				"11CCDCDAE8F2C117"
+				"41AEFDD1F4DEB6E8"
+				"0CED5B6FACF46DCB"
+				"7B8B800A1F583A8B"
+				"0118A8E3A8668F0D"
+				"6A434A22D1CFF099"
+				"72738D88C53EB3BF"
+				"3BF6EBF16522C644"
+				"6213BB50D28817E4"
+				"6F8DBCA5D79FBEF2"
+				"5DEC98F803211A4E"
+				"1925B39E1F0F5A8F"
+				"03D3EC3AB974F7D4"
+				"36B89AC44DA82551"
+				"2815CE2261DC53DC"
+				"2513F7D844147EE1"
+				"528467BE69527B07"
+				"494EB6A11DDB3460"
+				"5A873C673F4CC391"
+				"604F3CBB4A73CC89"
+				"30701C02D2D38702"
+				"6082FB25CBCE2CA5"
+				"3CDFE6B52A2DAC10"
+				"1920EE361571CE99"
+				"15A64A5FF3BE888D"
+				"6111ABD8757D2167"
+				"643DA2B96A4DF782"
+				"0E5627A7EB0A453B"
+				"471E7DE00D4B324D"
+				"68E637F2D86A76FB"
+				"2A4BC4EBE23C51CC"
+				"28B2F240FF681FEF"
+				"026A76D7747C4D54"
+				"301D8E247D7E159B"
+				"16CEA8D1C0DF0816"
+				"5E8B37EDE9DEC36E"
+				"676C8313FD177091"
+				"54C71ACE33D504DA"
+				"75DF9F319A56A8C9"
+				"6C14BF2ECC3023D3"
+				"08FF6AEAA615599C"
+				"3ABB7FB2C8A17FA9"
+				"145A3BDE3680EBB5"
+				"2E26E5A9F40320F8"
+				"59A3138D580F344B"
+				"25C8320FFA0F2C83"
+				"065D1CB27AB7A9D1"
+				"02283B3BBD272BF0"
+				"2E43FC425C58E0AD"
+				"166E2B6F5B48CD62"
+				"652F1D1C66B6D2E8"
+				"4FFE0E0B33B3F1A9"
+				"4C4C3389200BB777"
+				"27F6C83D2E5FCB07"
+				"2E701B5B9F402158"
+				"196947E3A257A8DC"
+				"324ADFBF1CBEF415"
+				"448FD45E7809D63A"
+				"138A4903F7084777"
+				"22288B439B449C87"
+				"7FAD8F7B6746BFB2"
+				"500BB47E95AB0895"
+				"3324B168E7B5C743"
+				"0E431E4D8CE7E044"
+				"67F5580ABC6CE3E3"
+				"4C719487F7C24F5C"
+				"4EBABFE4F6ACC0D3"
+				"7AB1AD62603DEF19"
+				"4B868C097EB0DE95"
+				"7CDEB1057D94FAE2"
+				"18D35A207415DD12"
+				"7D64F8A57A3CF717"
+				"4FEEBB90D1A6E3F1"
+				"7D2488FCF99BBAD5"
+				"2D5A38BAFA6193AE"
+				"1D0DFC0FDA997EB1"
+				"2F7A6C7A52D58B9D"
+				"6EF9084C50FFF441"
+				"12209CB723059BD4"
+				"6E25982D2A7D08E1"
+				"020B7B2357B7A3C8"
+				"6BD748655B2F6ED5"
+				"4E641B0EE220AD48"
+				"4F0AB4C253CBEFE4"
+				"7001417B620ED121"
+				"7ABB2DC395751277"
+				"512C8D2DDE6BAD03"
+				"647A561EFBC20ED6"
+				"6D41002A1C4E9A3A"
+				"1BB5224DDE7675E9"
+				"137463BABD7BF92D"
+				"64DD3D9636F2774E"
+				"4EB345AF8D842C3D"
+				"5F3D895BC0EC1822"
+				"6FD898DC30728864"
+				"413CF26ED6D535CD"
+				"0D6F8ECFBE3D119F"
+				"375C77D45A530B46"
+				"6131B8BB2C71E932"
+				"7A130CF6BF834957"
+				"32D83D0E4EF60C30"
+				"548DF9D1A72B01AD"
+				"270828C3DFEB271C"
+				"21EBD123010CE16F"
+				"5CB65271F239F054"
+			]
+			hide_dependency_lines: true
+			icon_scale: 2.0d
+			id: "07214EC4DCA862D6"
+			rewards: [
+				{
+					id: "63974E9E0CAEF94C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 64
+					id: "092BB039168FDB88"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "6359F3984969E964"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1B870D8371DD71B1"
+			rewards: [{
+				id: "54BF9A03D669FD54"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "615AE9AA7333B3E9"
+				item: { components: { "relics:data": { abilities: { abilities: { glider: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 1.69903d }, count: { initialValue: 2.45791d } } }, shield: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { knockback: { initialValue: 1.0629d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:umbrella" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "2FC87B023F42DF7C"
+			rewards: [{
+				id: "0FB25AA5ED7AC70B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "019A6F3E0149DEB4"
+				item: { count: 1, id: "artifacts:eternal_steak" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "643DA2B96A4DF782"
+			rewards: [{
+				id: "540FF075818B6BA7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "04FFB919FE0095A6"
+				item: { components: { "relics:data": { abilities: { abilities: { drinking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.38281d } } }, nutrition: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { hunger: { initialValue: 2.02225d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:plastic_drinking_hat" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "6111ABD8757D2167"
+			rewards: [{
+				id: "066D34E42E4D18B6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "095B219EE387F551"
+				item: { components: { "relics:data": { abilities: { abilities: { drinking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.30558d } } }, nutrition: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { hunger: { initialValue: 2.40299d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:novelty_drinking_hat" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			id: "0E5627A7EB0A453B"
+			rewards: [{
+				id: "3590624A1D705C70"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "047E199147A7B7BC"
+				item: { components: { "relics:data": { abilities: { abilities: { diving: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 5.49262d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:snorkel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			id: "471E7DE00D4B324D"
+			rewards: [{
+				id: "27841EB2CE48F679"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "367CCE11C8A6F7C5"
+				item: { components: { "relics:data": { abilities: { abilities: { vision: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.11527d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:night_vision_goggles" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			id: "28B2F240FF681FEF"
+			rewards: [{
+				id: "52BC81B4E0746169"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "440D75BD946F2BF3"
+				item: { components: { "relics:data": { abilities: { abilities: { discount: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { multiplier: { initialValue: 19.30576d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:villager_hat" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "2A4BC4EBE23C51CC"
+			rewards: [{
+				id: "11B92753FD36439E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "31F0FA1AE9E50346"
+				item: { components: { "relics:data": { abilities: { abilities: { looting: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.15252d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:superstitious_hat" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "68E637F2D86A76FB"
+			rewards: [{
+				id: "3E8FDD19BCE89848"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4CA51EB64254D77B"
+				item: { components: { "relics:data": { abilities: { abilities: { cowboy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.26053d } } }, overlord: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { time: { initialValue: 2.05028d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:cowboy_hat" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "026A76D7747C4D54"
+			rewards: [{
+				id: "7A13E4119A4AEC4D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "46C2138A33C2FBD0"
+				item: { components: { "relics:data": { abilities: { abilities: { catch: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.15198d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:anglers_hat" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			id: "528467BE69527B07"
+			rewards: [{
+				id: "70D08062707612BB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "25F2B0747E48D834"
+				item: { components: { "relics:data": { abilities: { abilities: { luck: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.13875d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:lucky_scarf" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "494EB6A11DDB3460"
+			rewards: [{
+				id: "538D70C162E699A7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "623FC9BE63AD126F"
+				item: { components: { "relics:data": { abilities: { abilities: { invisible: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { time: { initialValue: 110.8299d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:scarf_of_invisibility" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			id: "5A873C673F4CC391"
+			rewards: [{
+				id: "3114BAE1830CFA27"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "412BB6E675F76533"
+				item: { components: { "relics:data": { abilities: { abilities: { invulnerability: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.417d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:cross_necklace" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "604F3CBB4A73CC89"
+			rewards: [{
+				id: "372ED3839092B910"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "318BCEE09D1568B6"
+				item: { components: { "relics:data": { abilities: { abilities: { panic: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { movement: { initialValue: 0.18665d }, radius: { initialValue: 6.16865d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:panic_necklace" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "30701C02D2D38702"
+			rewards: [{
+				id: "17F26444D72A6D12"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7E1E6DB2348FEA0A"
+				item: { components: { "relics:data": { abilities: { abilities: { poison: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.11927d }, multiplier: { initialValue: 0.13032d }, time: { initialValue: 2.36024d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:thorn_pendant" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "1920EE361571CE99"
+			rewards: [{
+				id: "1355100CAEE382BB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6982AFACD567F5CA"
+				item: { components: { "relics:data": { abilities: { abilities: { dipping: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { air: { initialValue: 0.29346d } } }, dive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:charm_of_sinking" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "15A64A5FF3BE888D"
+			rewards: [{
+				id: "327B3452DDC8EB95"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "02D1E9048B67757D"
+				item: { components: { "relics:data": { abilities: { abilities: { shrinking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { multiplier: { initialValue: 0.29179d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:charm_of_shrinking" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "6213BB50D28817E4"
+			rewards: [{
+				id: "4FBFB40F1603FBF8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7C3C6680AB25ACDD"
+				item: { components: { "relics:data": { abilities: { abilities: { jump: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { count: { initialValue: 2.3647d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:cloud_in_a_bottle" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			id: "6F8DBCA5D79FBEF2"
+			rewards: [{
+				id: "04013AFBAC80CFE0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "626D6B76BDF7FA02"
+				item: { components: { "relics:data": { abilities: { abilities: { hell: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 45.85136d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:obsidian_skull" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			id: "5DEC98F803211A4E"
+			rewards: [{
+				id: "623360F428DE68D9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6DD13412A17B582B"
+				item: { components: { "relics:data": { abilities: { abilities: { antidote: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.38595d } } }, devourer: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 1.01312d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:antidote_vessel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			id: "1925B39E1F0F5A8F"
+			rewards: [{
+				id: "76F8A5D2A9ED0E3A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2F6D34CB05327738"
+				item: { components: { "relics:data": { abilities: { abilities: { attractor: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { radius: { initialValue: 4.50052d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:universal_attractor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "03D3EC3AB974F7D4"
+			rewards: [{
+				id: "21409079C2BB9ED5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1B68D81FC6C977F5"
+				item: { components: { "relics:data": { abilities: { abilities: { heart: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 3.9307d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:crystal_heart" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			id: "36B89AC44DA82551"
+			rewards: [{
+				id: "6FD6CB8A1F52D337"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "283EC2DEFE8E337A"
+				item: { components: { "relics:data": { abilities: { abilities: { flying: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.22608d }, time: { initialValue: 3.09487d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:helium_flamingo" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.5d
+		}
+		{
+			id: "2815CE2261DC53DC"
+			rewards: [{
+				id: "12650E9EB356571B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6E037919BD721F2C"
+				item: { components: { "relics:data": { abilities: { abilities: { past: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.02508d }, radius: { initialValue: 6.21803d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:chorus_totem" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			id: "2513F7D844147EE1"
+			rewards: [{
+				id: "22A6E2B68B76536C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "396DA1439A756E04"
+				item: { components: { "relics:data": { abilities: { abilities: { teleport: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 91.09542d }, distance: { initialValue: 7.25259d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:warp_drive" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			id: "402900F8863CD835"
+			rewards: [{
+				id: "6513B18F79C339C9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0E04523A98BB09EE"
+				item: { components: { "relics:data": { abilities: { abilities: { fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.1645d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			id: "4DD07546473089DC"
+			rewards: [{
+				id: "3770AE1A73FB3C4F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "26D311A09B6D5156"
+				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.13555d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:feral_claws" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "0CED5B6FACF46DCB"
+			rewards: [{
+				id: "6E7018B063B24FE3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "028F51245723E7B0"
+				item: { components: { "relics:data": { abilities: { abilities: { power: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.94434d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:power_glove" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			id: "41AEFDD1F4DEB6E8"
+			rewards: [{
+				id: "29240923C5F1CB10"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7AC1974578C15BC0"
+				item: { components: { "relics:data": { abilities: { abilities: { caster: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.20677d }, damage: { initialValue: 0.10046d }, duration: { initialValue: 45.34842d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:fire_gauntlet" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			id: "7B8B800A1F583A8B"
+			rewards: [{
+				id: "0E5CA7D087259A64"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "73D2C7059D34315E"
+				item: { components: { "relics:data": { abilities: { abilities: { discarding: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { interaction: { initialValue: 0.22844d } } }, interaction: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { range: { initialValue: 0.32004d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:pocket_piston" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			id: "11CCDCDAE8F2C117"
+			rewards: [{
+				id: "293CD9CED04E97C0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3DC77DB967D1DD29"
+				item: { components: { "relics:data": { abilities: { abilities: { vampire: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.10867d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:vampiric_glove" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			id: "0118A8E3A8668F0D"
+			rewards: [{
+				id: "7AFB58018D5C9C09"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5D9551494ABAD25F"
+				item: { components: { "relics:data": { abilities: { abilities: { hook: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.2427d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:golden_hook" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			id: "6A434A22D1CFF099"
+			rewards: [{
+				id: "49D80538B36EF153"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "634753231D8C8267"
+				item: { components: { "relics:data": { abilities: { abilities: { onion: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.01316d } } }, saturation: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.12456d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:onion_ring" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			id: "72738D88C53EB3BF"
+			rewards: [{
+				id: "3444074919E302B1"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "68A5DDCC3964CE5C"
+				item: { components: { "relics:data": { abilities: { abilities: { heater: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { capacity: { initialValue: 24.64702d }, duration: { initialValue: 134.5471d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:pickaxe_heater" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			id: "3BF6EBF16522C644"
+			rewards: [{
+				id: "62731A75BB721BB8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3C6BF379F4FBD969"
+				item: { components: { "relics:data": { abilities: { abilities: { passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, withered: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.37666d }, time: { initialValue: 2.1821d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:withered_bracelet" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "1B1A3284A9DD292A"
+			rewards: [{
+				id: "05B6470D51E8DDF8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0E794EA4B19701E3"
+				item: { count: 1, id: "artifacts:aqua_dashers" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "2E1F794A9F798903"
+			rewards: [{
+				id: "577316070C90FF21"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "740C4186CED57B35"
+				item: { components: { "relics:data": { abilities: { abilities: { hold: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 3.25416d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:bunny_hoppers" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "62EC17804F39952A"
+			rewards: [{
+				id: "1B45E4481E20A18C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5E90FE95CCD600F8"
+				item: { components: { "relics:data": { abilities: { abilities: { fall: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 3.60455d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, resurrected: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.06492d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:kitty_slippers" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "045F36B8DD45EB67"
+			rewards: [{
+				id: "1F88E006EDF85EFF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "484CD27A7BC62637"
+				item: { components: { "relics:data": { abilities: { abilities: { runner: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.54508d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:running_shoes" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "305AA58C72F2073C"
+			rewards: [{
+				id: "46F3F5BE30150B4A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "11BB81F7D9D20A54"
+				item: { components: { "relics:data": { abilities: { abilities: { passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, speed: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.33887d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:snowshoes" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "2CCE93282049931E"
+			rewards: [{
+				id: "75F2AF94FB088563"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0EA23051D301EA62"
+				item: { components: { "relics:data": { abilities: { abilities: { passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, resistance: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.26789d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:steadfast_spikes" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "1E7B03DE4D6FC828"
+			rewards: [{
+				id: "3F7B05324C0CCBCD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7B14BED1D2CE5C01"
+				item: { components: { "relics:data": { abilities: { abilities: { swimmer: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.2982d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:flippers" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "725044DFD7C9F6BD"
+			rewards: [{
+				id: "4A31069654E58D8F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "79C3249F1B4A21C2"
+				item: { components: { "relics:data": { abilities: { abilities: { devouring: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { frequency: { initialValue: 127.83636d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:rooted_boots" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "1E0F2250B06C4937"
+			rewards: [{
+				id: "63072900E41B5478"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "217B65DBA5A91B4D"
+				item: { count: 1, id: "artifacts:strider_shoes" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			id: "3D09CFBADE7AC425"
+			rewards: [{
+				id: "58A9EC21728F7EC3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4F6E64CE841107D3"
+				item: { components: { "relics:data": { abilities: { abilities: { push: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.28158d }, radius: { initialValue: 3.48529d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:whoopee_cushion" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			icon_scale: 1.45d
+			id: "618514E268C1DE60"
+			rewards: [
+				{
+					id: "3A488A7B232AC22B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2672496D6E9CEF93"
+					table_id: 2316848059366291616L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				entity: "artifacts:mimic"
+				id: "5E9E6BD965AB036B"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			hide_dependency_lines: true
+			id: "3CDFE6B52A2DAC10"
+			rewards: [{
+				id: "0CF5D7FB7014851A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "328FE38BADD9B26E"
+				item: { components: { "relics:data": { abilities: { abilities: { lightning: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.11048d }, damage: { initialValue: 2.98759d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:shock_pendant" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			hide_dependency_lines: true
+			id: "6082FB25CBCE2CA5"
+			rewards: [{
+				id: "7F3B4DD2625615CB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "145FFE43A4F430EA"
+				item: { components: { "relics:data": { abilities: { abilities: { fire: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.27558d }, time: { initialValue: 2.36938d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:flame_pendant" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			id: "5F3D895BC0EC1822"
+			rewards: [{
+				id: "7B43C08B7843714D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "06F9053B1D956C02"
+				item: { components: { "relics:data": { abilities: { abilities: { glowing_scour: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 16.24592d }, glowing_time: { initialValue: 11.85519d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:scouring_eye" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			id: "4EB345AF8D842C3D"
+			rewards: [{
+				id: "01891C716552E883"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "439F53435FC26629"
+				item: { components: { "relics:data": { abilities: { abilities: { spawn_vortex: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 28.24243d }, damage: { initialValue: 6.45573d }, height: { initialValue: 3.54106d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_vortex_in_bottle" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			id: "7D64F8A57A3CF717"
+			rewards: [{
+				id: "17EB33F87C68A734"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "45837BDFCDEE8643"
+				item: { components: { "relics:data": { abilities: { abilities: { seismic_zone: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.42143d }, radius: { initialValue: 2.78503d }, waves: { initialValue: 2.77208d } } }, void_invulnerability: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, void_rune: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 17.86292d }, damage: { initialValue: 1.41952d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_cloak" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			id: "59A3138D580F344B"
+			rewards: [{
+				id: "3F79D523DD6AD2A7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "11D17610B35B3622"
+				item: { components: { "relics:data": { abilities: { abilities: { vacuum_slowdown: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { radius: { initialValue: 6.45583d }, slowdown: { initialValue: 0.3324d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:vacuum_glove" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			id: "3324B168E7B5C743"
+			rewards: [{
+				id: "0BC591CBED71FBA3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "40BB37E8B9EBADCB"
+				item: { components: { "relics:data": { abilities: { abilities: { protective_bubble: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { attack_blocks: { initialValue: 2.62353d }, cooldown: { initialValue: 25.77036d }, damage: { initialValue: 0.55538d }, projectiles: { initialValue: 18.2664d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_lenders_cataclysm:void_bubble" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "020B7B2357B7A3C8"
+			rewards: [{
+				id: "7F0FF0D23631B4EA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "181114BD71A9BD59"
+				item: { components: { "relics:data": { abilities: { abilities: { healing: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { heal_amount: { initialValue: 0.01258d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:bustling_fungus" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			id: "6BD748655B2F6ED5"
+			rewards: [{
+				id: "3D27188C9D9ED554"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1102DD7D2B18BD73"
+				item: { components: { "relics:data": { abilities: { abilities: { attack_speed: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { attack_speed: { initialValue: 0.08221d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:soldier_syringe" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			id: "166E2B6F5B48CD62"
+			rewards: [{
+				id: "040788015331FA3F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "28436355BED1CB24"
+				item: { components: { "relics:data": { abilities: { abilities: { speed_boost: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { sprint_multiplier: { initialValue: 0.18827d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:energy_drink" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			id: "16CEA8D1C0DF0816"
+			rewards: [{
+				id: "53D4A4CF48323AA7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "58BABE1AA878915B"
+				item: { components: { "relics:data": { abilities: { abilities: { heavy_hitter: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { bonus_damage_multiplier: { initialValue: 0.81097d } } }, pry_it_open: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:crowbar" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "2D5A38BAFA6193AE"
+			rewards: [{
+				id: "69D33D7A67CF3B08"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0D68B5D4885C7730"
+				item: { components: { "relics:data": { abilities: { abilities: { lightning_chain: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage_percentage: { initialValue: 0.39815d }, max_distance: { initialValue: 5.68798d }, max_targets: { initialValue: 3.92106d }, proc_chance: { initialValue: 0.16515d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:ukulele" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			id: "4E641B0EE220AD48"
+			rewards: [{
+				id: "60D70AC33E40F042"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "22F95694A1B3C49E"
+				item: { components: { "relics:data": { abilities: { abilities: { woah: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { boost_amount: { initialValue: 0.99098d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:wax_quail" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			id: "4F0AB4C253CBEFE4"
+			rewards: [{
+				id: "5F83DDD0D714701A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "051EC8B3ACFF78B0"
+				item: { components: { "relics:data": { abilities: { abilities: { ice_storm: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage_percentage: { initialValue: 0.88068d }, max_radius: { initialValue: 7.97941d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:frost_relic" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			id: "7001417B620ED121"
+			rewards: [{
+				id: "200C4DDF321E788B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "286717C0E94B2441"
+				item: { components: { "relics:data": { abilities: { abilities: { agility: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:katana_trinket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "7ABB2DC395751277"
+			rewards: [{
+				id: "5F30367F47931FFF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5E7418917EF458A1"
+				item: { components: { "relics:data": { abilities: { abilities: { try_again: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { extra_rolls: { initialValue: 1.0d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:platinum_horseshoe" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			id: "5E8B37EDE9DEC36E"
+			rewards: [{
+				id: "0D005B75FB2E6283"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6ED95926638BD796"
+				item: { count: 1, id: "relicsofrain:broken_mirror" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "301D8E247D7E159B"
+			rewards: [{
+				id: "56CFB999593170D6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "40F200D5F4F40F80"
+				item: { components: { "relics:data": { abilities: { abilities: { mutation: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { curio_amount: { initialValue: 1.0d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:unlabeled_syringe" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "512C8D2DDE6BAD03"
+			rewards: [{
+				id: "16F58833B723BCEC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "72A834F002635957"
+				item: { components: { "relics:data": { abilities: { abilities: { 1up: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { attribute_modifier: { initialValue: 0.01858d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relicsofrain:irradiant_pearl" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			id: "676C8313FD177091"
+			rewards: [{
+				id: "50A30B74DE2915B5"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [
+				{
+					id: "77EE5BEBE30F3C0F"
+					item: { count: 1, id: "reliquified_twilight_forest:absorption_gem" }
+					type: "item"
+				}
+				{
+					id: "2F69BBAB2D94934E"
+					item: { count: 1, id: "reliquified_twilight_forest:necromancy_gem" }
+					type: "item"
+				}
+				{
+					id: "2BA2139208AF1510"
+					item: { count: 1, id: "reliquified_twilight_forest:shielding_gem" }
+					type: "item"
+				}
+				{
+					id: "2FEF3C02D3FA194C"
+					item: { count: 1, id: "reliquified_twilight_forest:twilight_gem" }
+					type: "item"
+				}
+				{
+					id: "0A9C8D36BE42585E"
+					item: { count: 1, id: "reliquified_twilight_forest:frost_gem" }
+					type: "item"
+				}
+				{
+					id: "6471B9FDBA841A4B"
+					item: { count: 1, id: "reliquified_twilight_forest:carminite_gem" }
+					type: "item"
+				}
+				{
+					id: "4C5DAFC85A1AE0CA"
+					item: { count: 1, id: "reliquified_twilight_forest:vengeful_gem" }
+					type: "item"
+				}
+				{
+					id: "13B1EBB9243EE514"
+					item: { count: 1, id: "reliquified_twilight_forest:frenzy_gem" }
+					type: "item"
+				}
+				{
+					id: "6776510BF0C1CE76"
+					item: { count: 1, id: "reliquified_twilight_forest:ether_gem" }
+					type: "item"
+				}
+				{
+					id: "3EBCBF0D50DFDF75"
+					item: { count: 1, id: "reliquified_twilight_forest:fire_gem" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "0E431E4D8CE7E044"
+			rewards: [{
+				id: "2F43CE46186E5DE5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5EB3304823A38F97"
+				item: { components: { "relics:data": { abilities: { abilities: { biome_burn: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { multiplier: { initialValue: 0.03621d } } }, bone_pact: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, ethereal_guard: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 211.87966d }, max_projectiles: { initialValue: 4.6583d } } }, fortification: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { interval: { initialValue: 181.66577d }, max_shields: { initialValue: 4.48328d } } }, frenzy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { additive_multiplier: { initialValue: 0.0494d } } }, frostbite: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 93.24934d } } }, lifedrain: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { heal_percentage: { initialValue: 0.01349d }, interval: { initialValue: 275.96638d }, radius: { initialValue: 2.82493d } } }, mirror_leech: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.05432d } } }, soulbound_gems: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { gem_amount: { initialValue: 2.56679d } } }, twilight: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 3.20249d }, speed_scale: { initialValue: 0.94277d } } }, twilight_sovereign: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, vendetta: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { lifetime: { initialValue: 7.88803d }, multiplier: { initialValue: 0.29978d } } }, zombie: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 2.59649d }, interval: { initialValue: 348.74498d }, max_zombies: { initialValue: 1.07646d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:lich_crown" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "4EBABFE4F6ACC0D3"
+			rewards: [{
+				id: "13458563D2502FE4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5FAACED15B846726"
+				item: { components: { "relics:data": { abilities: { abilities: { hydra_fire: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.19427d }, damage: { initialValue: 1.52001d }, lifetime: { initialValue: 92.99339d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:hydra_heart" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			id: "652F1D1C66B6D2E8"
+			rewards: [{
+				id: "7A790458D0638890"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "379B57CEE424F3AA"
+				item: { components: { "relics:data": { abilities: { abilities: { momentum_rush: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.44642d }, damage_reduction: { initialValue: 0.26333d }, max_speed_multiplier: { initialValue: 0.28421d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:minotaur_hoof" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			id: "67F5580ABC6CE3E3"
+			rewards: [{
+				id: "5B1CD75180704B62"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "74B40260C5EBE850"
+				item: { components: { "relics:data": { abilities: { abilities: { ride_along: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { entity_volume: { initialValue: 0.86091d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:deer_antler" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "4FEEBB90D1A6E3F1"
+			rewards: [{
+				id: "67D355D1C2CBB2CE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3F53189C536CF8D2"
+				item: { components: { "relics:data": { abilities: { abilities: { elusive_stare: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.15941d } } }, wall_crawler: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { max_time: { initialValue: 63.67825d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:scaled_cloak" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			id: "64DD3D9636F2774E"
+			rewards: [{
+				id: "0E27C3752488DCD1"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3E172BB5E19D9A11"
+				item: { components: { "relics:data": { abilities: { abilities: { cicada_infestation: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.11471d }, duration: { initialValue: 69.40303d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:cicada_bottle" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			id: "7D2488FCF99BBAD5"
+			rewards: [{
+				id: "1CC35AF0E8B1D549"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "08469D393D826D10"
+				item: { components: { "relics:data": { abilities: { abilities: { iron_guard: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.18106d }, damage: { initialValue: 5.02684d }, flat_armor: { initialValue: 0.27369d }, stun_duration: { initialValue: 14.34881d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:steel_cape" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			id: "137463BABD7BF92D"
+			rewards: [{
+				id: "0CC664D658EE70CC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "436CE72EEF3730CC"
+				item: { components: { "relics:data": { abilities: { abilities: { glowkeeper: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 165.24385d }, max_charges: { initialValue: 2.10373d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:firefly_queen" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			id: "4C719487F7C24F5C"
+			rewards: [{
+				id: "784453E4C9D89B88"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2ABD9017604E48E8"
+				item: { components: { "relics:data": { abilities: { abilities: { poking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.67018d }, paralyze_chance: { initialValue: 0.06673d }, paralyze_duration: { initialValue: 18.65471d } } }, thorn_shield: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:thorn_crown" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "7AB1AD62603DEF19"
+			rewards: [{
+				id: "5BD8D7D95F8E9800"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "64970B950E0D0A9E"
+				item: { components: { "relics:data": { abilities: { abilities: { vein_seeker: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { filter_slots: { initialValue: 0.0d }, radius: { initialValue: 7.68677d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:goblin_nose" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "1D0DFC0FDA997EB1"
+			rewards: [{
+				id: "2EB2AD9D66B2746F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "693318B2504BC246"
+				item: { components: { "relics:data": { abilities: { abilities: { charm_storage: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { max_slots: { initialValue: 1.9575d }, repair_time: { initialValue: 28.18556d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:charm_backpack" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			id: "1BB5224DDE7675E9"
+			rewards: [{
+				id: "2E35228E0A7AB000"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "77C02DB4F8BF923E"
+				item: { components: { "relics:data": { abilities: { abilities: { execution: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.00707d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:twilight_feather" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			id: "25C8320FFA0F2C83"
+			rewards: [{
+				id: "4479EC900CAC3ADE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "43D48E3E1E8AEDC9"
+				item: { components: { "relics:data": { abilities: { abilities: { oversized_grip: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { multiplier: { initialValue: 0.12287d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:giant_glove" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			id: "2F7A6C7A52D58B9D"
+			rewards: [{
+				id: "1AF96579B46D2C36"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3DAF701DC825772B"
+				item: { components: { "relics:data": { abilities: { abilities: { effect_stacking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { max_amplifier: { initialValue: 3.42009d } } }, wool_storage: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 259.24037d }, max_slots: { initialValue: 5.49398d }, max_stack_size: { initialValue: 6.99671d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:chromatic_cloak" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			id: "6D41002A1C4E9A3A"
+			rewards: [{
+				id: "2B1F798B0199E8D4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5C8155A025AA10F6"
+				item: { components: { "relics:data": { abilities: { abilities: { sugar_rush: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.14958d }, regen_multiplier: { initialValue: 0.32863d }, regen_time: { initialValue: 143.59017d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:maple_syrup_bottle" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			id: "647A561EFBC20ED6"
+			rewards: [{
+				id: "3EF58CE6F0DF70A8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1696967C4DD29CB1"
+				item: { components: { "relics:data": { abilities: { abilities: { infectious_bloom: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.1188d }, damage: { initialValue: 0.97385d }, drops: { initialValue: 2.97321d }, max_attacks: { initialValue: 2.72591d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:parasite_115" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			id: "6EF9084C50FFF441"
+			rewards: [{
+				id: "4F79A6B7CB38F133"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "035D29429389EF55"
+				item: { components: { "relics:data": { abilities: { abilities: { cosmetic_armor: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, invisibility: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 136.90473d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:invisibility_cloak" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			id: "0D6F8ECFBE3D119F"
+			rewards: [{
+				id: "17860A7229A0FDCA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "02CEBBC9BFC2F3E6"
+				item: { components: { "relics:data": { abilities: { abilities: { infectious_bloom: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.1365d }, damage: { initialValue: 0.96876d }, drops: { initialValue: 4.68966d }, max_attacks: { initialValue: 2.94131d } } }, rage_consumption: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount_restored: { initialValue: 86.00064d }, multiplier: { initialValue: 0.73708d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "reliquified_twilight_forest:parasite_116" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			id: "22288B439B449C87"
+			rewards: [{
+				id: "5E113356B8598C94"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "74EA1FE16F6E3F0D"
+				item: { components: { "relics:data": { abilities: { abilities: { explode: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { capacity: { initialValue: 34.73243d }, damage: { initialValue: 0.37209d }, stun: { initialValue: 0.19203d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:reflection_necklace" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "4FFE0E0B33B3F1A9"
+			rewards: [{
+				id: "57B775B04A9F1DCE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "049825C39EC650DE"
+				item: { components: { "relics:data": { abilities: { abilities: { heat_resistance: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, pace: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { time: { initialValue: 39.07738d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:magma_walker" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "27F6C83D2E5FCB07"
+			rewards: [{
+				id: "4A95F25C58A7378D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "01A4E53515E4A3F8"
+				item: { components: { "relics:data": { abilities: { abilities: { walking: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { time: { initialValue: 49.79956d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:aqua_walker" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "12209CB723059BD4"
+			rewards: [{
+				id: "4AA083249C4B86DF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2002F284516B8ED2"
+				item: { components: { "relics:data": { abilities: { abilities: { backstab: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.51825d }, distance: { initialValue: 16.99567d } } }, vanish: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { light: { initialValue: 1.93686d }, speed: { initialValue: 0.10956d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:midnight_robe" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			id: "2E26E5A9F40320F8"
+			rewards: [{
+				id: "2849D45D0A2982A8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "225A146046C78784"
+				item: { components: { "relics:data": { abilities: { abilities: { anchor: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { sinking: { initialValue: 3.71377d }, slowness: { initialValue: 0.41387d } } }, pressure: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.35721d } } }, riptide: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 9.37367d } } }, slots: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { charm: { initialValue: 1.45486d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:drowned_belt" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			id: "7FAD8F7B6746BFB2"
+			rewards: [{
+				id: "1B62D35986514E74"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3AFE63781704F49D"
+				item: { components: { "relics:data": { abilities: { abilities: { paralysis: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 0.79616d } } }, shock: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.24805d } } }, unsinkable: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:jellyfish_necklace" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "145A3BDE3680EBB5"
+			rewards: [{
+				id: "572EFBD74130B45D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "22B8BF9B480E48CD"
+				item: { components: { "relics:data": { abilities: { abilities: { slots: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { charm: { initialValue: 1.06039d } } }, training: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.78787d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:hunter_belt" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			id: "065D1CB27AB7A9D1"
+			rewards: [{
+				id: "4F4CC2CF00DECC0D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "28C543C5A904C23A"
+				item: { components: { "relics:data": { abilities: { abilities: { phlebotomy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { attack_speed: { initialValue: 0.005d }, heal: { initialValue: 1.8E-4d }, movement_speed: { initialValue: 0.02324d } } }, rage: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { dealt_damage: { initialValue: 0.02933d }, duration: { initialValue: 2.93953d }, incoming_damage: { initialValue: 0.04313d } } }, spurt: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 17.52646d }, damage: { initialValue: 0.24751d }, distance: { initialValue: 5.08182d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:rage_glove" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "4C4C3389200BB777"
+			rewards: [{
+				id: "505A24E305B3E0C1"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0E248CABF6575319"
+				item: { components: { "relics:data": { abilities: { abilities: { ram: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 0.16559d } } }, skating: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 40.57331d }, speed: { initialValue: 0.02239d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:ice_skates" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "4B868C097EB0DE95"
+			rewards: [{
+				id: "61FB8DFD44BBE7AB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4D84EEC7935F6086"
+				item: { components: { "relics:data": { abilities: { abilities: { compass: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, trade: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { rolls: { initialValue: 0.29234d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:bastion_ring" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			id: "7CDEB1057D94FAE2"
+			rewards: [{
+				id: "19AC94E65AA5C629"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2F98D582DEDE0C61"
+				item: { components: { "relics:data": { abilities: { abilities: { blink: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 9.1105d }, distance: { initialValue: 25.13086d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:chorus_inhibitor" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			id: "6C14BF2ECC3023D3"
+			rewards: [{
+				id: "395AC5EB7D580E65"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7715D34309A0BD80"
+				item: { components: { "relics:data": { abilities: { abilities: { dissection: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { distance: { initialValue: 31.39908d }, time: { initialValue: 7.30361d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:space_dissector" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "500BB47E95AB0895"
+			rewards: [{
+				id: "25BED74488AFDBEF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2D259767F6714C38"
+				item: { components: { "relics:data": { abilities: { abilities: { ascension: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 0.5469d }, max_duration: { initialValue: 13.1218d } } }, faith: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 0.3148d }, health: { initialValue: 0.17121d }, radius: { initialValue: 7.42643d } } }, penitence: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.44438d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:holy_locket" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "02283B3BBD272BF0"
+			rewards: [{
+				id: "5F2A6D88BF97BD80"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "10A79AE58A446643"
+				item: { components: { "relics:data": { abilities: { abilities: { neutrality: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } }, swap: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { distance: { initialValue: 27.67498d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:enders_hand" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			id: "6E25982D2A7D08E1"
+			rewards: [{
+				id: "73D7991432898754"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "087E4D807AFA1820"
+				item: { components: { "relics:data": { abilities: { abilities: { boost: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { capacity: { initialValue: 97.49837d }, speed: { initialValue: 1.27049d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:elytra_booster" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			id: "54C71ACE33D504DA"
+			rewards: [{
+				id: "2CE2CF01E8F60E50"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "39BE546A1015110F"
+				item: { components: { "relics:data": { abilities: { abilities: { teleport: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 74.81833d }, distance: { initialValue: 761.44284d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:magic_mirror" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "138A4903F7084777"
+			rewards: [{
+				id: "0C504480D63E129C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6447E1CC2F14CB31"
+				item: { components: { "relics:data": { abilities: { abilities: { impact: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 2.817d }, size: { initialValue: 4.34844d } } }, sustainability: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.67671d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:ice_breaker" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "08FF6AEAA615599C"
+			rewards: [{
+				id: "10C717E0BF38E8D8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "29BBD95E5791D4FC"
+				item: { components: { "relics:data": { abilities: { abilities: { bonfire: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { height: { initialValue: 3.51883d }, speed: { initialValue: 0.01182d }, step: { initialValue: 1.04902d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:blazing_flask" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "6FD898DC30728864"
+			rewards: [{
+				id: "3AD0B50B04197E6B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "278C6F8EE8C0B04D"
+				item: { components: { "relics:data": { abilities: { abilities: { spore_mist: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 4.86199d }, damage: { initialValue: 0.21391d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:spore_sack" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			id: "413CF26ED6D535CD"
+			rewards: [{
+				id: "3E6C309A766E7F96"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2D7A240D2CA76496"
+				item: { components: { "relics:data": { abilities: { abilities: { cloning: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.06563d } } }, mayhem: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { bounces: { initialValue: 2.40804d }, chance: { initialValue: 0.05932d }, damage: { initialValue: 0.16119d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:shadow_glaive" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			id: "448FD45E7809D63A"
+			rewards: [{
+				id: "6E76754C8E192FAA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4448362F50F85556"
+				item: { components: { "relics:data": { abilities: { abilities: { skating: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 21.51405d }, speed: { initialValue: 0.00403d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:roller_skates" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "75DF9F319A56A8C9"
+			rewards: [{
+				id: "38064993EC8FEBAB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "24A55B31974392F5"
+				item: { components: { "relics:charge": 6, "relics:data": { abilities: { abilities: { marinade: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 1.32878d } } }, meat_bat: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.02978d }, stun: { initialValue: 0.20526d } } }, regeneration: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { cooldown: { initialValue: 15.20942d }, feed: { initialValue: 2.7324d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:infinity_ham" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "3ABB7FB2C8A17FA9"
+			rewards: [{
+				id: "49F435AA8C49918F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "02B3CEE09ECE23FB"
+				item: { components: { "relics:data": { abilities: { abilities: { slots: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { charm: { initialValue: 2.40128d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:leather_belt" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			id: "2E43FC425C58E0AD"
+			rewards: [{
+				id: "035C5DADE8FA3E42"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "66B6D728CBB67900"
+				item: { components: { "relics:data": { abilities: { abilities: { mold: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 0.12267d }, freeze: { initialValue: 1.5531d }, size: { initialValue: 18.27066d }, stun: { initialValue: 0.04417d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:wool_mitten" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			id: "2E701B5B9F402158"
+			rewards: [{
+				id: "5E6711B074D7259D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6D473E000B810316"
+				item: { components: { "relics:data": { abilities: { abilities: { gills: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.04057d } } }, slipping: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 21.48725d }, speed: { initialValue: 0.00823d } } }, swimming: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 22.03264d }, speed: { initialValue: 0.0073d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:amphibian_boot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "18D35A207415DD12"
+			rewards: [{
+				id: "0D9562F731880DF5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5A45E009A05018E5"
+				item: { components: { "relics:data": { abilities: { abilities: { hide: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { speed: { initialValue: 0.23738d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:leafy_ring" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			id: "196947E3A257A8DC"
+			rewards: [{
+				id: "6AFCC575A1E43B8B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3A5D3A1E897E5C5B"
+				item: { components: { "relics:data": { abilities: { abilities: { bounce: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { power: { initialValue: 0.30262d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:springy_boot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			id: "324ADFBF1CBEF415"
+			rewards: [{
+				id: "44FB47D02B4A4D3F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "17478B7C9CCD5F7C"
+				item: { components: { "relics:data": { abilities: { abilities: { bridge: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 0.59639d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:phantom_boot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "32D83D0E4EF60C30"
+			tasks: [{
+				id: "3B944F28D383BBE8"
+				item: { count: 1, id: "cataclysm:belt_of_beginner" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.5d
+		}
+		{
+			id: "375C77D45A530B46"
+			tasks: [{
+				id: "17AFDC061AB5AF3F"
+				item: { count: 1, id: "cataclysm:chitin_claw" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			id: "7A130CF6BF834957"
+			tasks: [{
+				id: "40E0F6CF10ADDD9B"
+				item: { count: 1, id: "cataclysm:ring_of_grudged" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			id: "270828C3DFEB271C"
+			tasks: [{
+				id: "0686A0ED941494E5"
+				item: { count: 1, id: "cataclysm:berserker_soul_amulet" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			id: "21EBD123010CE16F"
+			tasks: [{
+				id: "0FBDD4988CDDC787"
+				item: { count: 1, id: "cataclysm:vitality_ankh" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "5CB65271F239F054"
+			tasks: [{
+				id: "0681E9822A062A47"
+				item: { count: 1, id: "cataclysm:unbreakable_skull" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "548DF9D1A72B01AD"
+			tasks: [{
+				id: "7A85838297FF7293"
+				item: { count: 1, id: "cataclysm:sturdy_boots" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "6131B8BB2C71E932"
+			tasks: [{
+				id: "1536D676C26FEAA8"
+				item: { count: 1, id: "cataclysm:blazing_grips" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.5d
+		}
+	]
+}

@@ -1,0 +1,442 @@
+{
+	autofocus_id: "2628183FA4E41D95"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "b48ead42_friends_and_foesr"
+	group: "02892542B4CF1B4D"
+	icon: {
+		id: "friendsandfoes:wildfire_crown"
+	}
+	id: "5DD356F9FEB1CBD8"
+	images: [
+		{
+			height: 0.75d
+			image: "friendsandfoes:item/crab_claw"
+			rotation: 45.0d
+			width: 0.75d
+			x: 0.5d
+			y: -0.3d
+		}
+		{
+			height: 0.75d
+			image: "friendsandfoes:item/crab_claw"
+			rotation: -90.0d
+			width: 0.75d
+			x: -0.4d
+			y: -0.1d
+		}
+		{
+			height: 0.75d
+			image: "minecraft:item/iron_pickaxe"
+			rotation: 0.0d
+			width: 0.75d
+			x: 2.3d
+			y: -0.4d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:block/buttercup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -0.8d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:block/buttercup"
+			rotation: 45.0d
+			width: 1.0d
+			x: 4.7d
+			y: -0.3d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:block/buttercup"
+			rotation: 15.0d
+			width: 1.0d
+			x: 4.4d
+			y: -0.7d
+		}
+		{
+			height: 0.75d
+			image: "minecraft:item/glow_berries"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.7d
+			y: 1.0d
+		}
+		{
+			height: 0.75d
+			image: "minecraft:item/excalibur/eating_animation/glow_berries_eating_0"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.9d
+			y: 1.8d
+		}
+		{
+			height: 0.75d
+			image: "minecraft:item/experience_bottle"
+			rotation: 0.0d
+			width: 0.75d
+			x: -1.4d
+			y: 1.0d
+		}
+		{
+			height: 0.75d
+			image: "minecraft:item/experience_bottle"
+			rotation: -45.0d
+			width: 0.75d
+			x: -1.8d
+			y: 1.1d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/totem_of_freezing"
+			rotation: 45.0d
+			width: 1.0d
+			x: -1.9d
+			y: -1.2d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/totem_of_illusion"
+			rotation: -45.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.3d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/wildfire_crown_fragment"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.6d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/wildfire_crown_fragment"
+			rotation: 180.0d
+			width: 1.0d
+			x: -0.6d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/wildfire_crown_fragment"
+			rotation: 90.0d
+			width: 1.0d
+			x: -0.4d
+			y: -1.4d
+		}
+		{
+			height: 1.0d
+			image: "wizards:textures/spell/fire_meteor.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.3d
+			y: -3.8d
+		}
+		{
+			height: 1.1d
+			image: "minecraft:block/chiseled_tuff_bricks_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.1d
+			image: "minecraft:block/chiseled_copper"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.45d
+			id: "2628183FA4E41D95"
+			rewards: [{
+				id: "4ABDE9B228654C0F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				icon: {
+					id: "friendsandfoes:crab_spawn_egg"
+				}
+				id: "7646D81E1B941453"
+				observe_type: 5
+				timer: 0L
+				to_observe: "friendsandfoes:crab"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon: {
+				id: "friendsandfoes:tuff_golem_spawn_egg"
+			}
+			icon_scale: 1.45d
+			id: "366330ED2A65F12C"
+			rewards: [{
+				id: "779955D1979790E6"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "562C5F2E725B8ACC"
+					item: { count: 1, id: "minecraft:tuff" }
+					type: "item"
+				}
+				{
+					id: "0BA29A4D79A39732"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4CA209AEAEF7A281"
+					item: { count: 1, id: "minecraft:carved_pumpkin" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "07B3964F3394E796"
+			rewards: [{
+				id: "0E11516D3D99073E"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				icon: {
+					id: "friendsandfoes:rascal_spawn_egg"
+				}
+				id: "1A4CD5474086CA97"
+				observe_type: 5
+				timer: 0L
+				to_observe: "friendsandfoes:rascal"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["366330ED2A65F12C"]
+			icon: {
+				id: "friendsandfoes:copper_golem_spawn_egg"
+			}
+			icon_scale: 1.45d
+			id: "408E8A995EED2528"
+			rewards: [{
+				id: "5AA6E4A304519DB4"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "08DDF3964F6FC41F"
+					item: { count: 1, id: "minecraft:copper_block" }
+					type: "item"
+				}
+				{
+					id: "716C92ECF359C787"
+					item: { count: 1, id: "minecraft:carved_pumpkin" }
+					type: "item"
+				}
+				{
+					id: "66AD9806E4BBB885"
+					item: { count: 1, id: "minecraft:lightning_rod" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "3EC90AB7870773D5"
+			rewards: [{
+				id: "278605269078C94A"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				icon: {
+					id: "friendsandfoes:glare_spawn_egg"
+				}
+				id: "3C1FCF70EAF837E7"
+				observe_type: 5
+				timer: 0L
+				to_observe: "friendsandfoes:glare"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "303BD7982C822C94"
+			rewards: [
+				{
+					id: "60F0FDBEE4400BE1"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "542A41F2117ECF53"
+					table_id: 2683275586397622623L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "friendsandfoes:iceologer"
+				id: "38210715805433B2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["07B3964F3394E796"]
+			icon_scale: 1.45d
+			id: "39ADA346211B8CD0"
+			rewards: [{
+				id: "78FDE62FA5E64A7A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				icon: {
+					id: "friendsandfoes:moobloom_spawn_egg"
+				}
+				id: "4F0D952CB6CB675B"
+				observe_type: 5
+				timer: 0L
+				to_observe: "friendsandfoes:moobloom"
+				type: "observation"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "6173CE039D7DECF9"
+			rewards: [
+				{
+					id: "15E1D9A77ACBF822"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "374DC71BE04564EF"
+					table_id: 2316848059366291616L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "friendsandfoes:wildfire"
+				id: "67DEB9CC2207E8B8"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6173CE039D7DECF9"]
+			icon_scale: 1.45d
+			id: "3B1AD8B7AECEED7A"
+			rewards: [
+				{
+					id: "35FE526B036F3DF8"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "141A119D9A14F2F4"
+					item: {
+						count: 1
+						id: "friendsandfoes:music_disc_around_the_corner"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "46334F3E477CE1EE"
+				item: { count: 1, id: "friendsandfoes:wildfire_crown" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "1DA61044BC86E661"
+			rewards: [{
+				id: "508A308F29B462E5"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				icon: {
+					id: "friendsandfoes:mauler_spawn_egg"
+				}
+				id: "536754A087003723"
+				observe_type: 5
+				timer: 0L
+				to_observe: "friendsandfoes:mauler"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2628183FA4E41D95"]
+			icon_scale: 1.45d
+			id: "49DEC81C3C9218A2"
+			rewards: [
+				{
+					id: "013E53661F58C5CE"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "00678CA6F4CBA89F"
+					table_id: 2683275586397622623L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "friendsandfoes:illusioner"
+				id: "10F47A7861E0DFF3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+	]
+}

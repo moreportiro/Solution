@@ -1,0 +1,2382 @@
+{
+	autofocus_id: "098DCB753ED2BE40"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "567_simply_swordsr"
+	group: "5B360DBC17246D58"
+	id: "3EBDF32BAA87BDF2"
+	images: [
+		{
+			height: 1.0d
+			image: "simplymore:item/backhand_blade/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/dagger/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/deer_horns/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/grandsword/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/great_katana/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/great_spear/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/khopesh/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/lance/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/pernach/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplymore:item/quarterstaff/runic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_chakram"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_claymore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_cutlass"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_glaive"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_greataxe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_halberd"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_katana"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_longsword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_rapier"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_sai"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_scythe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_spear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_twinblade"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runic_warglaive"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/excalibur/custom_name/diamond_hammer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "relics:textures/gui/description/experience/gems/square/purple.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.3d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "relics:textures/gui/description/experience/gems/oval/purple.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"43E56A848105D37C"
+				"511ADBB4C1DD6DB0"
+				"06F93033DCADE29E"
+				"7FDDE2DE35CA015F"
+				"0AFEC22C7293AF6D"
+				"70CA408F9AB7237F"
+				"386E049573A0E978"
+				"3F1FEC785B1EE555"
+				"53AE28ADA4CCDC86"
+				"2C26016F872513D6"
+				"30557A8DB8ABEB4D"
+				"3EF64F60431B7E54"
+				"597873CB4D214DEC"
+				"1A643F6BD278ED01"
+				"7A1B43F2CA82815E"
+				"0A805256EB6BFB79"
+				"04101B5464F3F7F9"
+				"18AA9EC52424C6B6"
+				"02D48D9159EA09D1"
+				"500BCD084AAE5CBC"
+				"0C7F9BDDBB6B54DC"
+				"2DA51140E649A6D0"
+				"1E41F532D49C6438"
+				"3A134CD2B677E510"
+				"4014F40BF7B114B5"
+				"40216409A1F15458"
+				"740A7F38C39E8127"
+				"513368BB1A85F635"
+				"1990C1A0AA8E46B7"
+				"47D5704970EAB4D1"
+				"4CE29F8B35F4D1BF"
+				"5BB9BA516E9CCC9F"
+				"4313457CFE28AFBD"
+				"40D654F3E60277C1"
+				"1542A7281A374675"
+				"6E35D1224BF06A92"
+				"098DCB753ED2BE40"
+				"102E01B56FA7A1A2"
+				"6551775442ACE973"
+				"1630DAC6F5B217BA"
+				"6FEAB8D61C887305"
+				"01CF5CFA953E0D6F"
+				"75B67732CA4B4D3A"
+				"3C1453240B7A3059"
+				"54211F059B2DF755"
+				"1B0FFB804180AAF0"
+				"2FECFFCD05FC4058"
+				"4031693654C4BD01"
+				"385BC4AD67C515C6"
+				"1E3732BABBE1B84E"
+				"2ABB2658B0D25FC0"
+				"77E4E3FAE606E7ED"
+				"3EFE8E7D9831EED3"
+				"45D22F686738C71C"
+				"75B90B517F16EF6B"
+				"12428FD1A5439C08"
+				"258B2058D467A4DC"
+				"4D62C5DEBF64FB28"
+				"3B71BBEC2B452DC0"
+				"67F43F512E6946E2"
+				"7AF79BE440A25339"
+				"1F802EDB065D75FD"
+				"230005C0057A46D4"
+				"7894A60002E17E60"
+				"58E9D91FA92FD051"
+				"2FF45E9612F6C128"
+				"632CF3B8019B432F"
+				"400CF8EE57C71EBD"
+				"74692853B6D91DD8"
+				"72CCFFFE50B26618"
+				"7ED1500079B9F20B"
+				"49CDC820FF50D632"
+				"13864EFB3F36D1C1"
+				"6EA09BA758153DED"
+				"40943687F956AA1E"
+				"60E0746B3885879E"
+				"133650D13F9D0DD2"
+				"1342F1A91FDEC22B"
+				"2D1164A2C410BD8F"
+				"251DD984D46096F7"
+				"51F0E36E93D9BAE1"
+			]
+			hide_dependency_lines: true
+			id: "4867934609FD4303"
+			rewards: [
+				{
+					id: "5F1232B235E498F8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 64
+					id: "666CF29162A5E601"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "5DA26D09495A0E54"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6EB654032C00D32C"
+			rewards: [
+				{
+					id: "1372BE9F7328315D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "49BB5CD7BEB242B2"
+					item: {
+						count: 1
+						id: "simplyswords:runic_tablet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A5641439EB11082"
+				item: { count: 1, id: "simplyswords:runic_tablet" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6EB654032C00D32C"]
+			id: "06F93033DCADE29E"
+			rewards: [{
+				id: "61D94FC05B56676C"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "35CF2D0A9D4C9C70"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simplyswords:runic_gear)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A070AC666E9682D"]
+			id: "511ADBB4C1DD6DB0"
+			rewards: [
+				{
+					id: "7666166954FDB67F"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "1F04991BD6496B5D"
+					item: {
+						count: 1
+						id: "simplyswords:runefused_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55F7E483EFB459B6"
+				item: { count: 1, id: "simplyswords:runefused_gem" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A070AC666E9682D"]
+			id: "43E56A848105D37C"
+			rewards: [
+				{
+					id: "3D82E0CEBFB18648"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "4852FFF8A5C18A61"
+					item: {
+						count: 1
+						id: "simplyswords:netherfused_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DE165F36CF48F67"
+				item: { count: 1, id: "simplyswords:netherfused_gem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			id: "098DCB753ED2BE40"
+			rewards: [{
+				id: "174553B55ACA11EA"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "19432C053C5CD959"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:brimstone_claymore" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "5A070AC666E9682D"
+			rewards: [
+				{
+					id: "581B5646C3F7D371"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "31BDF1F44E991396"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7822E094E05A951C"
+				item: { count: 1, id: "simplyswords:empowered_remnant" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "102E01B56FA7A1A2"
+			rewards: [{
+				id: "3B0966AEB8A5796C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "6C44F98DC5221976"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:watcher_claymore" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "6EA09BA758153DED"
+			rewards: [{
+				id: "2F1412F8A90CD532"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3F28B9E31E12BC98"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:storms_edge" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			id: "4D62C5DEBF64FB28"
+			rewards: [{
+				id: "37AB69A9F99168A2"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "739E199F1E4CC499"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:stormbringer" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "58E9D91FA92FD051"
+			rewards: [{
+				id: "53765DB3E0F80C5A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "19F703C0A88C137C"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:bramblethorn" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			id: "133650D13F9D0DD2"
+			rewards: [{
+				id: "40A73536AD761858"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "4A3B609E17A2DC9E"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:watching_warglaive" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			id: "3B71BBEC2B452DC0"
+			rewards: [{
+				id: "14B54E4024BDA681"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "40E70AA09254698E"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:toxic_longsword" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "67F43F512E6946E2"
+			rewards: [{
+				id: "54BB6971011B0E72"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "7F0EB3F14E209188"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:emberblade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			id: "2D1164A2C410BD8F"
+			rewards: [{
+				id: "3F575DE166ECC91F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "68D72BE9CFA9F338"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:hearthflame" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "251DD984D46096F7"
+			rewards: [{
+				id: "62150AE9DC83F593"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "5DE00CCA955A9E48"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:soulkeeper" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			id: "6551775442ACE973"
+			rewards: [{
+				id: "4B61BAD397917BE9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "1F8A4624E19115D6"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:twisted_blade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "632CF3B8019B432F"
+			rewards: [{
+				id: "1C176DED6C43923A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "39C022B19A0C3049"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:soulstealer" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			id: "400CF8EE57C71EBD"
+			rewards: [{
+				id: "5B3720E309985214"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "083386CE4FBF7307"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:soulrender" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "385BC4AD67C515C6"
+			rewards: [{
+				id: "06252E1C4FF4A210"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "2B968F06F340389E"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:soulpyre" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "1342F1A91FDEC22B"
+			rewards: [{
+				id: "58B4578A699F8B70"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "1884088F6CB0AC79"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:frostfall" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "1E3732BABBE1B84E"
+			rewards: [{
+				id: "2F2125E519D04C5A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "0783FCBAD99DEBBC"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" }, "simplyswords:molten_particle": { passive: { type: "minecraft:smoke" }, sprint: { type: "minecraft:falling_lava" }, walk: { type: "minecraft:falling_lava" } } }, count: 1, id: "simplyswords:molten_edge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "2ABB2658B0D25FC0"
+			rewards: [{
+				id: "4B09CAD93EAB8AC9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "789C359624DD86DA"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:livyatan" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "3EFE8E7D9831EED3"
+			rewards: [{
+				id: "4D67F270EE234760"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "0A1D4F7C7C91625A"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:icewhisper" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			id: "45D22F686738C71C"
+			rewards: [{
+				id: "1886C4C835D90873"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "4E1C9EFD1A8796CD"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:arcanethyst" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			id: "75B90B517F16EF6B"
+			rewards: [{
+				id: "7AD9F40C63D7EAE1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "00941EF908A5EE1B"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:thunderbrand" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			id: "4313457CFE28AFBD"
+			rewards: [{
+				id: "5CD3E8ECFE1CF638"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "31FD10559AD018AE"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:mjolnir" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "1630DAC6F5B217BA"
+			rewards: [{
+				id: "1E5EA3B3DA11E9E8"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "5E3D8A8D64DC309C"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:awakened_lichblade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "2FF45E9612F6C128"
+			rewards: [{
+				id: "43BF8DCD30637B2C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "362C3E71AB88EBFB"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:shadowsting" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			id: "7AF79BE440A25339"
+			rewards: [{
+				id: "5E5034740CFF9E2A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "2AF6B43E9B81A965"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:sunfire" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			id: "1F802EDB065D75FD"
+			rewards: [{
+				id: "353D21A6FC2A4100"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "02936E2061CA9615"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:harbinger" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "12428FD1A5439C08"
+			rewards: [{
+				id: "334794FC1895A7F3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3254D5C10C0E9FA9"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:whisperwind" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			id: "386E049573A0E978"
+			rewards: [{
+				id: "2756D0032F9D11F1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "686B52A25DCF193A"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:emberlash" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "6FEAB8D61C887305"
+			rewards: [{
+				id: "15D2416D328A5D80"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3E7204E219538D33"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:waxweaver" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			id: "51F0E36E93D9BAE1"
+			rewards: [{
+				id: "551783639A96068D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "593327AD4A560E50"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:hiveheart" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			id: "60E0746B3885879E"
+			rewards: [{
+				id: "144A3C9D7209B17B"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3DEE83CC5B653D9A"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:stars_edge" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			id: "13864EFB3F36D1C1"
+			rewards: [{
+				id: "2B3B95BFB12F707B"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3CD2A294636942A7"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:wickpiercer" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			id: "40D654F3E60277C1"
+			rewards: [{
+				id: "620CB257E24BA3E3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "284B6B06C7B8B5C2"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:tempest" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "2FECFFCD05FC4058"
+			rewards: [{
+				id: "75424F81FC168EE1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "184EA67AA20871B9"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:flamewind" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			id: "7A1B43F2CA82815E"
+			rewards: [{
+				id: "2869F3AA9B266EC2"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "30265482DF59D10C"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:ribboncleaver" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "72CCFFFE50B26618"
+			rewards: [{
+				id: "7A719E0A8E4E0DFB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "77E452F19D593BC9"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:magiscythe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "1A643F6BD278ED01"
+			rewards: [{
+				id: "22890D78DA2B44A5"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "10AB9B7F4125E60F"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:enigma" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "74692853B6D91DD8"
+			rewards: [{
+				id: "2A68A99FC50F8EA6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3B789F2A59E569F0"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:magispear" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			id: "49CDC820FF50D632"
+			rewards: [{
+				id: "0148F33A92C34B55"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "15D140BEFC9285FD"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:decaying_relic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			id: "40943687F956AA1E"
+			rewards: [{
+				id: "5E75D22F549C0178"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "51362A79BE1FB49A"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:magiblade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			id: "01CF5CFA953E0D6F"
+			rewards: [{
+				id: "19F3CF701B163CCE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "35F9DEA51E9565A9"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:caelestis" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			id: "54211F059B2DF755"
+			rewards: [{
+				id: "1E01D2EF4B97E3AB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "6AE49CDB3F4ADA05"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:wraithfang" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6EB654032C00D32C"]
+			id: "7FDDE2DE35CA015F"
+			rewards: [{
+				id: "7048EF8646B90979"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "3F3BF820836B4FF1"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simplymore:runic_gear)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5A070AC666E9682D"]
+			id: "70CA408F9AB7237F"
+			rewards: [
+				{
+					id: "119C149B2FED7407"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "0F0ED8BBD477A2B9"
+					item: {
+						count: 1
+						id: "simplymore:runefused_carver"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "205303968760DFB0"
+				item: { count: 1, id: "simplymore:runefused_carver" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A070AC666E9682D"]
+			id: "0AFEC22C7293AF6D"
+			rewards: [
+				{
+					id: "2495ECD0E82671E3"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "48CC46C180174BB5"
+					item: {
+						count: 1
+						id: "simplymore:netherfused_carver"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0F502FE1150D5EBE"
+				item: { count: 1, id: "simplymore:netherfused_carver" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			id: "18AA9EC52424C6B6"
+			rewards: [{
+				id: "2687A1E02080B1BF"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "123859C395855A19"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:great_slither" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			id: "04101B5464F3F7F9"
+			rewards: [{
+				id: "58ABB553476C82FB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "095C1D45ACEBD811"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:molten_flare" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "0A805256EB6BFB79"
+			rewards: [{
+				id: "28EE618B70F8F7CB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "46D8379D85E5597B"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:grandfrost" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			id: "7894A60002E17E60"
+			rewards: [{
+				id: "67B4693F2A439C11"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "7CED82D944598FD5"
+				item: { components: { "simplymore:charge": 0b, "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:mimicry_longsword" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			id: "4014F40BF7B114B5"
+			rewards: [{
+				id: "7DF1DA14F8DBC37D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "1310E0843FED5924"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:glimmerstep" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			id: "7ED1500079B9F20B"
+			rewards: [{
+				id: "4B85E1A22A8938A7"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "288AA21FEC4022DF"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:the_blood_harvester" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			id: "2DA51140E649A6D0"
+			rewards: [{
+				id: "0F2C41B23EC3B728"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "5BC9137DB2F54D0E"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:myrmedge" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			id: "1B0FFB804180AAF0"
+			rewards: [{
+				id: "3A6E02E637E7E59E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "371447327502D55D"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:black_pearl" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			id: "2C26016F872513D6"
+			rewards: [{
+				id: "05A1CC46CAB1F5B0"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "243F85E003373ACF"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:the_vessel_breach" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			id: "75B67732CA4B4D3A"
+			rewards: [{
+				id: "51449474317EF83D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3AAFEB0539355899"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 11.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -2.799999952316284d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: -0.019999999552965164d, id: "simplymore:grotesque_slowdown", operation: "add_value", slot: "mainhand", type: "minecraft:generic.movement_speed" } ] }, "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:blade_of_the_grotesque" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			id: "6E35D1224BF06A92"
+			rewards: [{
+				id: "6DBFF7B9713EA287"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "4CEB3F87CAD3ABB5"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:vipers_call" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			id: "1E41F532D49C6438"
+			rewards: [{
+				id: "1D714464EEF0D011"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "1A403A1D94CEF99A"
+				item: { components: { "simplymore:daytime": { isDay: 1b, isTimeless: 0b }, "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:timekeeper" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			id: "230005C0057A46D4"
+			rewards: [{
+				id: "6178368B832842F2"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "7984BC3BBE1B3497"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:matterbane" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			id: "3F1FEC785B1EE555"
+			rewards: [{
+				id: "74CE9264FBE66D60"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "5524B08920C03B59"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:smouldering_ruin" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "4CE29F8B35F4D1BF"
+			rewards: [{
+				id: "02641021EDC25268"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3CB6974519B360CA"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:stasis" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			id: "3EF64F60431B7E54"
+			rewards: [{
+				id: "65AE8236D5300B76"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "2B1744E88D0949ED"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:tidebreaker" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			id: "5BB9BA516E9CCC9F"
+			rewards: [{
+				id: "6D0C18EC2B67FFA3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "34EF9C5E93F85E6A"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:ruyi_jingu_bang" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -4.0d
+		}
+		{
+			id: "513368BB1A85F635"
+			rewards: [{
+				id: "31A74A7F54E71D6F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "36558122E2805211"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:holylight" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "740A7F38C39E8127"
+			rewards: [{
+				id: "29490A6B13BBC3EC"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "1A2F2B79CD885E8C"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:darksent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "53AE28ADA4CCDC86"
+			rewards: [{
+				id: "7B2330E78E75B3BE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "19F52B686336EE1F"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:boas_fang" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			id: "77E4E3FAE606E7ED"
+			rewards: [{
+				id: "37DCFA6DD7F6BC9C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "0B8E43D50E1CAECB"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:earthshatter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			id: "4031693654C4BD01"
+			rewards: [{
+				id: "2892C6E3CC74E977"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "32129D7FD5FA2B7B"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:soul_foreseer" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			id: "500BCD084AAE5CBC"
+			rewards: [{
+				id: "5D22BE224ECDF903"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "2380BA1AA0BE3F31"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:serpentine_valour" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "02D48D9159EA09D1"
+			rewards: [{
+				id: "40164D5BCC9750C4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "451E3D4F6B7A7B67"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:lustrous_moxie" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			id: "597873CB4D214DEC"
+			rewards: [{
+				id: "3D96351DE9C6054F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "0C54419EB89CE050"
+				item: { components: { "minecraft:attribute_modifiers": { modifiers: [ { amount: 7.0d, id: "minecraft:base_attack_damage", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_damage" }, { amount: -0.20000000298023224d, id: "minecraft:base_attack_speed", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" }, { amount: 0.0d, id: "simplymore:oxidisation", operation: "add_value", slot: "mainhand", type: "minecraft:generic.attack_speed" } ] }, "simplymore:counter": { max: 0, min: 0, value: 0 }, "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:brassturn" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			id: "47D5704970EAB4D1"
+			rewards: [{
+				id: "1C563B5543216D13"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "7C7DA4D79D8D0EFC"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:cindergorge" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			id: "3C1453240B7A3059"
+			rewards: [{
+				id: "475EC80F7DDF6817"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "3B0AAFEAB462320E"
+				item: { components: { "simplymore:counter": { max: 5, min: 0, value: 0 }, "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:deaths_eyrie" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			id: "0C7F9BDDBB6B54DC"
+			rewards: [{
+				id: "45F1E370B4688736"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "25A83475589DF3D9"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 0b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:perforiscus" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "258B2058D467A4DC"
+			rewards: [{
+				id: "47135C428915E8A4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "0DC5628B495B0113"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 0b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:revvengine" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			id: "40216409A1F15458"
+			rewards: [{
+				id: "287087C970F790F0"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "57E1F20C5B69FA4B"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:exedrill" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			id: "30557A8DB8ABEB4D"
+			rewards: [{
+				id: "123B4AB387D46DCB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "038DE6E8B18022B4"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplymore:culterex" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			id: "3A134CD2B677E510"
+			rewards: [{
+				id: "367F88382B5446D1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "063F9A3AC8F9F5E3"
+				item: { count: 1, id: "simplymore:jester_penetrate" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "1990C1A0AA8E46B7"
+			rewards: [{
+				id: "5AB4BE3BEE7E1CB5"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "621E6633D0C9A18F"
+				item: { count: 1, id: "simplymore:the_pan" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "1542A7281A374675"
+			rewards: [{
+				id: "2DB798E635B6EBFA"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "none"
+			tasks: [{
+				id: "274072DABB4CF130"
+				item: { components: { "simplyswords:gem_power": { has_nether_power: 1b, has_runic_power: 1b, nether_power: "simplyswords:empty_power", runic_power: "simplyswords:empty_power" } }, count: 1, id: "simplyswords:chompolotl" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+	]
+}

@@ -1,0 +1,79 @@
+[!1]
+background: ftb:textures/quests/white_bg.png; color=#F2343434; tile_size=64
+chapter_panel_background: color:#F2343434; border=#B48EAD
+context_menu: color:#F2343434; border=#B48EAD
+widget_border: #B48EAD
+
+quest_view_background: color:#F2343434; border=#B48EAD
+
+# info
+[3975E2F79FDD5150]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# enchanted
+[1561A268B5DB81BE]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# 1.1 rpg series
+[5E9E034EDB1E529B]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# 1.2 bosses
+[7ADE44D0D17308DD]
+background: ftb:textures/quests/bosses.png; color=#3A3B3C
+
+# 1.3 endrem
+[45E8D0D49D7C8632]
+background: ftb:textures/quests/endrem.png; color=#3A3B3C
+
+# 2.1 deeper
+[41ADE8149BF8297F]
+background: ftb:textures/quests/deeep.png; color=#5F5F5F
+
+# 2.2 aether
+[71DED117E01B37F1]
+background: ftb:textures/quests/aethervill.png; color=#3A3B3C
+
+# 2.3 starlight
+[41F654A628659EF4]
+background: ftb:textures/quests/strlit3.png; color=#3A3B3C
+
+# 2.4 twilight
+[1B38FC801CBD19B2]
+background: ftb:textures/quests/twilight.png; color=#3A3B3C
+
+# 3.1 farmerdelight
+[29955E9C9859437D]
+background: ftb:textures/quests/farmer.png; color=#3A3B3C
+
+# 3.2 friendsnfoes
+[5DD356F9FEB1CBD8]
+background: ftb:textures/quests/foes.png; color=#3A3B3C
+
+# 3.3 illagerinvasion
+[4808B7E0C0BC4E57]
+background: ftb:textures/quests/mansion.png; color=#3A3B3C
+
+# 3.4 galosphere
+[3ED5B56796DD0417]
+background: ftb:textures/quests/galo.png; color=#3A3B3C
+
+# 3.5 archeology
+[6F2799E9B6B6C2A4]
+background: ftb:textures/quests/archeology.png; color=#3A3B3C
+
+# 4.1 jewelry
+[0724D1B931802DE4]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# 4.2 backpack
+[00A5E405AA1FFEF6]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# 4.3 relics
+[5547D6640FFF7808]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
+
+# 4.4 simplyswords
+[3EBDF32BAA87BDF2]
+background: ftb:textures/quests/solution_main.png; color=#3A3B3C
