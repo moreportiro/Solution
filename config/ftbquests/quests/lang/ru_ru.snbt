@@ -2,19 +2,21 @@
 	chapter.00A5E405AA1FFEF6.title: "&#B48EADII. Traveler's Backpack&r"
 	chapter.0724D1B931802DE4.title: "&#B48EADI. Jewelry and Relics&r"
 	chapter.1561A268B5DB81BE.title: "&#B48EADЗачарование&r"
-	chapter.1B38FC801CBD19B2.title: "&#B48EADIV. Twilight Forest&r"
+	chapter.1B38FC801CBD19B2.title: "&#B48EADV. Twilight Forest&r"
 	chapter.29955E9C9859437D.title: "&#B48EADI. Farmer's Delight&r"
 	chapter.3975E2F79FDD5150.title: "&#B48EADИнформация&r"
 	chapter.3EBDF32BAA87BDF2.title: "&#B48EADIV. Simply Swords&r"
-	chapter.41ADE8149BF8297F.title: "&#B48EADI. Deeper and Darker&r"
-	chapter.41F654A628659EF4.title: "&#B48EADIII. Eternal Startlight&r"
+	chapter.41ADE8149BF8297F.title: "&#B48EADII. Deeper and Darker&r"
+	chapter.41F654A628659EF4.title: "&#B48EADIV. Eternal Startlight&r"
 	chapter.45E8D0D49D7C8632.title: "&#B48EADIII. End Remastered&r"
 	chapter.4808B7E0C0BC4E57.title: "&#B48EADIII. Illager Invasion&r"
 	chapter.5547D6640FFF7808.title: "&#B48EADIII. Relics&r"
+	chapter.5B4C3FCE0DF758A0.title: "&#B48EADVI. Better End&r"
 	chapter.5DD356F9FEB1CBD8.title: "&#B48EADII. Friends and Foes&r"
 	chapter.5E9E034EDB1E529B.title: "&#B48EADI. RPG Series&r"
 	chapter.6F2799E9B6B6C2A4.title: "&#B48EADIV. Better Archeology&r"
-	chapter.71DED117E01B37F1.title: "&#B48EADII. The Aether&r"
+	chapter.71DED117E01B37F1.title: "&#B48EADIII. The Aether&r"
+	chapter.779B7A49398CDD67.title: "&#B48EADI. Better Nether&r"
 	chapter.7ADE44D0D17308DD.title: "&#B48EADII. Bosses&r"
 	chapter_group.02892542B4CF1B4D.title: "&#B48EADIII. Приключения&r"
 	chapter_group.063C1996E841C2DC.title: "&#B48EADI. Основа&r"
@@ -68,10 +70,12 @@
 	quest.006E51565082FEC8.quest_desc: [
 		"    Огромная структура в виде &#B48EADзамка&r, встречается в Незере."
 		""
+		"    Для открытия двери, необходимо найти &#B48EADКлюч от арены преисподней&r."
+		""
 		"{image:ftb:textures/quests/knight.png width:200 height:100 align:center}"
 	]
-	quest.006E51565082FEC8.quest_subtitle: "Убейте босса &#B48EADUnderworld Knight&r"
-	quest.006E51565082FEC8.title: "&#B48EADUnderworld Knight&r"
+	quest.006E51565082FEC8.quest_subtitle: "Убейте босса &#B48EADРыцарь преисподней Хелвар&r"
+	quest.006E51565082FEC8.title: "&#B48EADРыцарь преисподней Хелвар&r"
 	quest.007B53670A79C326.quest_subtitle: "Урон заклинанием: 5% шанс увеличить силу заклинаний земли и природы на 15% в течении 6 секунд"
 	quest.007D0C5DEEBFE2B4.quest_desc: [
 		"    При полной экипировке:"
@@ -127,6 +131,8 @@
 	quest.00E2DF36D3C82A2D.title: "&5Antonidas's Staff of Rapt Concentration&r"
 	quest.01007AC9AA0AD9C9.quest_desc: ["Щит позволяет блокировать снаряды."]
 	quest.01007AC9AA0AD9C9.quest_subtitle: "Создайте щит"
+	quest.0133D9E4A5046025.quest_subtitle: "Соберите все &#B48EADПластинки&r"
+	quest.0133D9E4A5046025.title: "&#B48EADПластинки&r"
 	quest.013541BA09FB8493.quest_desc: ["    Используется для создания &#4d4791Звездопальных инструментов&r и &#4d4791Звездопального оружия&r."]
 	quest.013541BA09FB8493.quest_subtitle: "Найдите &#4d4791Звездопальное улучшение&r"
 	quest.013541BA09FB8493.title: "&#4d4791Звездопальное улучшение&r"
@@ -152,6 +158,17 @@
 	]
 	quest.01A6AB27E3D30E1E.quest_subtitle: "Найдите &#B48EADАксессуары&r"
 	quest.01A6AB27E3D30E1E.title: "&#B48EADАксессуары&r"
+	quest.01AF5B9080C62E2D.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +19."
+		""
+		"• Твёрдость брони +4."
+		""
+		"• Сопротивление к отбрасыванию +20%."
+	]
+	quest.01AF5B9080C62E2D.quest_subtitle: "Создайте &#B48EADБроню из терминита&r"
+	quest.01AF5B9080C62E2D.title: "&#B48EADБроня из терминита&r"
 	quest.01B270762A2BDBC2.quest_desc: ["• &2Radiance&r (Пассивный) - при атаке цели, 25% шанс восстановить здоровье, также восстановить здоровье ближайших союзников."]
 	quest.01B270762A2BDBC2.quest_subtitle: "Найдите &2Sunfury Hawk-Bow&r"
 	quest.01B270762A2BDBC2.title: "&2Sunfury Hawk-Bow&r"
@@ -248,6 +265,9 @@
 	quest.02DC9C2CE42B71DF.quest_subtitle: "Войдите в Невыносимую гробницу"
 	quest.02E012846A4C0DF9.quest_subtitle: "Найдите &6Серебряный посох валькирии&r"
 	quest.02E012846A4C0DF9.title: "&6Серебряный посох валькирии&r"
+	quest.02E8057E93658FA8.quest_desc: ["    Из &#B48EADСлитка терминита&r создаётся &#B48EADТерминитовая наковальня&r."]
+	quest.02E8057E93658FA8.quest_subtitle: "Создайте &#B48EADСлиток терминита&r"
+	quest.02E8057E93658FA8.title: "&#B48EADСлиток терминита&r"
 	quest.02F3A87F392D813A.quest_subtitle: "Создайте &#A020F0Фигурку лисы&r"
 	quest.02F3A87F392D813A.title: "&#A020F0Фигурка лисы&r"
 	quest.0318E76EA2A37421.quest_subtitle: "Убейте босса &#B48EADХесед&r"
@@ -259,6 +279,9 @@
 	quest.033807D0CD1946F9.title: "&#B48EADThe Aether&r"
 	quest.0353A5D0367187EF.quest_subtitle: "Найдите &#B48EADДревние руины&r"
 	quest.0353A5D0367187EF.title: "&#B48EADДревние руины&r"
+	quest.0355ABDD5568800B.quest_desc: ["    Из &#B48EADЭтериевого слитка&r создаётся &#B48EADЭтериевая наковальня&r."]
+	quest.0355ABDD5568800B.quest_subtitle: "Создайте &#B48EADЭтериевый слиток&r"
+	quest.0355ABDD5568800B.title: "&#B48EADЭтериевый слиток&r"
 	quest.036F61DA48145161.quest_desc: ["    При атаке цели, &#4C566AIris&r заряжается и наносит больше урона, также при каждом ударе кража здоровья."]
 	quest.036F61DA48145161.quest_subtitle: "Найдите &#4C566AIris&r"
 	quest.036F61DA48145161.title: "&#4C566AIris&r"
@@ -333,6 +356,17 @@
 	quest.04EB8DA617ADF269.quest_desc: ["• &#0044FFSurging&r (Пассивный) - после убийства цели, увеличивается шанс критического урона на 10% в течении 12 секунд, суммируется до 5 раз."]
 	quest.04EB8DA617ADF269.quest_subtitle: "Найдите &#0044FFGrand Magister's Staff of Torrents&r"
 	quest.04EB8DA617ADF269.title: "&#0044FFGrand Magister's Staff of Torrents&r"
+	quest.0506E6140E5ECB6D.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +18."
+		""
+		"• Твёрдость брони +5.6."
+		""
+		"• Сопротивление отбрасыванию +80%."
+	]
+	quest.0506E6140E5ECB6D.quest_subtitle: "Создайте &#6F0000Рубиновую броню&r"
+	quest.0506E6140E5ECB6D.title: "&#6F0000Рубиновая броня&r"
 	quest.05073DFEE811CE37.quest_desc: [
 		"    Самхайн дружелюбный моб которого можно снарядить броней и оружием, помогает в сражениях."
 		""
@@ -428,6 +462,8 @@
 	quest.06045BB73E0AE644.title: "&#3A003AБижутерия Анхелисты&r"
 	quest.06219756F5CC9EBD.quest_subtitle: "Победите &#B48EADвсех боссов&r не получив урона"
 	quest.06219756F5CC9EBD.title: "&#B48EADБез урона&r"
+	quest.065832C538141FDE.quest_subtitle: "Создайте &#BF616AРубиновую секиру&r"
+	quest.065832C538141FDE.title: "&#BF616AРубиновая секира&r"
 	quest.06947171A91B2E2B.quest_desc: [
 		"    При полной экипировке:"
 		"- Физический урон +6%."
@@ -456,7 +492,7 @@
 	quest.07162B6475BA278D.quest_desc: ["    &#B48EADСеребряная сокровищница&r распологается в храме."]
 	quest.07162B6475BA278D.quest_subtitle: "Убейте босса &#B48EADКоролева Валькирий&r"
 	quest.07162B6475BA278D.title: "&#B48EADКоролева Валькирий&r"
-	quest.071E91E3CE74A26F.quest_subtitle: "Убейте босса &#B48EADUnderworld Knight&r"
+	quest.071E91E3CE74A26F.quest_subtitle: "Убейте босса &#B48EADРыцарь преисподней Хелвар&r"
 	quest.071E91E3CE74A26F.title: "&#B48EADЧёрное Око&r"
 	quest.07214EC4DCA862D6.quest_desc: [
 		"    Добавляет &#B48EADреликвии&r со своими уникальными свойствами. Их можно найти в различных структурах."
@@ -473,9 +509,6 @@
 	quest.077675BA7684D0D1.quest_desc: ["   &0Дюрастальная корона&r такого же качества как и &0Дюрастальный шлем&r."]
 	quest.077675BA7684D0D1.quest_subtitle: "Создайте &0Дюрастальную корону&r"
 	quest.077675BA7684D0D1.title: "&0Дюрастальная корона&r"
-	quest.07ADA9940EB6B741.quest_desc: ["    В городе энда можно найти хорошие ресурсы."]
-	quest.07ADA9940EB6B741.quest_subtitle: "Найдите город Энда"
-	quest.07ADA9940EB6B741.title: "Город Энда"
 	quest.07B3964F3394E796.quest_desc: [
 		"    Дружелюбное существо, обитающее в &#B48EADшахтах&r."
 		""
@@ -497,7 +530,7 @@
 	]
 	quest.07E7F1F08926F7DA.quest_subtitle: "Создайте &0Дюрастальный слиток&r"
 	quest.07E7F1F08926F7DA.title: "&0Дюрастальный слиток&r"
-	quest.07EC659CC02D9E2E.quest_desc: ["    &#BF616ACarve&r (Пассивный) - ближний урон: 20% шанс суммировать снижение брони на 10% и снизить получаемый урон на 5% в течении 6 секунд."]
+	quest.07EC659CC02D9E2E.quest_desc: ["• &#BF616ACarve&r (Пассивный) - ближний урон: 20% шанс суммировать снижение брони на 10% и снизить получаемый урон на 5% в течении 6 секунд."]
 	quest.07EC659CC02D9E2E.quest_subtitle: "Найдите &#BF616ABlack Cleaver&r"
 	quest.07EC659CC02D9E2E.title: "&#BF616ABlack Cleaver&r"
 	quest.082021129D83C859.quest_desc: ["    &bЛужица от обморожения&r - при атаке цели, с 20% шаном создать замараживающую область вокруг цели, замдляя передвижение и скорость атаки на 2 секунды."]
@@ -516,7 +549,7 @@
 	quest.085698723E45A960.quest_desc: ["    Стандартный рюкзак путешественника уровня &4Кожа&r вмещает 27 слотов, 2 слота для инструментов, 2 слота для функциональных улучшений."]
 	quest.085698723E45A960.quest_subtitle: "Создайте &#B48EADСтандартный рюкзак путешественника&r"
 	quest.085698723E45A960.title: "&#B48EADСтандартный рюкзак путешественника&r"
-	quest.0870184AF4CAA4E2.quest_subtitle: "Убейте босса &#B48EADInfernal Dragon&r"
+	quest.0870184AF4CAA4E2.quest_subtitle: "Убейте босса &#B48EADАдский дракон Эшлорд&r"
 	quest.0870184AF4CAA4E2.title: "&#B48EADОко Ада&r"
 	quest.0875B296AF62B811.quest_desc: [
 		"    При полной экипировке:"
@@ -559,6 +592,8 @@
 	quest.0905581CEF1E076C.quest_desc: ["    Необретаниевое улучшение используется для создания &9Металлургиевой брони&r и &9Металлургиевых инструментов&r."]
 	quest.0905581CEF1E076C.quest_subtitle: "Найдите Необретаниевое улучшение"
 	quest.0905581CEF1E076C.title: "Необретаниевое улучшение"
+	quest.093ABF8D42E20503.quest_subtitle: "Найдите &#B48EADЭлитры&r"
+	quest.093ABF8D42E20503.title: "&#B48EADЭлитры&r"
 	quest.093E3822FCAA9898.quest_desc: [
 		"    При полной экипировке:"
 		"- Сила заклинания арканы +24%."
@@ -568,8 +603,8 @@
 	quest.093E3822FCAA9898.quest_subtitle: "Найдите &9Мистическую бижутерию&r"
 	quest.093E3822FCAA9898.title: "&9Мистическая бижутерия&r"
 	quest.095981908F04F5F2.quest_subtitle: "Создайте &#EBCB8BЖелезный каплевидный щит&r и &#EBCB8Bбулаву&r"
-	quest.095981908F04F5F2.title: "&#EBCB8BЖелезный каплевидный щит&r и &#EBCB8Bбулава&r"
-	quest.0979E982FF2F80C3.quest_desc: ["    &#BF616ALightning Strike&r (Пассивный) - ближний урон: 15% шанс вызвать молнию на цель."]
+	quest.095981908F04F5F2.title: "&#EBCB8BЖелезный каплевидный щит&r, &#EBCB8Bбулава&r"
+	quest.0979E982FF2F80C3.quest_desc: ["• &#BF616ALightning Strike&r (Пассивный) - ближний урон: 15% шанс вызвать молнию на цель."]
 	quest.0979E982FF2F80C3.quest_subtitle: "Найдите &#BF616AToranos's Axe&r"
 	quest.0979E982FF2F80C3.title: "&#BF616AToranos's Axe&r"
 	quest.098754C74C8349AE.quest_desc: ["    &9Металлургиевые инструменты&r лучшего качества чем &8незеритовые&r."]
@@ -764,8 +799,8 @@
 	quest.0C3941664B1009FB.quest_subtitle: "Найдите &#6F0000Dual-blade Butcher&r"
 	quest.0C3941664B1009FB.title: "&#6F0000Dual-blade Butcher&r"
 	quest.0C6713D388688BE0.quest_desc: ["• &#B48EADМассовая атака&r по нескольким целям впереди. (ЛКМ)"]
-	quest.0C6713D388688BE0.quest_subtitle: "Добудьте &#B48EADРыцарский меч&r"
-	quest.0C6713D388688BE0.title: "&#B48EADРыцарский меч&r"
+	quest.0C6713D388688BE0.quest_subtitle: "Добудьте &#B48EADМеч Хелвара&r"
+	quest.0C6713D388688BE0.title: "&#B48EADМеч Хелвара&r"
 	quest.0C68E8FA7351B43F.quest_desc: ["    &8Стальные инструменты&r такого же качества как и &bалмазные&r."]
 	quest.0C68E8FA7351B43F.quest_subtitle: "Создайте &8Стальные инструменты&r"
 	quest.0C68E8FA7351B43F.title: "&8Стальные инструменты&r"
@@ -839,6 +874,9 @@
 	quest.0D7A686F36A12240.quest_desc: ["    Накладывают эффекты &#4d4791Отравление II&r и &#4d4791Тошнота&r."]
 	quest.0D7A686F36A12240.quest_subtitle: "Создайте &#4d4791Оружие из острого фрукта&r"
 	quest.0D7A686F36A12240.title: "&#4d4791Оружие из острого фрукта&r"
+	quest.0D82076B4DD4B521.quest_subtitle: "Создайте &#3A003AРубиновый серп&r или &#3A003Aкинжал&r"
+	quest.0D9AA7EC57E7E6EA.quest_subtitle: "Создайте &#EBCB8BРубиновый каплевидный щит&r и &#EBCB8Bбулаву&r"
+	quest.0D9AA7EC57E7E6EA.title: "&#EBCB8BРубиновый каплевидный щит&r, &#EBCB8Bбулава&r"
 	quest.0DB16542D7F128D6.quest_desc: ["    Карта лабиринта и руд покажет все &#B48EADсокровища в лабиринте&r, также для каждого этажа потребуется отдельная карта."]
 	quest.0DB16542D7F128D6.quest_subtitle: "Создайте &#B48EADПустую карту лабиринта и руд&r"
 	quest.0DB16542D7F128D6.title: "&#B48EADПустая карта лабиринта и руд&r"
@@ -880,6 +918,17 @@
 	quest.0EB6626B28255F1D.quest_desc: ["    &eМеч Эгиды&r лучшего качества чем &7каменный&r, но хуже &7железного&r."]
 	quest.0EB6626B28255F1D.quest_subtitle: "Создайте &eМеч Эгиды&r"
 	quest.0EB6626B28255F1D.title: "&eМеч Эгиды&r"
+	quest.0EF9B590D97D72FD.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +24."
+		""
+		"• Твёрдость брони +14."
+		""
+		"• Сопротивление к отбрасыванию +80%."
+	]
+	quest.0EF9B590D97D72FD.quest_subtitle: "Создайте &#B48EADЭтериевую броню&r"
+	quest.0EF9B590D97D72FD.title: "&#B48EADЭтериевая броня&r"
 	quest.0F07971F959AD23C.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +20."
@@ -1050,7 +1099,7 @@
 	quest.103F28127EDECCEA.quest_subtitle: "Соберите всю бижутерию"
 	quest.103F28127EDECCEA.title: "Бижутерия"
 	quest.106F5D3B075B66E1.quest_subtitle: "Создайте &#EBCB8BАлмазный каплевидный щит&r и &#EBCB8Bбулаву&r"
-	quest.106F5D3B075B66E1.title: "&#EBCB8BАлмазный каплевидный щит&r и &#EBCB8Bбулава&r"
+	quest.106F5D3B075B66E1.title: "&#EBCB8BАлмазный каплевидный щит&r, &#EBCB8Bбулава&r"
 	quest.107F27E97613880E.quest_subtitle: "Создайте &9Фигурку лисы&r"
 	quest.107F27E97613880E.title: "&9Фигурка лисы&r"
 	quest.108EA207EFE63047.quest_subtitle: "Убейта босса Недермен"
@@ -1125,6 +1174,8 @@
 	]
 	quest.11EC7AD1497D8470.quest_subtitle: "Создайте &3Гидраргимовую броню&r"
 	quest.11EC7AD1497D8470.title: "&3Гидраргимовая броня&r"
+	quest.1200D5DE108815F3.quest_subtitle: "Создайте &#B48EADТалласиевый меч&r"
+	quest.1200D5DE108815F3.title: "&#B48EADТалласиевый меч&r"
 	quest.1204C10B7D108AF0.quest_desc: [
 		"    При полной экипировке:"
 		"- Усиление адреналина +16%."
@@ -1166,6 +1217,8 @@
 	quest.1258C5696ED2A68A.title: "&2Небесный арбалет&r"
 	quest.127888228FD40A02.quest_subtitle: "Создайте &#4d4791Амарянтарные инструменты&r"
 	quest.127888228FD40A02.title: "&#4d4791Амарянтарные инструменты&r"
+	quest.128A0722729BCB2F.quest_subtitle: "Создайте &5Хрустальный посох арканы&r"
+	quest.128A0722729BCB2F.title: "&5Хрустальный посох арканы&r"
 	quest.12BB73949365F590.quest_subtitle: "Создайте &2Царский длинный лук&r"
 	quest.12BB73949365F590.title: "&2Царский длинный лук&r"
 	quest.12C23B333252B1FF.quest_subtitle: "Создайте &aНезеритовый посох или жезл природы&r"
@@ -1270,9 +1323,26 @@
 	quest.14711D0CD01F3B63.title: "&#B48EADВолшебные бобы&r"
 	quest.1477A68C1E247AEA.quest_subtitle: "Найдите Паб \"Гринвуд\""
 	quest.1477A68C1E247AEA.title: "Паб \"Гринвуд\""
+	quest.1485F915FB6BADF2.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +16."
+		""
+		"• Твёрдость брони +3.84."
+		""
+		"• Сопротивление ослеплению +1."
+		""
+		"• Максимальное здоровье +4."
+		""
+		"• Эффекты &#B48EADУскорение&r и &#B48EADРегенерация&r."
+	]
+	quest.1485F915FB6BADF2.quest_subtitle: "Создайте &#B48EADКристалитовую броню&r"
+	quest.1485F915FB6BADF2.title: "&#B48EADКристалитовая броня&r"
 	quest.14881865C388581C.quest_desc: ["    Добавляет новый мир &#4d4791Вечное звездосветье&r с новыми &#4d4791биомами&r и структурами с &#4d4791боссами&r. Также множество новых &#4d4791инструментов&r, &#4d4791брони&r и &#4d4791мобов&r."]
 	quest.14881865C388581C.quest_subtitle: "Мод &#4d4791Eternal Startlight&r"
 	quest.14881865C388581C.title: "&#4d4791Eternal Startlight&r"
+	quest.14C874BDBC986C52.quest_subtitle: "Соберите все &#6F0000Деревья&r"
+	quest.14C874BDBC986C52.title: "&#6F0000Деревья&r"
 	quest.14C9F3A2E231A67E.quest_subtitle: "Создайте &8Железный ведьмачий меч&r"
 	quest.14C9F3A2E231A67E.title: "&8Железный ведьмачий меч&r"
 	quest.151D188AD328483C.quest_desc: ["    &5Кармотовые инструменты&r такого же качества как и &bалмазные&r, также добавляют удачу."]
@@ -1541,9 +1611,9 @@
 	quest.17F1566DA7215A76.title: "&bПодбрасыватель сосулек&r"
 	quest.17FCC6E7EC5EF7F4.quest_subtitle: "Найдите &#6F0000Позолоченную боевую глефу&r"
 	quest.17FCC6E7EC5EF7F4.title: "&#6F0000Позолоченная боевая глефа&r"
-	quest.180291DB28713E16.quest_desc: ["    Мод &4Incendium&r добавляет 8 совершенно новых биомов и 9 новых структур с новыми мобами, предметами и улучшениями. "]
-	quest.180291DB28713E16.quest_subtitle: "Мод &4Incendium&r"
-	quest.180291DB28713E16.title: "&4Incendium&r"
+	quest.180291DB28713E16.quest_desc: ["    Добавляет совершенно новые &#6F0000биомы&r в Незер, новые &#6F0000структуры&r с новыми мобами, новые предметы и улучшения."]
+	quest.180291DB28713E16.quest_subtitle: "Мод &#6F0000Better Nether&r"
+	quest.180291DB28713E16.title: "&#6F0000Better Nether&r"
 	quest.182F24F1F3625911.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -1619,6 +1689,8 @@
 	quest.198783F4361CFCA7.quest_desc: ["    &0Угасающий пульс&r - при атаке цели, 50% шанс нанести дополнительный урон целям в радиусе 90 градусов."]
 	quest.198783F4361CFCA7.quest_subtitle: "Создайте &0Иссохший позвоночник&r"
 	quest.198783F4361CFCA7.title: "&0Иссохший позвоночник&r"
+	quest.19A554599EB6BDFE.quest_subtitle: "Создайте все &#6F0000Варианты синего обсидиана&r"
+	quest.19A554599EB6BDFE.title: "&#6F0000Варианты синего обсидиана&r"
 	quest.19D83E4D1954C788.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -1818,6 +1890,9 @@
 	quest.1BB8608AE2A37CC3.quest_desc: ["    &cПалладиевая корона&r такого же качества как и &cПалладиевый шлем&r."]
 	quest.1BB8608AE2A37CC3.quest_subtitle: "Создайте &cПалладиевую корону&r"
 	quest.1BB8608AE2A37CC3.title: "&cПалладиевая корона&r"
+	quest.1BC08DC87E7FBB1E.quest_desc: ["    Используется для &#6F0000возрождения&r, необходимо &#6F00004 светокамня&r для активации."]
+	quest.1BC08DC87E7FBB1E.quest_subtitle: "Найдите &#6F0000Статую возрождения&r"
+	quest.1BC08DC87E7FBB1E.title: "&#6F0000Статуя возрождения&r"
 	quest.1BC187DE32EA2681.quest_subtitle: "Создайте &4Незеритовый лабрис&r"
 	quest.1BC187DE32EA2681.title: "&4Незеритовый лабрис&r"
 	quest.1BEFF06994C11398.quest_desc: [
@@ -2062,6 +2137,8 @@
 	quest.1F468F0F8AFD2FA3.title: "&9Святой кулак&r"
 	quest.1F4933F3EF31975C.quest_subtitle: "Создайте &2Боевой колчан&r"
 	quest.1F4933F3EF31975C.title: "&2Боевой колчан&r"
+	quest.1F7354C790FF696E.quest_subtitle: "Создайте &#6F0000Цинцинназитово-алмазные инструменты&r"
+	quest.1F7354C790FF696E.title: "&#6F0000Цинцинназитово-алмазные инструменты&r"
 	quest.1F95EDA8FAAEB746.quest_desc: ["    На волшебной карте отображены &#B48EADбоссы&r и прочие &#B48EADструктуры&r."]
 	quest.1F95EDA8FAAEB746.quest_subtitle: "Создайте &#B48EADПустую волшебную карту&r"
 	quest.1F95EDA8FAAEB746.title: "&#B48EADПустая волшебная карта&r"
@@ -2094,6 +2171,8 @@
 	quest.2021F5C4DDED2782.title: "&8Стальной слиток&r"
 	quest.20379957375C6E80.quest_subtitle: "Создайте &#A020F0Незеритовый кулак&r"
 	quest.20379957375C6E80.title: "&#A020F0Незеритовый кулак&r"
+	quest.2047EB1B95A0906A.quest_subtitle: "Найдите &#6F0000Заброшенный город&r"
+	quest.2047EB1B95A0906A.title: "&#6F0000Заброшенный город&r"
 	quest.2049B27F20DD1A36.quest_desc: ["    Аквариевая жемчужина используется для создания Улучшения Певца Приливов."]
 	quest.2049B27F20DD1A36.quest_subtitle: "Найдите аквариевую жемчужину"
 	quest.20A1C2E1C777B48A.quest_subtitle: "Найдите все &#B48EADПластинки&r"
@@ -2166,6 +2245,16 @@
 	quest.21518F654C5CCFE1.title: "&4Draconic Battle Staff&r"
 	quest.21544634F580E234.quest_subtitle: "Создайте &6Незеритовый посох земли&r"
 	quest.21544634F580E234.title: "&6Незеритовый посох земли&r"
+	quest.216A06A409596B1D.quest_subtitle: "Создайте &#6F0000Рубиновый лабрис&r или &#6F0000глефу&r"
+	quest.21724AB7BA07CFFB.quest_desc: [
+		"    Из &#6F0000Рубина нижнего мира&r создаются:"
+		""
+		"• &#6F0000Рубиновые инструменты&r."
+		""
+		"• &#6F0000Рубиновая броня&r."
+	]
+	quest.21724AB7BA07CFFB.quest_subtitle: "Добудьте &#6F0000Рубин нижнего мира&r"
+	quest.21724AB7BA07CFFB.title: "&#6F0000Рубин нижнего мира&r"
 	quest.2172F3B3383A7BBF.quest_desc: [
 		"    При полной экипировке:"
 		"- Сила заклинания воздуха, земли, воды, огня +80%."
@@ -2183,6 +2272,8 @@
 	quest.21A8A1E1D5FD4D15.title: "&0Адский серп&r"
 	quest.21B09CC170629E8D.quest_subtitle: "Найдите &#4C566AСвятой ведьмачий меч&r"
 	quest.21B09CC170629E8D.title: "&#4C566AСвятой ведьмачий меч&r"
+	quest.21BDF5BAE820EE5C.quest_subtitle: "Создайте &#74DFBFХрустальный посох воды&r"
+	quest.21BDF5BAE820EE5C.title: "&#74DFBFХрустальный посох воды&r"
 	quest.21C9AF2E5687E059.quest_desc: ["    &2Удар пламени&r - при попадании в цель, 30% шанс поджечь область цели, нанося постоянный урон."]
 	quest.21C9AF2E5687E059.quest_subtitle: "Найдите &2Шквальный арбалет Феникса&r"
 	quest.21C9AF2E5687E059.title: "&2Шквальный арбалет Феникса&r"
@@ -2351,6 +2442,8 @@
 	quest.2492475C71774F86.quest_desc: ["    &0Раскол&r - при атаке цели, 20% шанс снизить броню цели на 30% на 5 секунд."]
 	quest.2492475C71774F86.quest_subtitle: "Найдите &0Cуть апокалипсиса&r"
 	quest.2492475C71774F86.title: "&0Cуть апокалипсиса&r"
+	quest.24AE709B15395556.quest_subtitle: "Создайте &#B48EADМеч из терминита&r"
+	quest.24AE709B15395556.title: "&#B48EADМеч из терминита&r"
 	quest.24BACE4698720236.quest_subtitle: "Создайте &2Незеритовый длинный лук&r"
 	quest.24BACE4698720236.title: "&2Незеритовый длинный лук&r"
 	quest.24D617E8F203A1F1.quest_subtitle: "Урон заклинанием: 10% шанс увеличить скорость заклинаний на 10%, суммируется до 10 раз, в течении 10 секунд"
@@ -2391,6 +2484,17 @@
 	]
 	quest.25784761776E4579.quest_subtitle: "Создайте &bБижутерию с незеритовым танзанитом&r"
 	quest.25784761776E4579.title: "&bБижутерия с незеритовым танзанитом&r"
+	quest.2582F4F419517395.quest_desc: [
+		"    С помощью &#B48EADАлмазного кузнечного молота&r на &#B48EADТерминитовой наковальне&r можно создать:"
+		""
+		"• &#B48EADТерминитовые кованные пластины&r."
+		""
+		"• &#B48EADТерминитовые навершия инструментов&r."
+		""
+		"• &#B48EADЛезвие терминитового меча&r."
+	]
+	quest.2582F4F419517395.quest_subtitle: "Создайте &#B48EADТерминитовую наковальню&r"
+	quest.2582F4F419517395.title: "&#B48EADТерминитовая наковальня&r"
 	quest.25997C069BFB1FAF.quest_desc: [
 		"    Книга &3Тайны океана&r имеет 5 различных заклинаний воды:"
 		""
@@ -2458,6 +2562,8 @@
 	quest.26C03B853270A97C.title: "Домик на дереве в джунглях"
 	quest.26C909C586E07D99.quest_subtitle: "Приготовьте все &#B48EADСалаты&r"
 	quest.26C909C586E07D99.title: "&#B48EADСалаты&r"
+	quest.26CF31066B93B053.quest_subtitle: "Найдите &#B48EADДеревню Энда&r"
+	quest.26CF31066B93B053.title: "&#B48EADДеревня Энда&r"
 	quest.26D7701F3DFF34F3.quest_subtitle: "Создайте &4Алмазный лабрис&r"
 	quest.26D7701F3DFF34F3.title: "&4Алмазный лабрис&r"
 	quest.26DDABC6FCAEC063.quest_desc: [
@@ -2555,6 +2661,11 @@
 	]
 	quest.27F3A51DAB572A32.quest_subtitle: "Найдите &5Мистическую бижутерию&r"
 	quest.27F3A51DAB572A32.title: "&5Мистическая бижутерия&r"
+	quest.27FB9DC6E2F93CB4.quest_desc: ["• &#A020F0Carve&r (Пассивный) - ближний урон: 20% шанс суммировать снижение брони на 10% и снизить получаемый урон на 5% в течении 6 секунд."]
+	quest.27FB9DC6E2F93CB4.quest_subtitle: "Найдите &#A020F0Knuckle of Mandess&r"
+	quest.27FB9DC6E2F93CB4.title: "&#A020F0Knuckle of Mandess&r"
+	quest.27FE33947FB4B97A.quest_subtitle: "Создайте &#6F0000Синий обсидиан&r"
+	quest.27FE33947FB4B97A.title: "&#6F0000Синий обсидиан&r"
 	quest.280C07258168F554.quest_subtitle: "Создайте &5Посох&r или &5жезл арканы&r"
 	quest.280FDEAA5750FA69.quest_desc: ["    &bРазделитель ледников&r - при убийстве цели, создаются ледяные снаряды замораживающие рядом цели на 5 секунд."]
 	quest.280FDEAA5750FA69.quest_subtitle: "Создайте &bОсколочный лук ледника&r"
@@ -2618,6 +2729,9 @@
 	quest.28E3360D7BC65F46.quest_desc: ["Для создания стартовых инструментов потребуется дерево."]
 	quest.28E3360D7BC65F46.quest_subtitle: "Добыть дерево"
 	quest.28E3360D7BC65F46.title: "Дерево"
+	quest.28F3A2FFC3F6B303.quest_desc: ["• &#A020F0Nen Focus&r (Пассивный) - после убийства цели: накладывает эффект Nen Focus суммирующийся с эффектом усиление заклинания арканы, стакаясь до 7 раз."]
+	quest.28F3A2FFC3F6B303.quest_subtitle: "Найдите &#A020F0Federhorn Knuckle&r"
+	quest.28F3A2FFC3F6B303.title: "&#A020F0Federhorn Knuckle&r"
 	quest.291C2927DC0B8529.quest_desc: ["    &9Кайберовые инструменты&r такого же качества как и &7желеные&r."]
 	quest.291C2927DC0B8529.quest_subtitle: "Создайте &9Кайберовые инструменты&r"
 	quest.291C2927DC0B8529.title: "&9Кайберовые инструменты&r"
@@ -2630,7 +2744,8 @@
 	quest.291C8D8369028E47.quest_desc: ["    Сияющая эссенция используется для вызова босса Недермен, положив сияющую эссенцию в наполненную Улучшенную чашу."]
 	quest.291C8D8369028E47.quest_subtitle: "Создайте Сияющую эссенцию"
 	quest.2998470090671E6C.quest_subtitle: "Создайте &#EBCB8BЗолотой каплевидный щит&r и &#EBCB8Bбулаву&r"
-	quest.2998470090671E6C.title: "&#EBCB8BЗолотой каплевидный щит&r и &#EBCB8Bбулава&r"
+	quest.2998470090671E6C.title: "&#EBCB8BЗолотой каплевидный щит&r, &#EBCB8Bбулава&r"
+	quest.299C2C8E5C8B9D15.quest_subtitle: "Создайте &#EBCB8BЭйтериевый клеймор&r или &#EBCB8Bбольшой молот&r"
 	quest.29AD940E923D62AB.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +20."
@@ -2643,7 +2758,7 @@
 	quest.29B80F8552FA3C68.title: "Улучшение &8незеритового&r уровня"
 	quest.29BFEEEE4A075DE8.quest_subtitle: "Создайте &4Фигурку лисы&r"
 	quest.29BFEEEE4A075DE8.title: "&4Фигурка лисы&r"
-	quest.29D7DD5690CED0BE.quest_desc: ["    &#BF616ACarve&r (Пассивный) - ближний урон: 20% шанс суммировать снижение брони на 10% и снизить получаемый урон на 5% в течении 6 секунд."]
+	quest.29D7DD5690CED0BE.quest_desc: ["• &#BF616ACarve&r (Пассивный) - ближний урон: 20% шанс суммировать снижение брони на 10% и снизить получаемый урон на 5% в течении 6 секунд."]
 	quest.29D7DD5690CED0BE.quest_subtitle: "Найдите &#BF616ASkofnung&r"
 	quest.29D7DD5690CED0BE.title: "&#BF616ASkofnung&r"
 	quest.29F897963C821BA4.quest_desc: [
@@ -2803,8 +2918,8 @@
 		""
 		"• &#EBCB8BGuarding&r (Пассивный) - при блокировании атаки, 30% шанс снизить получаемый урон на 30% в течении 5 секунд."
 	]
-	quest.2B15411A7F12CD71.quest_subtitle: "Найдите &#EBCB8BBastion of Light, Stormherald&r"
-	quest.2B15411A7F12CD71.title: "&#EBCB8BBastion of Light, Stormherald&r"
+	quest.2B15411A7F12CD71.quest_subtitle: "Найдите &#EBCB8BBastion of Light&r и &#EBCB8BStormherald&r"
+	quest.2B15411A7F12CD71.title: "&#EBCB8BBastion of Light&r, &#EBCB8BStormherald&r"
 	quest.2B2C4AFA60108D1E.quest_subtitle: "Найдите Церинейскую лань"
 	quest.2B2C4AFA60108D1E.title: "Церинейская лань"
 	quest.2B553FA952897D06.quest_desc: [
@@ -2821,6 +2936,7 @@
 	]
 	quest.2B6BD89932176079.quest_subtitle: "Создайте Компас из лунного камня"
 	quest.2B6BD89932176079.title: "Компас из лунного камня"
+	quest.2B759C1585BE7DE7.quest_subtitle: "Создайте &2Лук&r или &2Арбалет III стадии&r"
 	quest.2B90BBA5EC04B91F.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -2985,6 +3101,17 @@
 	quest.2D6DB7981EFF0754.title: "&7Незеритовая броня крестоносца&r"
 	quest.2D9AF93680E11478.quest_subtitle: "Создайте &9Каменный кулак&r"
 	quest.2D9AF93680E11478.title: "&9Каменный кулак&r"
+	quest.2DB184D473F62BC2.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +20."
+		""
+		"• Твёрдость брони +10.8."
+		""
+		"• Сопротивление отбрасыванию +120%."
+	]
+	quest.2DB184D473F62BC2.quest_subtitle: "Создайте &#6F0000Огнерубиновую броню&r"
+	quest.2DB184D473F62BC2.title: "&#6F0000Огнерубиновая броня&r"
 	quest.2DC0AC0EB5512911.quest_subtitle: "Найдите Грибные шахты"
 	quest.2DC0AC0EB5512911.title: "Грибные шахты"
 	quest.2DF71B9A15D75004.quest_desc: [
@@ -3003,6 +3130,8 @@
 	quest.2DFBB8ACFBC1E09D.quest_desc: ["    Принимает &#B48EADоблик&r любого блока, через который &#B48EADможно пройти&r. С помощью редстоуна можно &#B48EADпереключать&r состояние."]
 	quest.2DFBB8ACFBC1E09D.quest_subtitle: "Создайте &#B48EADТеневую рамку&r"
 	quest.2DFBB8ACFBC1E09D.title: "&#B48EADТеневая рамка&r"
+	quest.2E4421F64455F66C.quest_subtitle: "Создайте &#6F0000Рубиновые инструменты&r"
+	quest.2E4421F64455F66C.title: "&#6F0000Рубиновые инструменты&r"
 	quest.2E4EAD5E6C6265F5.quest_desc: ["    Бесконечное подводное дыхание."]
 	quest.2E4EAD5E6C6265F5.quest_subtitle: "Найдите &#B48EADЖелезный пузырь&r"
 	quest.2E4EAD5E6C6265F5.title: "&#B48EADЖелезный пузырь&r"
@@ -3066,13 +3195,24 @@
 	quest.2F96397F5DDAF9F8.quest_subtitle: "Найдите &0Мантию смерти&r"
 	quest.2F96397F5DDAF9F8.title: "&0Мантия смерти&r"
 	quest.2F96CABE275BD800.quest_subtitle: "Создайте &#EBCB8BНезеритовый каплевидный щит&r и &#EBCB8Bбулаву&r"
-	quest.2F96CABE275BD800.title: "&#EBCB8BНезеритовый каплевидный щит&r и &#EBCB8Bбулава&r"
+	quest.2F96CABE275BD800.title: "&#EBCB8BНезеритовый каплевидный щит&r, &#EBCB8Bбулава&r"
 	quest.2FA3D8A8CFCA8831.quest_desc: ["    Переплавив &3Рудный рунит&r в кузнице получится &3Рунитовый слиток&r."]
 	quest.2FA3D8A8CFCA8831.quest_subtitle: "Добудьте &3Рудный рунит&r"
 	quest.2FA3D8A8CFCA8831.title: "&3Рудный рунит&r"
 	quest.2FDAEF5E9AB83F41.quest_desc: ["    &3Водяная бомба&r - при атаке цели, 40% шанс нанести дополнительный урон вокруг цели."]
 	quest.2FDAEF5E9AB83F41.quest_subtitle: "Создайте &3Клеймор морского короля&r"
 	quest.2FDAEF5E9AB83F41.title: "&3Клеймор морского короля&r"
+	quest.2FE6D921A670BEB8.quest_desc: [
+		"    С помощью &#B48EADАлмазного кузнечного молота&r на &#B48EADТалласиевой наковальне&r можно создать:"
+		""
+		"• &#B48EADТалласиевые кованные пластины&r."
+		""
+		"• &#B48EADТалласиевые навершия инструментов&r."
+		""
+		"• &#B48EADЛезвие талласиевого меча&r."
+	]
+	quest.2FE6D921A670BEB8.quest_subtitle: "Создайте &#B48EADТалласиевая наковальня&r и &#B48EADАлмазный кузнечный молот&r"
+	quest.2FE6D921A670BEB8.title: "&#B48EADТалласиевая наковальня&r и &#B48EADАлмазный кузнечный молот&r"
 	quest.2FF6F1905491BF07.quest_desc: ["    &0Водоворот&r - последняя атака комбо, создаёт вихрь наносящий урон целям."]
 	quest.2FF6F1905491BF07.quest_subtitle: "Найдите &0Талласиевый серп&r"
 	quest.2FF6F1905491BF07.title: "&0Талласиевый серп&r"
@@ -3092,6 +3232,8 @@
 	quest.3016CF3F00CDC248.quest_desc: ["    &0Обморожение&r - при атаке цели, 20% шанс замедлить скорость передвижения и атаки на 25% на 4 секунды."]
 	quest.3016CF3F00CDC248.quest_subtitle: "Найдите &0Морозный клык&r"
 	quest.3016CF3F00CDC248.title: "&0Морозный клык&r"
+	quest.301DD3832CD1EDE5.quest_subtitle: "Создайте &2Эйтериевое копьё&r"
+	quest.301DD3832CD1EDE5.title: "&2Эйтериевое копьё&r"
 	quest.30245CE54F41A57A.quest_subtitle: "Соберите все &#B48EADОтделки брони&r"
 	quest.30245CE54F41A57A.title: "&#B48EADОтделки брони&r"
 	quest.302DA9128AA702F6.quest_subtitle: "Найдите &9Посох стихий валькирии&r"
@@ -3108,9 +3250,13 @@
 	quest.303BD7982C822C94.title: "&#B48EADЛедолог&r"
 	quest.304269B7516439CE.quest_subtitle: "Найдите &eСеребряный посох валькирии&r"
 	quest.304269B7516439CE.title: "&eСеребряный посох валькирии&r"
+	quest.3051ADD8B1FC91F1.quest_subtitle: "Создайте &#77CCFFЭйтериевый посох ветра&r"
+	quest.3051ADD8B1FC91F1.title: "&#77CCFFЭйтериевый посох ветра&r"
 	quest.3074EAEB175AAFDF.quest_desc: ["С помощью черепов визер-скелетов и песка душ, вызывается босс Визер."]
 	quest.3074EAEB175AAFDF.quest_subtitle: "Добудьте череп визер-скелета и песок душ"
 	quest.3074EAEB175AAFDF.title: "Череп визер-скелета"
+	quest.30857C7B88F419CE.quest_subtitle: "Создайте &#B48EADЭтериевые инструменты&r"
+	quest.30857C7B88F419CE.title: "&#B48EADЭтериевые инструменты&r"
 	quest.3097A6ECCB7B023C.quest_subtitle: "Создайте &2Незеритовое копьё&r"
 	quest.3097A6ECCB7B023C.title: "&2Незеритовое копьё&r"
 	quest.30A35D0A26CBEF6F.quest_subtitle: "Найдите все &#4d4791Пластинки&r"
@@ -3178,6 +3324,8 @@
 		"• &#77CCFFAeroburst&r - отбрасывает цели вокруг нанося урон."
 	]
 	quest.310F6C5DAFD455D2.quest_subtitle: "Создайте Книгу"
+	quest.3112E3356FE5370F.quest_subtitle: "Создайте &#EBCB8BЭйтериевый каплевидный щит&r и &#EBCB8Bбулаву&r"
+	quest.3112E3356FE5370F.title: "&#EBCB8BЭйтериевый каплевидный щит&r, &#EBCB8Bбулава&r"
 	quest.31225C5EB5D9F5ED.quest_desc: [
 		"    Из &#4d4791Амарянтарного слитка&r создаются:"
 		""
@@ -3206,6 +3354,8 @@
 	quest.31ABEC05C59954B3.quest_desc: ["• &2Bonus Shot&r (Пассивный) - при попадании в цель, 20% выпустить дополнительную стрелу."]
 	quest.31ABEC05C59954B3.quest_subtitle: "Найдите &2Crossbow of Relentless Strikes&r"
 	quest.31ABEC05C59954B3.title: "&2Crossbow of Relentless Strikes&r"
+	quest.31AD70BFB783FAE2.quest_subtitle: "Создайте &#A020F0Рубиновый кулак&r"
+	quest.31AD70BFB783FAE2.title: "&#A020F0Рубиновый кулак&r"
 	quest.31ADD640E92FE9F7.quest_subtitle: "Создайте &0Алмазный серп&r"
 	quest.31ADD640E92FE9F7.title: "&0Алмазный серп&r"
 	quest.31D7CF525692634E.quest_desc: [
@@ -3275,6 +3425,7 @@
 	]
 	quest.324DAA90FD7F9E4D.quest_subtitle: "Создайте Бамбуковую броню"
 	quest.324DAA90FD7F9E4D.title: "Бамбуковая броня"
+	quest.3265DACDC9D0B4D9.quest_subtitle: "Создайте &#3A003AЭйтериевый серп&r или &#3A003Aкинжал&r"
 	quest.3282F2C98E0E8139.quest_subtitle: "Ближний урон: 15% шанс увеличить скорость атаки на 15% и нанести дополнительный урон в 3% от максимального здоровья цели"
 	quest.329C4B2D0E44D926.quest_subtitle: "Создайте &dЦелестиевые элитры&r"
 	quest.329C4B2D0E44D926.title: "&dЦелестиевые элитры&r"
@@ -3316,6 +3467,8 @@
 	quest.337C5ACA2A1857F5.quest_desc: ["    После взрыва накладывает эффекты &#4d4791Тошнота&r, &#4d4791Отравление&r, &#4d4791Слезоточение&r."]
 	quest.337C5ACA2A1857F5.quest_subtitle: "Создайте &#4d4791Слезоточивая бомбу&r"
 	quest.337C5ACA2A1857F5.title: "&#4d4791Слезоточивая бомба&r"
+	quest.337EAB319AC0E6A3.quest_subtitle: "Создайте &#B48EADИнструменты из терминита&r"
+	quest.337EAB319AC0E6A3.title: "&#B48EADИнструменты из терминита&r"
 	quest.33947BFFFAD7C9CA.quest_subtitle: "Создайте &#B48EADИспепелитель&r"
 	quest.33947BFFFAD7C9CA.title: "&#B48EADИспепелитель&r"
 	quest.33B34A0E40EDDC3B.quest_desc: [
@@ -3357,6 +3510,8 @@
 	]
 	quest.342D5112FD501530.quest_subtitle: "Соберите &eОдежду Аватара&r"
 	quest.342D5112FD501530.title: "&eОдежда Аватара&r"
+	quest.343FE13B38497833.quest_subtitle: "Создайте &#BF616AЭйтериевую секиру&r"
+	quest.343FE13B38497833.title: "&#BF616AЭйтериевая секира&r"
 	quest.344CE31BC06BE053.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +15."
@@ -3440,8 +3595,8 @@
 		""
 		"{image:ftb:textures/quests/dragon.png width:200 height:100 align:center}"
 	]
-	quest.353C786C9FA14F7E.quest_subtitle: "Убейте босса &#B48EADInfernal Dragon&r"
-	quest.353C786C9FA14F7E.title: "&#B48EADInfernal Dragon&r"
+	quest.353C786C9FA14F7E.quest_subtitle: "Убейте босса &#B48EADАдский дракон Эшлорд&r"
+	quest.353C786C9FA14F7E.title: "&#B48EADАдский дракон Эшлорд&r"
 	quest.353DE79125935E6E.quest_subtitle: "Создайте &#74DFBFФигурку карпа&r"
 	quest.353DE79125935E6E.title: "&#74DFBFФигурка карпа&r"
 	quest.354A62949B221C38.quest_desc: [
@@ -3493,6 +3648,8 @@
 	]
 	quest.35FA43F0B3D6A029.quest_subtitle: "Создайте Кузницу 1 уровня"
 	quest.35FA43F0B3D6A029.title: "Кузница 1 уровня"
+	quest.361BC10E4785BE67.quest_subtitle: "Создайте &#6F0000Цинцинназитовые инструменты&r"
+	quest.361BC10E4785BE67.title: "&#6F0000Цинцинназитовые инструменты&r"
 	quest.363692AA4A301444.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +20."
@@ -3539,7 +3696,9 @@
 	quest.366330ED2A65F12C.quest_subtitle: "Создайте &#B48EADТуфового голема&r"
 	quest.366330ED2A65F12C.title: "&#B48EADТуфовый голем&r"
 	quest.366EBEF8D33619CB.quest_subtitle: "Создайте &#77CCFFПосох&r или &#77CCFFжезл ветра&r"
-	quest.368230C94A50A36E.quest_subtitle: "Победите босса &#B48EADSandworm&r не получив урона"
+	quest.367B3807BF906747.quest_subtitle: "Создайте &#B48EADТалласиевые инструменты&r"
+	quest.367B3807BF906747.title: "&#B48EADТалласиевые инструменты&r"
+	quest.368230C94A50A36E.quest_subtitle: "Победите босса &#B48EADПесчаный цервь Сирок&r не получив урона"
 	quest.368230C94A50A36E.title: "&#B48EADБез урона&r"
 	quest.36B6A07CBE873C6C.quest_subtitle: "Убйете босса &#4d4791Звездосветный голем&r"
 	quest.36B6A07CBE873C6C.title: "&#4d4791Звездосветный голем&r"
@@ -3595,6 +3754,8 @@
 	]
 	quest.3723B01C8E42F316.quest_subtitle: "Создайте &cПалладиевые рельсы и вагонетку&r"
 	quest.3723B01C8E42F316.title: "&cПалладиевые рельсы и вагонетка&r"
+	quest.3727277E92593928.quest_subtitle: "Создайте &#6F0000Плачущий и рыдающий обсидиан&r"
+	quest.3727277E92593928.title: "&#6F0000Плачущий и рыдающий обсидиан&r"
 	quest.37283615DC051C8B.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +15."
@@ -3674,8 +3835,8 @@
 		""
 		"• Можно использовать как &#B48EADщит&r. (ПКМ)"
 	]
-	quest.38198337DD3854D7.quest_subtitle: "Добудьте &#B48EADЗамороженный кулак&r"
-	quest.38198337DD3854D7.title: "&#B48EADЗамороженный кулак&r"
+	quest.38198337DD3854D7.quest_subtitle: "Добудьте &#B48EADПерчатку Скора&r"
+	quest.38198337DD3854D7.title: "&#B48EADПерчатка Скора&r"
 	quest.38211943A954E7F4.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +8."
@@ -3684,7 +3845,7 @@
 	]
 	quest.38211943A954E7F4.quest_subtitle: "Создайте &0Одежду разбойника&r"
 	quest.38211943A954E7F4.title: "&0Одежда разбойника&r"
-	quest.3825C27ACDB8B5AB.quest_subtitle: "Победите босса &#B48EADYeti&r не получив урона"
+	quest.3825C27ACDB8B5AB.quest_subtitle: "Победите босса &#B48EADЙети Скор&r не получив урона"
 	quest.3825C27ACDB8B5AB.title: "&#B48EADБез урона&r"
 	quest.3848856FDBCD8215.quest_desc: ["    Смешав Хаотическую сущность в заполненной Улучшенной чаше, можно активировать уникальные навыки оружий."]
 	quest.3848856FDBCD8215.quest_subtitle: "Добудьте Хаотическую сущность"
@@ -3818,9 +3979,20 @@
 	quest.3A193AF1B68A4152.quest_desc: ["    Можно контролировать Моа."]
 	quest.3A193AF1B68A4152.quest_subtitle: "Создайте &#B48EADПосох природы&r"
 	quest.3A193AF1B68A4152.title: "&#B48EADПосох природы&r"
+	quest.3A4C9D18485992F1.quest_subtitle: "Найдите &#B48EADГород Энда&r"
+	quest.3A4C9D18485992F1.title: "&#B48EADГород Энда&r"
 	quest.3A875743D63EDEB3.quest_desc: ["    &7Взрыв&r - при атаке цели, 20% шанс создать огненный взрыв у цели."]
 	quest.3A875743D63EDEB3.quest_subtitle: "Найдите &7Чёрнорукий&r"
 	quest.3A875743D63EDEB3.title: "&7Чёрнорукий&r"
+	quest.3A97FADE7B6DCC91.quest_desc: [
+		"    Из &#B48EADТалласиевого слитка&r создаются:"
+		""
+		"• &#B48EADПлавильня из эндерняка&r."
+		""
+		"• &#B48EADТалласиевая наковальня&r."
+	]
+	quest.3A97FADE7B6DCC91.quest_subtitle: "Создайте &#B48EADТалласиевый слиток&r"
+	quest.3A97FADE7B6DCC91.title: "&#B48EADТалласиевый слиток&r"
 	quest.3AAECCC58D9E67D1.quest_subtitle: "Создайте &#035B6CРезонариумные инструменты&r"
 	quest.3AAECCC58D9E67D1.title: "&#035B6CРезонариумные инструменты&r"
 	quest.3AB282CB57046FA3.quest_desc: ["    Мод Immersive Armors добавляет множество уникальных комплектов брони со способностями, совместимых с ванильной версией."]
@@ -3855,6 +4027,9 @@
 	]
 	quest.3B141CECE9D0E378.quest_subtitle: "Создайте &6Дневник горного пика&r"
 	quest.3B141CECE9D0E378.title: "&6Дневник горного пика&r"
+	quest.3B1692679B65F39E.quest_desc: ["    Используется для &#B48EADвозрождения&r, необходимо &#B48EAD4 огранённых янтаря&r для активации."]
+	quest.3B1692679B65F39E.quest_subtitle: "Найдите &#B48EADОбелиск возрождения&r"
+	quest.3B1692679B65F39E.title: "&#B48EADОбелиск возрождения&r"
 	quest.3B1AD8B7AECEED7A.quest_desc: ["    Сопротивление огню."]
 	quest.3B1AD8B7AECEED7A.quest_subtitle: "Создайте &#B48EADКорона инферно&r"
 	quest.3B1AD8B7AECEED7A.title: "&#B48EADКорона инферно&r"
@@ -3927,6 +4102,9 @@
 	quest.3BE153389A2BE748.quest_desc: ["    Разместив Пьедестал из чёрного камня в открытой местности, можно вызвать босса Монарх хаоса, щёлкнув по пьедесталу Осколком неопределённости."]
 	quest.3BE153389A2BE748.quest_subtitle: "Создайте Пьедестал из чёрного камня"
 	quest.3BE153389A2BE748.title: "Пьедестал из чёрного камня"
+	quest.3BF8C351DBBB4963.quest_desc: ["    Используется для создания &#6F0000Огнерубиновых инструментов&r и &#6F0000Огнерубиновой брони&r."]
+	quest.3BF8C351DBBB4963.quest_subtitle: "Найдите &#6F0000Улучшение огнерубина&r"
+	quest.3BF8C351DBBB4963.title: "&#6F0000Улучшение огнерубина&r"
 	quest.3C07824677AC7249.quest_subtitle: "Найдите Колодец желаний"
 	quest.3C07824677AC7249.title: "Колодец желаний"
 	quest.3C109D81BF39EFFE.quest_desc: ["    Не использует заклинания из книг заклинаний."]
@@ -4102,25 +4280,25 @@
 	]
 	quest.3D664D60F02C963C.quest_subtitle: "Зачарованные книги &#B48EADEternal Startlight&r"
 	quest.3D664D60F02C963C.title: "&#B48EADEternal Startlight&r"
-	quest.3D7303A71C939E99.quest_desc: [
-		"    Мод Better End добавляет в Энд новые биомы, растения, материалы, инструменты, броню, структуры."
-		""
-		"    Новая зачарованная книга Вауль Края - позволяет смотреть на Эндермена не зля его. Накладывается на Шлем."
-	]
-	quest.3D7303A71C939E99.quest_subtitle: "Мод Better End"
-	quest.3D7303A71C939E99.title: "Better End"
+	quest.3D7303A71C939E99.quest_desc: ["    Добавляет в Энд &#B48EAD24 новых биома&r, &#B48EAD6 новых мобов&r, структуры и множество новых предметов, оружий и брони."]
+	quest.3D7303A71C939E99.quest_subtitle: "Мод &#B48EADBetter End&r"
+	quest.3D7303A71C939E99.title: "&#B48EADBetter End&r"
 	quest.3D73FDB26C3F5207.quest_desc: [
-		"• Боевая система &#B48EADBetter Combat&r, &#B48EADCombat Roll&r, &#B48EADCritical Strike&r."
+		"• Боевая система: &#B48EADBetter Combat&r, &#B48EADCombat Roll&r, &#B48EADCritical Strike&r."
 		""
-		"• Классы &#B48EADRPG Series&r, &#B48EADMore RPG Classes&r."
+		"• Классы: &#B48EADRPG Series&r, &#B48EADMore RPG Classes&r."
 		""
-		"• Генерация мира &#B48EADOh The Biomes We've Gone&r."
+		"• Биомы: &#B48EADOh The Biomes We've Gone&r, &#B48EADBetterEnd&r, &#B48EADBetterNether&r."
 		""
-		"• Текстур-пак &#B48EADExcalibur&r."
+		"• Миры: &#B48EADEternal Starlight&r, &#B48EADDeeper and Darker&r, &#B48EADThe Aether&r, &#B48EADThe Twilight Forest&r."
+		""
+		"• Текстур-пак: &#B48EADExcalibur&r."
 	]
 	quest.3D73FDB26C3F5207.quest_subtitle: "О сборке"
 	quest.3D73FDB26C3F5207.title: "&#B48EADSolution&r"
 	quest.3D987395A40EDBC9.quest_subtitle: "Ближний урон и урон заклинанием: 6% шанс увеличить вампиризм на 20% в течении 8 секунд"
+	quest.3DB947B8B2170FA7.quest_subtitle: "Создайте &#4C566AРубиновый ведьмачий меч&r"
+	quest.3DB947B8B2170FA7.title: "&#4C566AРубиновый ведьмачий меч&r"
 	quest.3DD25A01FF96A114.quest_desc: [
 		"    &#B48EADОкунитесь в воду&r, надев броню Феникса."
 		""
@@ -4429,6 +4607,17 @@
 	quest.41D77BAFEEC0921B.title: "&6Святой жезл&r"
 	quest.41E11B8FE0A3559B.quest_desc: ["    Мод Galosphere добавляет новые биомы в пещерах, мобов, босса и новые предметы."]
 	quest.41E11B8FE0A3559B.quest_subtitle: "Мод Galosphere"
+	quest.4207786F486D2255.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +17."
+		""
+		"• Твёрдость брони +4."
+		""
+		"• Сопротивление отбрасыванию +20%."
+	]
+	quest.4207786F486D2255.quest_subtitle: "Создайте &#6F0000Цинцинназитовая броню&r"
+	quest.4207786F486D2255.title: "&#6F0000Цинцинназитовая броня&r"
 	quest.422B39B3104FCABE.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +13."
@@ -4538,6 +4727,7 @@
 	quest.43A4F6D141EC492E.quest_subtitle: "Создайте &5Незеритовый посох&r или &5жезл арканы&r"
 	quest.43DC49284A890EB3.quest_subtitle: "Создайте &#BF616AКаменную секиру&r"
 	quest.43DC49284A890EB3.title: "&#BF616AКаменная секира&r"
+	quest.43E1ED22CB416372.quest_subtitle: "Найдите &dРубиновую лютню&r или &dЭйтериевую лиру&r"
 	quest.43E40E62AF895FB8.quest_desc: [
 		"    При полкой экипировке:"
 		"- Броня +20."
@@ -4817,6 +5007,8 @@
 	quest.47771DA4190939AD.quest_desc: ["    &5Дыхание эндер дракона&r - при попадании в цель, 30% шанс создать облако драконьего дыхания наносящее постоянный урон."]
 	quest.47771DA4190939AD.quest_subtitle: "Создайте &5Зарядный эндер болт&r"
 	quest.47771DA4190939AD.title: "&5Зарядный эндер болт&r"
+	quest.47772DF573231A9B.quest_subtitle: "Посетите все &#B48EADБиомы&r"
+	quest.47772DF573231A9B.title: "&#B48EADБиомы&r"
 	quest.478E30357991FE03.quest_desc: [
 		"    &#B48EADЗвезда души&r используется как Око Эндера, укажет путь к &#B48EADбашне&r."
 		""
@@ -4879,7 +5071,7 @@
 	]
 	quest.4882ED9FE4158858.quest_subtitle: "Соберите &#FF681FБроню лучника-стража&r"
 	quest.4882ED9FE4158858.title: "&#FF681FБроня лучника-стража&r"
-	quest.488C0F49FAD59005.quest_subtitle: "Убейте босса &#B48EADYeti&r"
+	quest.488C0F49FAD59005.quest_subtitle: "Убейте босса &#B48EADЙети Скор&r"
 	quest.488C0F49FAD59005.title: "&#B48EADЛедяное Око&r"
 	quest.489044A1C8FB8A04.quest_desc: ["    &4Иссушающий&r - при атаке цели, 20% шанс наложить эффект «Иссушение» на 5 секунд."]
 	quest.489044A1C8FB8A04.quest_subtitle: "Найдите &4Тайный жнец&r"
@@ -4914,14 +5106,20 @@
 	]
 	quest.48C8CD2454E5CFEE.quest_subtitle: "Создайте книгу &5Техники арканы&r"
 	quest.48C8CD2454E5CFEE.title: "&5Техники арканы&r"
+	quest.48D3EB82FB6E18B6.quest_subtitle: "Создайте &eРубиновый святой посох&r"
+	quest.48D3EB82FB6E18B6.title: "&eРубиновый святой посох&r"
 	quest.48D666C94E17BB0E.quest_subtitle: "Убейте босса &#B48EADСнежная королева&r"
 	quest.48D666C94E17BB0E.title: "&#B48EADСнежная королева&r"
+	quest.48D6ED550DC38056.quest_subtitle: "Создайте &#B48EADЭтериевый меч&r"
+	quest.48D6ED550DC38056.title: "&#B48EADЭтериевый меч&r"
+	quest.48E66DDE6B0FA172.quest_subtitle: "Посетите все &#6F0000Биомы&r"
+	quest.48E66DDE6B0FA172.title: "&#6F0000Биомы&r"
 	quest.490858C822AC055E.quest_subtitle: "Убейте босса &4Визер&r"
 	quest.490858C822AC055E.title: "&4Визер&r"
 	quest.4921A91CCD6E2B7B.quest_subtitle: "Создайте Чернитовую руку"
 	quest.49292D0278A98612.quest_subtitle: "Создайте &bФигурку летучей мыши&r"
 	quest.49292D0278A98612.title: "&bФигурка летучей мыши&r"
-	quest.492D0F1941F41E46.quest_subtitle: "Убейте босса &#B48EADSandworm&r"
+	quest.492D0F1941F41E46.quest_subtitle: "Убейте босса &#B48EADПесчаный цервь Сирок&r"
 	quest.492D0F1941F41E46.title: "&#B48EADПовреждённое Око&r"
 	quest.493650C1A7DD932E.quest_desc: [
 		"    При полной экипировке:"
@@ -5063,6 +5261,7 @@
 	quest.4A905C26C5FCFA89.quest_desc: ["    &5Старрит&r используется для создания &5Звёздной платины&r."]
 	quest.4A905C26C5FCFA89.quest_subtitle: "Добудьте &5Старрит&r"
 	quest.4A905C26C5FCFA89.title: "&5Старрит&r"
+	quest.4AA2A3AF148E04E4.quest_subtitle: "Создайте &#6F0000Эйтериевый лабрис&r или &#6F0000глефу&r"
 	quest.4ACCCFA783A5FE8A.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +17."
@@ -5335,8 +5534,8 @@
 	quest.4FC7CCB2CDA6657A.quest_desc: ["• &2Focusing&r (Пассивный) - при убийстве цели, урон увеличивается на 10%, суммируется до 3 раз, длительность 12 секунд."]
 	quest.4FC7CCB2CDA6657A.quest_subtitle: "Найдите &2Golden Bow of Quel'Thalas&r"
 	quest.4FC7CCB2CDA6657A.title: "&2Golden Bow of Quel'Thalas&r"
-	quest.4FDCE9FA08F96159.quest_subtitle: "Найдите &#EBCB8BОплот валькирии и Солнечную булаву&r"
-	quest.4FDCE9FA08F96159.title: "&#EBCB8BОплот валькирии и Солнечная булава&r"
+	quest.4FDCE9FA08F96159.quest_subtitle: "Найдите &#EBCB8BОплот валькирии&r и &#EBCB8BСолнечная булаву&r"
+	quest.4FDCE9FA08F96159.title: "&#EBCB8BОплот валькирии&r, &#EBCB8BСолнечная булава&r"
 	quest.4FDEB660CD2AB2D8.quest_desc: ["    Подземная крепость, встречается в биоме &#B48EADТёмный лес&r."]
 	quest.4FDEB660CD2AB2D8.quest_subtitle: "Убейте босса &#B48EADПризрак рыцаря&r"
 	quest.4FDEB660CD2AB2D8.title: "&#B48EADПризрак рыцаря&r"
@@ -5531,10 +5730,29 @@
 	quest.53115D612E65F5E0.quest_desc: ["    Замораживает цель."]
 	quest.53115D612E65F5E0.quest_subtitle: "Создайте &#4d4791Леднитовое оружие&r"
 	quest.53115D612E65F5E0.title: "&#4d4791Леднитовое оружие&r"
+	quest.5346A4A7D1E29845.quest_subtitle: "Создайте &#A020F0Эйтериевый кулак&r"
+	quest.5346A4A7D1E29845.title: "&#A020F0Эйтериевый кулак&r"
 	quest.5353887AA65D5B3C.quest_desc: ["    &bРазделитель ледников&r - при убийстве цели, создаются ледяные снаряды замораживающие рядом цели на 5 секунд."]
 	quest.5353887AA65D5B3C.quest_subtitle: "Создайте &bАрбалет ледниковый болт&r"
 	quest.5353887AA65D5B3C.title: "&bАрбалет ледниковый болт&r"
 	quest.5361AF8D510B2C59.quest_subtitle: "Использование: +20% сила заклинаний воды в течении 10 секунд"
+	quest.536602A8DAEF1987.quest_desc: [
+		"    Найдя рузрушенный &#B48EADПортал Края&r, необходимо расставить &#B48EAD6 Кристаллов Вечности&r вокруг на пьедесталы для активации."
+		""
+		"    Разрушенный портал не всегда может быть целым, тогда потребуется достроить его из &#B48EADРунного флаволита&r."
+		""
+		""
+		"{image:ftb:textures/quests/endportal.png width:200 height:100 align:center}"
+	]
+	quest.536602A8DAEF1987.quest_subtitle: "Зажгите &#B48EADПортал Края&r"
+	quest.536602A8DAEF1987.title: "&#B48EADПортал Края&r"
+	quest.538F1BA7829F2FEC.quest_desc: [
+		"    &nПри полной экипировке:&r"
+		""
+		"• Броня +12."
+	]
+	quest.538F1BA7829F2FEC.quest_subtitle: "Создайте &#B48EADТалласиевую броню&r"
+	quest.538F1BA7829F2FEC.title: "&#B48EADТалласиевая броня&r"
 	quest.539BF2B198DDB9BF.quest_desc: ["    Мод Soulslike Weaponry добавляет более 40 легендарных видов оружия и множество боссов для сражений."]
 	quest.539BF2B198DDB9BF.quest_subtitle: "Мод Soulslike Weaponry"
 	quest.539BF2B198DDB9BF.title: "Soulslike Weaponry"
@@ -5550,6 +5768,9 @@
 	]
 	quest.53C2B36CD0CF066A.quest_subtitle: "Создайте &#74DFBFБижутерию из аквамарина&r"
 	quest.53C2B36CD0CF066A.title: "&#74DFBFБижутерия из аквамарина&r"
+	quest.53DC0E37D89315E0.quest_desc: ["    Сплавив &#B48EADПыль Края&r с &#B48EADТалласиевым слитком&r в &#B48EADПлавильне из эндерняка&r получится &#B48EADСлиток терминита&r."]
+	quest.53DC0E37D89315E0.quest_subtitle: "Создайте &#B48EADПыль Края&r"
+	quest.53DC0E37D89315E0.title: "&#B48EADПыль Края&r"
 	quest.53E4082D1F1418AE.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +20."
@@ -5625,6 +5846,8 @@
 	quest.5595FBDDC2FD94EB.quest_subtitle: "Создайте &2Незеритовую одежду следопыта&r"
 	quest.5595FBDDC2FD94EB.title: "&2Незеритовая одежда следопыта&r"
 	quest.55B0FD1C6DC4E327.quest_subtitle: "Дальний урон: 6% шанс увеличить урон дальнего оружия на 20% в течении 8 секунд"
+	quest.55C22D6A51287370.quest_subtitle: "Создайте &dЭйтериевую рапиру&r"
+	quest.55C22D6A51287370.title: "&dЭйтериевая рапира&r"
 	quest.5609AEE0749C5C83.quest_subtitle: "Создайте &2Колчан&r"
 	quest.5609AEE0749C5C83.title: "&2Колчан&r"
 	quest.565E7D4FF442C70A.quest_subtitle: "Создайте &#4d4791Глазутёковые инструменты&r"
@@ -5656,8 +5879,8 @@
 		""
 		"• &#EBCB8BSpiked&r (Пассивный) - при блокировании удара, с 50% шансом наносит урон атакующей цели."
 	]
-	quest.56E02B86DB460811.quest_subtitle: "Найдите &#EBCB8BBulwark of Azzinoth, Bonecracker&r"
-	quest.56E02B86DB460811.title: "&#EBCB8BBulwark of Azzinoth, Bonecracker&r"
+	quest.56E02B86DB460811.quest_subtitle: "Найдите &#EBCB8BBulwark of Azzinoth&r и &#EBCB8BBonecracker&r"
+	quest.56E02B86DB460811.title: "&#EBCB8BBulwark of Azzinoth&r, &#EBCB8BBonecracker&r"
 	quest.56E360F668558383.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -5692,7 +5915,7 @@
 	]
 	quest.5723960AAE77E97D.quest_subtitle: "Добудьте &#4d4791Сферу пророчества&r"
 	quest.5723960AAE77E97D.title: "&#4d4791Сфера пророчества&r"
-	quest.573D9857322C5EBB.quest_subtitle: "Победите босса &#B48EADUnderworld Knight&r не получив урона"
+	quest.573D9857322C5EBB.quest_subtitle: "Победите босса &#B48EADРыцарь преисподней Хелвар&r не получив урона"
 	quest.573D9857322C5EBB.title: "&#B48EADБез урона&r"
 	quest.573DE3F66FD9407B.quest_subtitle: "Создайте &2Охотничий колчан&r"
 	quest.573DE3F66FD9407B.title: "&2Охотничий колчан&r"
@@ -5891,6 +6114,8 @@
 	quest.594EFDCFB5F09D37.title: "&#B48EADХрам света&r"
 	quest.5957894658EAF85C.quest_subtitle: "Найдите Бандитские башни"
 	quest.5957894658EAF85C.title: "Бандитские башни"
+	quest.59584C1C573219C7.quest_subtitle: "Создайте &#B48EADАрмированную элитру&r"
+	quest.59584C1C573219C7.title: "&#B48EADАрмированная элитра&r"
 	quest.59709A68C23E1714.quest_desc: ["    Кармотовое улучшение используется для создания &5Кармотовой брони&r и &5Кармотовый инструментов&r."]
 	quest.59709A68C23E1714.quest_subtitle: "Найдите Кармотовое улучшение"
 	quest.59709A68C23E1714.title: "Кармотовое улучшение"
@@ -6131,8 +6356,8 @@
 	quest.5C6E016ECA407B15.quest_desc: ["    Используется как топливо для алтаря."]
 	quest.5C6E016ECA407B15.quest_subtitle: "Добудьте &#B48EADОсколок амброзиума&r"
 	quest.5C6E016ECA407B15.title: "&#B48EADОсколок амброзиума&r"
-	quest.5C7D54A75F4AA051.quest_desc: [""]
-	quest.5C7D54A75F4AA051.quest_subtitle: "Найдите элитры"
+	quest.5C6F3EBD0F9B4466.quest_subtitle: "Создайте &4Рубиновый посох огня&r"
+	quest.5C6F3EBD0F9B4466.title: "&4Рубиновый посох огня&r"
 	quest.5C9F61DE923F9067.quest_subtitle: "Добудьте &#B48EADОтделку брони&r"
 	quest.5C9F61DE923F9067.title: "&#B48EADОтделка брони&r"
 	quest.5CB3177BA3EE40C5.quest_desc: ["    &5Arcane Spellstrike&r - при атаке цели, дополнительный магический урон арканы."]
@@ -6326,6 +6551,8 @@
 	quest.5FDDF23BC96EC148.quest_subtitle: "Создайте &#B48EADУлучшения&r"
 	quest.5FDDF23BC96EC148.title: "&#B48EADУлучшения&r"
 	quest.5FEE73DCBB4523A8.quest_subtitle: "Использование: Урон дальнего оружия +10% в течении 10 секунд"
+	quest.5FF42EB575119E3D.quest_subtitle: "Создайте &bИзумрудный посох мороза&r"
+	quest.5FF42EB575119E3D.title: "&bИзумрудный посох мороза&r"
 	quest.601BDE71AA76678D.quest_subtitle: "Создайте &2Золотое копьё&r"
 	quest.601BDE71AA76678D.title: "&2Золотое копьё&r"
 	quest.6029C71A947C546D.quest_desc: [
@@ -6586,6 +6813,17 @@
 	]
 	quest.63328A84BD78EFEC.quest_subtitle: "Создайте &aОрихалковую броню&r"
 	quest.63328A84BD78EFEC.title: "&aОрихалковая броня&r"
+	quest.633E19329CA415B1.quest_desc: [
+		"    Из &#6F0000Цинцинназитового слитка&r создаются:"
+		""
+		"• &#6F0000Цинцинназитовые инструменты&r."
+		""
+		"• &#6F0000Цинцинназитовая броня&r."
+		""
+		"• &#6F0000Цинцинназитовые функциональные блоки&r."
+	]
+	quest.633E19329CA415B1.quest_subtitle: "Создайте &#6F0000Цинцинназитовый слиток&r"
+	quest.633E19329CA415B1.title: "&#6F0000Цинцинназитовый слиток&r"
 	quest.6346AE7C8BF8F661.quest_subtitle: "Использование: +20% сила заклинаний земли в течении 10 секунд"
 	quest.6350CED0B6E03C42.quest_desc: ["    Переплавив &6Рудный банглум&r в кузнице получится &6Банглумный слиток&r."]
 	quest.6350CED0B6E03C42.quest_subtitle: "Добудьте &6Рудный банглум&r"
@@ -6629,8 +6867,8 @@
 		""
 		"• Снимает негативные эффекты &#B48EADяда&r. (ПКМ)"
 	]
-	quest.639F3BAE32DD7CEE.quest_subtitle: "Добудьте &#B48EADДротик песчаного червя&r"
-	quest.639F3BAE32DD7CEE.title: "&#B48EADДротик песчаного червя&r"
+	quest.639F3BAE32DD7CEE.quest_subtitle: "Добудьте &#B48EADПерчатку Сирока&r"
+	quest.639F3BAE32DD7CEE.title: "&#B48EADПерчатка Сирока&r"
 	quest.63A264FF833F574E.quest_subtitle: "Создайте &#EBCB8BАлмазный клеймор&r или &#EBCB8Bбольшой молот&r"
 	quest.63AB6CDDDB47F47B.quest_subtitle: "Получение урона: 30% шанс снизить скорость атаки и передвижения цели на 30% в течении 10 секунд"
 	quest.63B228F7E787C14F.quest_desc: ["Сундук - место хранения вещей и предметов."]
@@ -6766,6 +7004,8 @@
 	quest.653462879BD5992D.quest_desc: ["    &4Пустынные ифриты&r обитают в биоме &nИнфернальные дюны&r. Необходимо убить &4Пустынного ифрита&r на границе света и тьмы."]
 	quest.653462879BD5992D.quest_subtitle: "Найдите и убейте &4Пустынного ифрита&r"
 	quest.653462879BD5992D.title: "&4Пустынный ифрит&r"
+	quest.655548B1D57BC8D7.quest_subtitle: "Создайте &dРубиновую рапиру&r"
+	quest.655548B1D57BC8D7.title: "&dРубиновая рапира&r"
 	quest.655EC4FEC548A991.quest_subtitle: "Создайте &#4d4791Инструменты из термального истокамня&r"
 	quest.655EC4FEC548A991.title: "&#4d4791Инструменты из термального истокамня&r"
 	quest.6563404C57289C1A.quest_desc: [
@@ -6806,6 +7046,10 @@
 	quest.658611C526434F4A.title: "&#B48EADКормушка&r"
 	quest.65BD11A5CF84A729.quest_subtitle: "Поместите &#B48EADКнигу преданий&r в &#B48EADКнигу преданий&r"
 	quest.65BD11A5CF84A729.title: "&#B48EADКнига преданий&r"
+	quest.65DEBC2F25C44F4F.quest_subtitle: "Создайте &#EBCB8BРубиновый клеймор&r или &#EBCB8Bбольшой молот&r"
+	quest.65E441C1C7A88DCE.quest_desc: ["    Используется для создания &#6F0000Цинцинназитово-алмазных инструментов&r."]
+	quest.65E441C1C7A88DCE.quest_subtitle: "Найдите &#6F0000Алмазное улучшение цинцинназита&r"
+	quest.65E441C1C7A88DCE.title: "&#6F0000Алмазное улучшение цинцинназита&r"
 	quest.660143C270CBB66F.quest_subtitle: "Убейте босса Магус"
 	quest.660143C270CBB66F.title: "Магус"
 	quest.660DF4BEC90C3529.quest_desc: [
@@ -6874,8 +7118,6 @@
 	quest.666EAF4E6EE9D324.quest_desc: ["    &3Водяная бомба&r - при атаке цели, 40% шанс нанести дополнительный урон вокруг цели."]
 	quest.666EAF4E6EE9D324.quest_subtitle: "Создайте &3Бездонный серп&r"
 	quest.666EAF4E6EE9D324.title: "&3Бездонный серп&r"
-	quest.66B871C0550F4F40.quest_subtitle: "Убейте босса Дракон Эндера"
-	quest.66B871C0550F4F40.title: "Дракон Эндера"
 	quest.66C4924F72992F5F.quest_subtitle: "Создайте &#6F0000Алмазный лабрис&r или &#6F0000глефу&r"
 	quest.66CB31E361003267.quest_desc: [
 		"    При полной экипировке:"
@@ -6912,6 +7154,15 @@
 	quest.673A91D19E44B80C.quest_desc: ["Переплавив древние обломки получится незеритовый лом."]
 	quest.673A91D19E44B80C.quest_subtitle: "Добудьте древние обломки"
 	quest.673A91D19E44B80C.title: "Древные обломки"
+	quest.673AA4B7A1DF7516.quest_desc: [
+		"• &#6F0000Цинцинназитовая печь&r - ускоряет переплавку всех предметов."
+		""
+		"• &#6F0000Цинцинназитовая наковальня&r - увеличенная прочность."
+		""
+		"• &#6F0000Зельвеварка нижнего мира&r - ускоряет варку всех зелий."
+	]
+	quest.673AA4B7A1DF7516.quest_subtitle: "Создайте &#6F0000Цинцинназитовые функциональные блоки&r"
+	quest.673AA4B7A1DF7516.title: "&#6F0000Цинцинназитовые функциональные блоки&r"
 	quest.673E8F5F46CD8B36.quest_desc: ["    &3Стрелы коралловых рифов&r - при попадании в цель, 50% шанс нанести кровотечение на 5 секунд."]
 	quest.673E8F5F46CD8B36.quest_subtitle: "Создайте &3Ярость Немо&r"
 	quest.673E8F5F46CD8B36.title: "&3Ярость Немо&r"
@@ -6991,6 +7242,9 @@
 	]
 	quest.68AB3C8B618C5FFE.quest_subtitle: "Создайте &#4d4791Экипировку из воздушного мешка&r"
 	quest.68AB3C8B618C5FFE.title: "&#4d4791Экипировка из воздушного мешка&r"
+	quest.68BF5E0D6387003D.quest_desc: ["    Переплавив &#6F0000Цинцинназит&r получится &#6F0000Цинцинназитовый слиток&r."]
+	quest.68BF5E0D6387003D.quest_subtitle: "Добудьте &#6F0000Цинцинназит&r"
+	quest.68BF5E0D6387003D.title: "&#6F0000Цинцинназит&r"
 	quest.68D7B6BD18EEE0FD.quest_desc: [
 		"    &8Руководство по знакам ведьмака&r имеет 5 различных заклинаний ведьмака:"
 		""
@@ -7174,6 +7428,8 @@
 		"• &#B48EADКувшин&r можно заполнить жидкостью."
 		""
 		"• &#B48EADПодсочник&r используется для &#B48EADсбора сока&r с дерева(Ель и Тёмный дуб), процесс занимает от 3 до 6 минут. После необходимо собрать сок &#B48EADведром&r. Полученный сок в ведре необходимо вылить в &#B48EADкотёл&r, который должен быть &#B48EADнагретым&r. После испарения сока, на дне котла останется &#B48EADсироп&r, который можно собрать в &#B48EADбутылочку&r."
+		""
+		"• &#B48EADEmpty Crate&r можно поместить любое сочетание бутылок, яиц, мелких предметов и т.д. Можно не разбивая собирать ящик. (Присев + ПКМ)"
 	]
 	quest.6C083CEBECBF118B.quest_subtitle: "Создайте &#B48EADХозяйственные инструменты&r"
 	quest.6C083CEBECBF118B.title: "&#B48EADХозяйственные инструменты&r"
@@ -7255,6 +7511,8 @@
 	]
 	quest.6D16E2897441B39B.quest_subtitle: "Соберите &#B48EADКольца&r"
 	quest.6D16E2897441B39B.title: "&#B48EADКольца&r"
+	quest.6D1996CDC8E4F681.quest_subtitle: "Создайте &2Рубиновое копьё&r"
+	quest.6D1996CDC8E4F681.title: "&2Рубиновое копьё&r"
 	quest.6D49E92B9B95477C.quest_desc: ["    Канделябры усиливают алтарь."]
 	quest.6D49E92B9B95477C.quest_subtitle: "Создайте Канделябры"
 	quest.6D49E92B9B95477C.title: "Канделябры"
@@ -7275,6 +7533,16 @@
 		"    За сбор урожая &#B48EADначисляется опыт&r."
 	]
 	quest.6D628A835D1B7863.quest_subtitle: "Создайте &#B48EADМотыгу I уровня&r"
+	quest.6D69AB18CAC83102.quest_desc: [
+		"    &#B48EADПьедесталы&r используются для проведения ритуала по созданию брони и прочих предметов."
+		""
+		"    Необходимо установить &#B48EADПьедестал наполнения&r по центру и любые другие пьедесталы вокруг, расстановка предметов на пьедесталы строго на север."
+		""
+		""
+		"{image:ftb:textures/quests/piedestal.png width:200 height:100 align:center}"
+	]
+	quest.6D69AB18CAC83102.quest_subtitle: "Создайте &#B48EADПьедесталы&r"
+	quest.6D69AB18CAC83102.title: "&#B48EADПьедесталы&r"
 	quest.6D6C912FEA56AD7B.quest_subtitle: "Урон заклинанием: 5% шанс увеличить силу заклинаний воздуха и воды на 15% в течении 6 секунд"
 	quest.6D723877B2738CFF.quest_subtitle: "Создайте &bПосох мороза&r"
 	quest.6D723877B2738CFF.title: "&bПосох мороза&r"
@@ -7720,6 +7988,9 @@
 	quest.72C1DC672267C993.quest_desc: ["    &eПозолота меча из злата Мидаса&r используется для улучшения &eМеча из злата Мидаса&r."]
 	quest.72C1DC672267C993.quest_subtitle: "Создайте &eПозолоту меча из злата Мидаса&r"
 	quest.72C1DC672267C993.title: "&eПозолота меча из злата Мидаса&r"
+	quest.731181B08ACC132C.quest_desc: ["    Переплавляет из &#B48EADдвух&r руд в &#B48EADтри&r слитка."]
+	quest.731181B08ACC132C.quest_subtitle: "Создайте &#B48EADПлавильню из эндерняка&r"
+	quest.731181B08ACC132C.title: "&#B48EADПлавильня из эндерняка&r"
 	quest.731B274A4E67BFA5.quest_desc: [
 		"    Мод &#B48EADEnd Remastered&r + &#B48EADAdditions&r меняет способ попадания в Энд, добавляя &#B48EAD22 новых око&r."
 		""
@@ -7732,6 +8003,8 @@
 	quest.731EACCCDC35C704.title: "&#4d4791Глазутёковое улучшение&r"
 	quest.73334A32D26EBFEF.quest_subtitle: "Найдите &#3A003AНебесный серп&r"
 	quest.73334A32D26EBFEF.title: "&#3A003AНебесный серп&r"
+	quest.73497FCAA8DBC750.quest_subtitle: "Создайте &#8B4513Рубиновый посох земли&r"
+	quest.73497FCAA8DBC750.title: "&#8B4513Рубиновый посох земли&r"
 	quest.738C6452159E088F.quest_desc: ["    Чёрный Моа имеет больше всего запаса прыжков."]
 	quest.738C6452159E088F.quest_subtitle: "Оседлайте &#B48EADЧёрного Моа&r"
 	quest.738C6452159E088F.title: "&#B48EADЧёрный Моа&r"
@@ -7943,8 +8216,8 @@
 		""
 		"• &#EBCB8BUnyielding&r (Пассивный) - при блокировании атаки, увеличивает сопротивление отбрасыванию и прочность брони на 5 секунд."
 	]
-	quest.76DA43B99FE8DA6F.quest_subtitle: "Найдите &#EBCB8BSword Breaker's Bulwark, Archon's Scepter&r"
-	quest.76DA43B99FE8DA6F.title: "&#EBCB8BSword Breaker's Bulwark, Archon's Scepter&r"
+	quest.76DA43B99FE8DA6F.quest_subtitle: "Найдите &#EBCB8BSword Breaker's Bulwark&r и &#EBCB8BArchon's Scepter&r"
+	quest.76DA43B99FE8DA6F.title: "&#EBCB8BSword Breaker's Bulwark&r, &#EBCB8BArchon's Scepter&r"
 	quest.76F5103954A0D64B.quest_subtitle: "Создайте &dАлмазную рапиру&r"
 	quest.76F5103954A0D64B.title: "&dАлмазная рапира&r"
 	quest.770EFA954412243D.quest_desc: [
@@ -7959,6 +8232,13 @@
 	quest.771D9CFDC6B59BB9.title: "&5Клеймор эндера&r"
 	quest.771E6EA23E1F4554.quest_subtitle: "Урон заклинанием: 15% шанс мучить цель в течении 10 секунд, нанося 3% урона от максимального здоровья цели"
 	quest.772C87FA25C65509.quest_subtitle: "Использование: +20% сила заклинаний природы в течении 10 секунд"
+	quest.772DC7A427F42A95.quest_subtitle: "Создайте &#4C566AЭйтериевый ведьмачий меч&r"
+	quest.772DC7A427F42A95.title: "&#4C566AЭйтериевый ведьмачий меч&r"
+	quest.775A078F953A8099.quest_subtitle: "Создайте &#B48EADКристалитовую элитру&r"
+	quest.775A078F953A8099.title: "&#B48EADКристалитовая элитра&r"
+	quest.776327F77DA4AB54.quest_desc: ["    Разбив &#B48EADОсколок Края&r на &#B48EADТалласиевой наковальне&r получится &#B48EADПыль Края&r."]
+	quest.776327F77DA4AB54.quest_subtitle: "Добудьте &#B48EADОсколок Края&r"
+	quest.776327F77DA4AB54.title: "&#B48EADОсколок Края&r"
 	quest.77945776D9ECC08D.quest_subtitle: "Убейте босса &#B48EADАльфа-йети&r"
 	quest.77945776D9ECC08D.title: "&#B48EADАльфа-йети&r"
 	quest.77990938D3AF65D5.quest_subtitle: "Создайте &2Шквальный арбалет&r"
@@ -7974,8 +8254,8 @@
 		""
 		"• Время перезарядки кувырка -2."
 	]
-	quest.77B5572ABF1F5D7B.quest_subtitle: "Создайте &#B48EADБроню из костей дракона&r"
-	quest.77B5572ABF1F5D7B.title: "&#B48EADБроня из костей дракона&r"
+	quest.77B5572ABF1F5D7B.quest_subtitle: "Создайте &#B48EADБроню из драконьих костей&r"
+	quest.77B5572ABF1F5D7B.title: "&#B48EADБроня из драконьих костей&r"
 	quest.77C3588322558EFF.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -7991,8 +8271,8 @@
 	]
 	quest.77C3588322558EFF.quest_subtitle: "Создайте &#4C566AСделанную мастером броню Грифона&r"
 	quest.77C3588322558EFF.title: "&#4C566AСделанная мастером броня Грифона&r"
-	quest.77CF295D82C7DD1C.quest_subtitle: "Добудьте &#B48EADЩит дракона&r"
-	quest.77CF295D82C7DD1C.title: "&#B48EADЩит дракона&r"
+	quest.77CF295D82C7DD1C.quest_subtitle: "Добудьте &#B48EADЩит стража Эшлорда&r"
+	quest.77CF295D82C7DD1C.title: "&#B48EADЩит стража Эшлорда&r"
 	quest.77E489D2549D0AEE.quest_desc: ["    &bЛавина&r - при атаке цели, 40% шанс вызвать лавину наносящую дополнительный урон и заморозить цель на 10 секунд."]
 	quest.77E489D2549D0AEE.quest_subtitle: "Создайте &bМорозный серп&r"
 	quest.77E489D2549D0AEE.title: "&bМорозный серп&r"
@@ -8170,6 +8450,8 @@
 	quest.7AF35889851FAA5A.quest_desc: ["Соединив незеритовый лом и золото получится незеритовый слиток."]
 	quest.7AF35889851FAA5A.quest_subtitle: "Добудьте незеритовый лом и золото"
 	quest.7AF35889851FAA5A.title: "Незеритовый лом"
+	quest.7B1DA6C8F3D1C1A0.quest_subtitle: "Создайте &#6F0000Огнерубиновые инструменты&r"
+	quest.7B1DA6C8F3D1C1A0.title: "&#6F0000Огнерубиновые инструменты&r"
 	quest.7B2725AF14FAE0E4.quest_desc: [
 		"    При полной экипировке:"
 		"- Броня +19."
@@ -8182,15 +8464,15 @@
 	quest.7B32E8021888953A.quest_desc: ["    Мод L_Ender's Cataclysm добавляет новых боссов со своими структурами, а также множество оружий, брони и предметов."]
 	quest.7B32E8021888953A.quest_subtitle: "Мод L_Ender's Cataclysm"
 	quest.7B32E8021888953A.title: "L_Ender's Cataclysm"
-	quest.7B637962AC575814.quest_subtitle: "Победите босса &#B48EADInfernal Dragon&r не получив урона"
+	quest.7B637962AC575814.quest_subtitle: "Победите босса &#B48EADАдский дракон Эшлорд&r не получив урона"
 	quest.7B637962AC575814.title: "&#B48EADБез урона&r"
 	quest.7B68FBEA3243A842.quest_desc: [
-		"    Небольшая структура с замёршим &#B48EADYeti&r, встречается в зимних биомах."
+		"    Небольшая структура с замёршим &#B48EADЙети Скор&r, встречается в зимних биомах."
 		""
 		"{image:ftb:textures/quests/yeti.png width:200 height:100 align:center}"
 	]
-	quest.7B68FBEA3243A842.quest_subtitle: "Убейте босса &#B48EADYeti&r"
-	quest.7B68FBEA3243A842.title: "&#B48EADYeti&r"
+	quest.7B68FBEA3243A842.quest_subtitle: "Убейте босса &#B48EADЙети Скор&r"
+	quest.7B68FBEA3243A842.title: "&#B48EADЙети Скор&r"
 	quest.7C0AEDFBA9A146A1.quest_desc: ["    Используется для создания различных &#B48EADпредметов&r/&#B48EADблоков&r."]
 	quest.7C0AEDFBA9A146A1.quest_subtitle: "Создайте &#B48EADПалладиевый слиток&r"
 	quest.7C0AEDFBA9A146A1.title: "&#B48EADПалладиевый слиток&r"
@@ -8207,6 +8489,17 @@
 	quest.7C469DDE96F6D5EA.quest_desc: ["    Замораживает реки, покрывает снегом любые блоки и превращает &#B48EADйети в ледяные блоки&r."]
 	quest.7C469DDE96F6D5EA.quest_subtitle: "Добудьте &#B48EADЛедяную бомбу&r"
 	quest.7C469DDE96F6D5EA.title: "&#B48EADЛедяная бомба&r"
+	quest.7C4BFC725D8BC2A5.quest_desc: [
+		"    С помощью &#B48EADКузнечного Молота из Незерита&r на &#B48EADЭтериевой наковальне&r можно создать:"
+		""
+		"• &#B48EADЭтериевые кованные пластины&r."
+		""
+		"• &#B48EADЭтериевые навершия инструментов&r."
+		""
+		"• &#B48EADЛезвие этериевого меча&r."
+	]
+	quest.7C4BFC725D8BC2A5.quest_subtitle: "Создайте &#B48EADЭтериевую наковальню&r и &#B48EADКузнечный Молот из Незерита&r"
+	quest.7C4BFC725D8BC2A5.title: "&#B48EADЭтериевая наковальня&r и &#B48EADКузнечный Молот из Незерита&r"
 	quest.7C6076B8AC628C29.quest_desc: [
 		"• &#B48EADСтолешница&r декоративный блок."
 		""
@@ -8260,8 +8553,8 @@
 		""
 		"{image:ftb:textures/quests/sandworm.png width:200 height:100 align:center}"
 	]
-	quest.7D11171C570F7435.quest_subtitle: "Убейте босса &#B48EADSandworm&r"
-	quest.7D11171C570F7435.title: "&#B48EADSandworm&r"
+	quest.7D11171C570F7435.quest_subtitle: "Убейте босса &#B48EADПесчаный цервь Сирок&r"
+	quest.7D11171C570F7435.title: "&#B48EADПесчаный цервь Сирок&r"
 	quest.7D321952202CF439.quest_subtitle: "Использование: Неуязвимость на 3 секунды, но парализует"
 	quest.7D474327F8DE03C6.quest_desc: [
 		"    При полной экипировке:"
@@ -8451,6 +8744,9 @@
 	quest.7F327ED450DFE535.title: "&5Броня Магистра украшенного драгоценностями&r"
 	quest.7F3B175075755C22.quest_subtitle: "Найдите &2Святое копьё&r"
 	quest.7F3B175075755C22.title: "&2Святое копьё&r"
+	quest.7F3C3BE3ED3C35F3.quest_desc: ["    Переплавив &#B48EADНеобработанный талласий&r получится &#B48EADТалласиевый слиток&r."]
+	quest.7F3C3BE3ED3C35F3.quest_subtitle: "Добудьте &#B48EADНеобработанный талласий&r"
+	quest.7F3C3BE3ED3C35F3.title: "&#B48EADНеобработанный талласий&r"
 	quest.7F4B65BA0A97D9C5.quest_desc: [
 		"    &nПри полной экипировке:&r"
 		""
@@ -8574,10 +8870,12 @@
 	task.150063456111D498.title: "&#EBCB8BЗолотой клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.1564B69F506B623E.title: "&#B48EADКухня&r"
 	task.15A44D1D2B9FB218.title: "Выбор направления"
+	task.15C2FC633D28C56B.title: "&dРубиновая лютня&r / &dЭйтериевая лира&r"
 	task.15E442D99364B48E.title: "Небесный всадник"
 	task.17397B9A0053E8F1.title: "Цитадель"
 	task.17AA0612801D3920.title: "&#B48EADНабор посуд&r"
 	task.183AD369FCA90A8F.title: "Armor of the Ages"
+	task.193C56F3C91BAAA5.title: "&#EBCB8BЭйтериевый клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.1990AED378688824.title: "Выжженные шахты"
 	task.1A4CD5474086CA97.title: "Увидеть &#B48EADНегодника&r"
 	task.1AAD0E9FE5094FC8.title: "Археолог в Равнинах"
@@ -8587,6 +8885,7 @@
 	task.1E2D68D27CDAFAC4.title: "Посетить &#4d4791Кузницу големов&r"
 	task.1E86F9FF7DC71CBC.title: "Посетить &#B48EADДревние руины&r"
 	task.1F8C772AC97C42E4.title: "&#B48EADНож Энда&r"
+	task.208CE5BC4C491ABA.title: "Посетить &#B48EADГород Энда&r"
 	task.21AAFF76CD97EBAD.title: "&#B48EADГоризонтальные настенные держатели&r"
 	task.21AB9590F2F2CEBC.title: "&#3A003AНезеритовый серп&r / &#3A003Aкинжал&r"
 	task.22CDAF02A52DF816.title: "Посетить &#035B6CДревний город&r"
@@ -8643,7 +8942,7 @@
 	task.3E964103FB72B5EF.title: "&#B48EADБроня Моа&r"
 	task.3F3BF820836B4FF1.title: "&#B48EADРунического оружие&r"
 	task.403FC9491510E344.title: "&2Лук&r / &2Арбалет II стадии&r"
-	task.41933A3505A942E7.title: "Посетить &#4d4791Сумеречный лес&r"
+	task.41933A3505A942E7.title: "Посетить &#B48EADСумеречный лес&r"
 	task.41E026DBB75BE763.title: "&#EBCB8BНезеритовый клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.41F3B286FC26DD81.title: "Грибной домик"
 	task.42400C250F89962D.title: "&#4C566AВедьмачий меч III стадии&r"
@@ -8657,8 +8956,9 @@
 	task.474A57743E8EB76F.title: "Пиратский корабль нежити"
 	task.491E9287F51030E9.title: "dd"
 	task.49CCE4D68C4B7620.title: "Жестокий корсар"
+	task.4A7437D577AAADEA.title: "&#6F0000Эйтериевый лабрис&r / &#6F0000глефа&r"
 	task.4BA2B3F2B4E7CDA9.title: "&#B48EADУкрашения&r"
-	task.4C482E843E5738FC.title: "Посетить Незер"
+	task.4C482E843E5738FC.title: "Посетить &#6F0000Незер&r"
 	task.4C8B4FA961F7199A.title: "&#B48EADПолки&r"
 	task.4D4B35A6571B5D33.title: "&#EBCB8BКаменный клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.4D99EA339ECCF67D.title: "&#6F0000Золотой лабрис&r / &#6F0000глефа&r"
@@ -8676,6 +8976,7 @@
 	task.50BFA434AFEFC100.title: "&#B48EADМотыга III уровня&r"
 	task.50E05DBCFAB3FB58.title: "Цитадель"
 	task.51C506BB50A86556.title: "Посетить &#B48EADОсобняк&r"
+	task.51E928D153EB7EB1.title: "&#B48EADПьедесталы&r"
 	task.5203ACC7027F0C6E.title: "&#77CCFFНезеритовый посох&r / &#77CCFFжезл ветра&r"
 	task.5203F27B3445EBFB.title: "&#B48EADПриставные столы&r"
 	task.528E7218E62B8164.title: "&#B48EADНож&r"
@@ -8683,18 +8984,21 @@
 	task.5367C272B9BFF257.title: "&#B48EADЮвелирная подушечка&r"
 	task.5393E5B8F9F714C1.title: "Чёрный мост"
 	task.542333FF78023422.title: "Домик на дереве в джунглях"
+	task.55B5C596F09C5EF6.title: "&#6F0000Рубиновый лабрис&r / &#6F0000глефа&r"
 	task.55CB14B44864D081.title: "Лечебница для больных чумой"
 	task.57183EB141013CB8.title: "&#B48EADМотыга II уровня&r"
 	task.57599812A5A3BA58.title: "Ветряная мельница Иллагер"
 	task.57C7C4D7DF25DC8E.title: "Any #c:storage_blocks"
 	task.58E535A89B0E6F66.title: "Any #c:storage_blocks/tomato"
 	task.58ED0B4D9598F0A5.title: "Книги &#74DFBFводы&r, &#8B4513земли&r, &#77CCFFвоздуха&r"
+	task.59A8389F29AA7E73.title: "&2Лук&r / &2Арбалет III стадии&r"
 	task.5A1F21E8308408EF.title: "&#B48EADStorage Upgrade&r"
 	task.5A9698FF55BE41EF.title: "Круг ведьмы"
 	task.5A9D4B6682AF2AFB.title: "&#B48EADВертикальные настенные держатели&r"
 	task.5B946982C0C46ADE.title: "&#B48EADВинная полка&r"
 	task.5BA50DE8B68A8CE6.title: "&#EBCB8BАлмазный клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.5C91927CCC1B311D.title: "&#4C566AВедьмачий меч I стадии&r"
+	task.5CBD8B6423A1993F.title: "&#3A003AРубиновый серп&r / &#3A003Aкинжал&r"
 	task.5D1EB169365D6664.title: "&#74DFBFПосох&r / &#74DFBFжезл воды&r"
 	task.5D2F4135B3202B80.title: "Посетить &#B48EADБашню Иллюзионера&r"
 	task.5D79D8C0D544D1EC.title: "Spellblades and Such"
@@ -8703,6 +9007,7 @@
 	task.5F352AB0E47A600C.title: "Any #c:storage_blocks"
 	task.60915C0B092A3523.title: "Бандитские башни"
 	task.612402C401F8213B.title: "Minecraft"
+	task.619AE32E7811A354.title: "&#3A003AЭйтериевый серп&r / &#3A003Aкинжал&r"
 	task.61DE26DDF26D5714.title: "Any #spell_engine:spell_books"
 	task.63FB621B64474324.title: "&#B48EADПрикроватные тумбы&r"
 	task.641B5AD2278C47F4.title: "Лагерный камбуз"
@@ -8710,6 +9015,7 @@
 	task.64F5D7B4C42D7B57.title: "Баня"
 	task.654D3FF3B69CEDE2.title: "&#B48EADUtility Upgrade&r"
 	task.666BF10D1CC41A18.title: "Монастырь"
+	task.66B6C47907E73455.title: "&#EBCB8BРубиновый клеймор&r / &#EBCB8Bбольшой молот&r"
 	task.6701400E55227946.title: "Маленький"
 	task.679B5F055CD0AAB8.title: "Rogues and Warriors"
 	task.67C94115D0319721.title: "When Dungeons Arise"
@@ -8729,8 +9035,10 @@
 	task.6EA5078BA744ACEC.title: "Шлем"
 	task.6EE3B22DA2DE494A.title: "Пауки"
 	task.70CC11350712E076.title: "Тюремные башни"
+	task.710E1BDDC4CE53F1.title: "Посетить &#B48EADДеревню Энда&r"
 	task.713E801D793CAD58.title: "Маленький дирижабль"
 	task.7286AAC81DF3C6DB.title: "YUNG's Better"
+	task.7351145D198162A9.title: "Посетить &#6F0000Заброшенный город&r"
 	task.7381CD7EA85EB888.title: "Колодец желаний"
 	task.747CA45697B06516.title: "Зомби"
 	task.75957519D7BFC699.title: "&#B48EADКисть&r"
@@ -8750,7 +9058,7 @@
 	task.7D9D5C8CFB45E05F.title: "Фолианты &4огня&r, &5арканы&r, &bмороза&r"
 	task.7DCE4D5779E6956C.title: "Храм в пустыне"
 	task.7E655148F3B4E82F.title: "Судьбоносный обелиск"
-	task.7E8E150989D3946E.title: "Better End"
+	task.7E8E150989D3946E.title: "Посетить &#B48EADЭнд&r"
 	task.7EDFD78FBE792E02.title: "Any #simplyswords:runic_weapons"
 	task.7F7FDC0B5AAE2E1C.title: "&dАлмазная лютня&r / &dлира&r"
 }

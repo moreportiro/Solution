@@ -2,19 +2,21 @@
 	chapter.00A5E405AA1FFEF6.title: "&#B48EADII. Traveler's Backpack&r"
 	chapter.0724D1B931802DE4.title: "&#B48EADI. Jewelry and Relics&r"
 	chapter.1561A268B5DB81BE.title: "&#B48EADEnchanting&r"
-	chapter.1B38FC801CBD19B2.title: "&#B48EADIV. Twilight Forest&r"
+	chapter.1B38FC801CBD19B2.title: "&#B48EADV. Twilight Forest&r"
 	chapter.29955E9C9859437D.title: "&#B48EADI. Farmer's Delight&r"
 	chapter.3975E2F79FDD5150.title: "&#B48EADInfo&r"
 	chapter.3EBDF32BAA87BDF2.title: "&#B48EADIV. Simply Swords&r"
-	chapter.41ADE8149BF8297F.title: "&#B48EADI. Deeper and Darker&r"
-	chapter.41F654A628659EF4.title: "&#B48EADIII. Eternal Starlight&r"
+	chapter.41ADE8149BF8297F.title: "&#B48EADII. Deeper and Darker&r"
+	chapter.41F654A628659EF4.title: "&#B48EADIV. Eternal Starlight&r"
 	chapter.45E8D0D49D7C8632.title: "&#B48EADIII. End Remastered&r"
 	chapter.4808B7E0C0BC4E57.title: "&#B48EADIII. Illager Invasion&r"
 	chapter.5547D6640FFF7808.title: "&#B48EADIII. Relics&r"
+	chapter.5B4C3FCE0DF758A0.title: "&#B48EADVI. Better End&r"
 	chapter.5DD356F9FEB1CBD8.title: "&#B48EADII. Friends and Foes&r"
 	chapter.5E9E034EDB1E529B.title: "&#B48EADI. RPG Series&r"
 	chapter.6F2799E9B6B6C2A4.title: "&#B48EADV. Better Archeology&r"
-	chapter.71DED117E01B37F1.title: "&#B48EADII. The Aether&r"
+	chapter.71DED117E01B37F1.title: "&#B48EADIII. The Aether&r"
+	chapter.779B7A49398CDD67.title: "&#B48EADI. Better Nether&r"
 	chapter.7ADE44D0D17308DD.title: "&#B48EADII. Bosses&r"
 	chapter_group.02892542B4CF1B4D.title: "&#B48EADIII. Adventures&r"
 	chapter_group.063C1996E841C2DC.title: "&#B48EADI. Main&r"
@@ -67,6 +69,8 @@
 	quest.006DE5C32C5624B4.title: "&#B48EADCooking Pot&r"
 	quest.006E51565082FEC8.quest_desc: [
 		"    A huge &#B48EADcastle&r structure found in the Nether."
+		""
+		"    To open the door, you must find the &#B48EADUnderworld Arena Key&r."
 		""
 		"{image:ftb:textures/quests/knight.png width:200 height:100 align:center}"
 	]
@@ -124,6 +128,8 @@
 	quest.00E2DF36D3C82A2D.title: "&5Antonidas's Staff of Rapt Concentration&r"
 	quest.01007AC9AA0AD9C9.quest_desc: ["Shields allow you to block projectiles."]
 	quest.01007AC9AA0AD9C9.quest_subtitle: "Craft a shield"
+	quest.0133D9E4A5046025.quest_subtitle: "Collect all &#B48EADMusic Discs&r"
+	quest.0133D9E4A5046025.title: "&#B48EADMusic Discs&r"
 	quest.013541BA09FB8493.quest_desc: ["    Used to craft &#4d4791Starlight tools&r and &#4d4791Starlight weapons&r."]
 	quest.013541BA09FB8493.quest_subtitle: "Loot the &#4d4791Starlight Upgrade&r"
 	quest.013541BA09FB8493.title: "&#4d4791Starlight Upgrade&r"
@@ -149,6 +155,17 @@
 	]
 	quest.01A6AB27E3D30E1E.quest_subtitle: "Loot &#B48EADAccessories&r"
 	quest.01A6AB27E3D30E1E.title: "&#B48EADAccessories&r"
+	quest.01AF5B9080C62E2D.quest_desc: [
+		"    &nFull set bonus:&r"
+		""
+		"• Armor +19."
+		""
+		"• Armor Toughness +4."
+		""
+		"• Knockback Resistance +20%."
+	]
+	quest.01AF5B9080C62E2D.quest_subtitle: "Craft the &#B48EADTerminite Armor&r"
+	quest.01AF5B9080C62E2D.title: "&#B48EADTerminite Armor&r"
 	quest.01B270762A2BDBC2.quest_desc: ["• &2Radiance&r (Passive) - 25% chance on hit to heal yourself and nearby allies."]
 	quest.01B270762A2BDBC2.quest_subtitle: "Find the &2Sunfury Hawk-Bow&r"
 	quest.01B270762A2BDBC2.title: "&2Sunfury Hawk-Bow&r"
@@ -245,6 +262,9 @@
 	quest.02DC9C2CE42B71DF.quest_subtitle: "Enter the Unbearable Tomb"
 	quest.02E012846A4C0DF9.quest_subtitle: "Loot &6Valkyrie's Silver Staff&r"
 	quest.02E012846A4C0DF9.title: "&6Valkyrie's Silver Staff&r"
+	quest.02E8057E93658FA8.quest_desc: ["    The &#B48EADTerminite Ingot&r is used to create the &#B48EADTerminite Anvil&r."]
+	quest.02E8057E93658FA8.quest_subtitle: "Craft the &#B48EADTerminite Ingot&r"
+	quest.02E8057E93658FA8.title: "&#B48EADTerminite Ingot&r"
 	quest.02F3A87F392D813A.quest_subtitle: "Craft the &#A020F0Fox Figurine&r"
 	quest.02F3A87F392D813A.title: "&#A020F0Fox Figurine&r"
 	quest.0318E76EA2A37421.quest_subtitle: "Slay the &#B48EADChesed&r Boss"
@@ -256,6 +276,9 @@
 	quest.033807D0CD1946F9.title: "&#B48EADThe Aether&r"
 	quest.0353A5D0367187EF.quest_subtitle: "Find &#B48EADTrail Ruins&r"
 	quest.0353A5D0367187EF.title: "&#B48EADTrail Ruins&r"
+	quest.0355ABDD5568800B.quest_desc: ["    The &#B48EADAeternium Ingot&r is used to create the &#B48EADAeternium Anvil&r."]
+	quest.0355ABDD5568800B.quest_subtitle: "Craft the &#B48EADAeternium Ingot&r"
+	quest.0355ABDD5568800B.title: "&#B48EADAeternium Ingot&r"
 	quest.036F61DA48145161.quest_desc: ["    On hit, &#4C566AIris&r charges up dealing more damage, plus life steal per hit."]
 	quest.036F61DA48145161.quest_subtitle: "Find the &#4C566AIris&r"
 	quest.036F61DA48145161.title: "&#4C566AIris&r"
@@ -322,14 +345,16 @@
 		""
 		"• &#BF616ARage&r Power +10%."
 	]
-	quest.04C781B68731D0D0.quest_subtitle: "Craft the &#BF616AFeral Armor&r"
-	quest.04C781B68731D0D0.title: "&#BF616AFeral Armor&r"
+	quest.04C781B68731D0D0.quest_subtitle: "Craft the &#BF616AWildling Armor&r"
+	quest.04C781B68731D0D0.title: "&#BF616AWildling Armor&r"
 	quest.04CB2F93B72AB07D.quest_subtitle: "On damage taken: 12% chance to boost armor by 4 for 8 seconds"
 	quest.04E16A434D30143C.quest_desc: ["    Can hold &#B48EADWine&r bottles."]
 	quest.04E16A434D30143C.quest_subtitle: "Craft a &#B48EADWine Rack&r"
 	quest.04EB8DA617ADF269.quest_desc: ["• &#0044FFSurging&r (Passive) - After killing a target, increases crit chance by 10% for 12 seconds, stacks up to 5 times."]
 	quest.04EB8DA617ADF269.quest_subtitle: "Find the &#0044FFGrand Magister's Staff of Torrents&r"
 	quest.04EB8DA617ADF269.title: "&#0044FFGrand Magister's Staff of Torrents&r"
+	quest.0506E6140E5ECB6D.quest_subtitle: "Craft the &#6F0000Nether Ruby Armor&r"
+	quest.0506E6140E5ECB6D.title: "&#6F0000Nether Ruby Armor&r"
 	quest.05073DFEE811CE37.quest_desc: [
 		"    Samhain is a friendly mob that can be equipped with armor and weapons to help in combat."
 		""
@@ -379,8 +404,8 @@
 		""
 		"• Spell Haste +12%."
 	]
-	quest.05933B6711F80062.quest_subtitle: "Craft the &ePriory Garb&r"
-	quest.05933B6711F80062.title: "&ePriory Garb&r"
+	quest.05933B6711F80062.quest_subtitle: "Craft the &ePrior Garb&r"
+	quest.05933B6711F80062.title: "&ePrior Garb&r"
 	quest.05B406D5692CC935.quest_desc: [
 		"    Full set bonus:"
 		"- +10 Armor."
@@ -425,6 +450,8 @@
 	quest.06045BB73E0AE644.title: "&#3A003AAngelist Jewelry&r"
 	quest.06219756F5CC9EBD.quest_subtitle: "Defeat &#B48EADall bosses&r without taking damage"
 	quest.06219756F5CC9EBD.title: "&#B48EADNo Damage&r"
+	quest.065832C538141FDE.quest_subtitle: "Craft the &#BF616ARuby Raid Axe&r"
+	quest.065832C538141FDE.title: "&#BF616ARuby Raid Axe&r"
 	quest.06947171A91B2E2B.quest_desc: [
 		"    Full set bonus:"
 		"- +6% Physical Damage."
@@ -470,9 +497,6 @@
 	quest.077675BA7684D0D1.quest_desc: ["   &0Durasteel Crown&r has the same stats as &0Durasteel Helmet&r."]
 	quest.077675BA7684D0D1.quest_subtitle: "Craft &0Durasteel Crown&r"
 	quest.077675BA7684D0D1.title: "&0Durasteel Crown&r"
-	quest.07ADA9940EB6B741.quest_desc: ["    End Cities contain valuable resources."]
-	quest.07ADA9940EB6B741.quest_subtitle: "Find an End City"
-	quest.07ADA9940EB6B741.title: "End City"
 	quest.07B3964F3394E796.quest_desc: [
 		"    Friendly mob found in &#B48EADmineshafts&r."
 		""
@@ -494,7 +518,7 @@
 	]
 	quest.07E7F1F08926F7DA.quest_subtitle: "Craft &0Durasteel Ingot&r"
 	quest.07E7F1F08926F7DA.title: "&0Durasteel Ingot&r"
-	quest.07EC659CC02D9E2E.quest_desc: ["    &#BF616ACarve&r (Passive) - Melee damage: 20% chance to stack 10% armor reduction and reduce incoming damage by 5% for 6 seconds."]
+	quest.07EC659CC02D9E2E.quest_desc: ["• &#BF616ACarve&r (Passive) - Melee damage: 20% chance to stack 10% armor reduction and reduce incoming damage by 5% for 6 seconds."]
 	quest.07EC659CC02D9E2E.quest_subtitle: "Find the &#BF616ABlack Cleaver&r"
 	quest.07EC659CC02D9E2E.title: "&#BF616ABlack Cleaver&r"
 	quest.082021129D83C859.quest_desc: ["    &bFrost Puddle&r - 20% chance on hit to create a freezing area around target, slowing movement and attack speed for 2 seconds."]
@@ -556,6 +580,8 @@
 	quest.0905581CEF1E076C.quest_desc: ["    Unobtainium Upgrade is used to craft &9Metallurgium Armor&r and &9Metallurgium Tools&r."]
 	quest.0905581CEF1E076C.quest_subtitle: "Loot Unobtainium Upgrade"
 	quest.0905581CEF1E076C.title: "Unobtainium Upgrade"
+	quest.093ABF8D42E20503.quest_subtitle: "Find the &#B48EADElytra&r"
+	quest.093ABF8D42E20503.title: "&#B48EADElytra&r"
 	quest.093E3822FCAA9898.quest_desc: [
 		"    Full set bonus:"
 		"- +24% Arcane spell power."
@@ -566,7 +592,7 @@
 	quest.093E3822FCAA9898.title: "&9Mystic Jewelry&r"
 	quest.095981908F04F5F2.quest_subtitle: "Craft the &#EBCB8BIron Kite Shield&r and &#EBCB8BMace&r"
 	quest.095981908F04F5F2.title: "&#EBCB8BIron Kite Shield&r, &#EBCB8BMace&r"
-	quest.0979E982FF2F80C3.quest_desc: ["    &#BF616ALightning Strike&r (Passive) - Melee damage: 15% chance to spawn a lightning strike."]
+	quest.0979E982FF2F80C3.quest_desc: ["• &#BF616ALightning Strike&r (Passive) - Melee damage: 15% chance to spawn a lightning strike."]
 	quest.0979E982FF2F80C3.quest_subtitle: "Find the &#BF616AToranos's Axe&r"
 	quest.0979E982FF2F80C3.title: "&#BF616AToranos's Axe&r"
 	quest.098754C74C8349AE.quest_desc: ["    &9Metallurgium Tools&r are better than &8netherite&r."]
@@ -584,8 +610,8 @@
 	quest.09CBF2FB03FA8DD4.quest_desc: ["    &4Pipeline&r spawns in the &nInfernal Dunes&r biome."]
 	quest.09CBF2FB03FA8DD4.quest_subtitle: "Find and clear the &4Pipeline&r"
 	quest.09CBF2FB03FA8DD4.title: "&4Pipeline&r"
-	quest.09E369722344D3E1.quest_subtitle: "Obtain &#B48EADIllusion Dust&r"
-	quest.09E369722344D3E1.title: "&#B48EADIllusion Dust&r"
+	quest.09E369722344D3E1.quest_subtitle: "Obtain the &#B48EADIllusionary Dust&r"
+	quest.09E369722344D3E1.title: "&#B48EADIllusionary Dust&r"
 	quest.0A083B9D36E8A30A.quest_desc: ["    Enchanting Gravitite Ore creates Enchanted Gravitite."]
 	quest.0A083B9D36E8A30A.quest_subtitle: "Mine &#B48EADGravitite Ore&r"
 	quest.0A083B9D36E8A30A.title: "&#B48EADGravitite Ore&r"
@@ -673,7 +699,7 @@
 	quest.0AD0EA07188C82C2.quest_subtitle: "Craft &6Priest Garb&r"
 	quest.0AD0EA07188C82C2.title: "&6Priest Garb&r"
 	quest.0ADA1703A074A8EB.quest_desc: ["    Points to the nearest &#B48EADore&r."]
-	quest.0ADA1703A074A8EB.quest_subtitle: "Loot &#B48EADLost Candle&r"
+	quest.0ADA1703A074A8EB.quest_subtitle: "Find the &#B48EADLost Candle&r"
 	quest.0ADA1703A074A8EB.title: "&#B48EADLost Candle&r"
 	quest.0AE2D3756CA3987D.quest_desc: [
 		"    Placing &#4d4791Carved Moon Prickly Pear&r on &#4d4791Ephyral Block&r summons an Ephyral Golem."
@@ -694,10 +720,10 @@
 		""
 		"• &#222222Evasion&r Chance +20%."
 	]
-	quest.0B013BFD1A692AAD.quest_subtitle: "Craft the &#222222Netherite Sharpshooter Garb&r"
-	quest.0B013BFD1A692AAD.title: "&#222222Netherite Sharpshooter Garb&r"
+	quest.0B013BFD1A692AAD.quest_subtitle: "Craft the &#222222Netherite Deadeye Garb&r"
+	quest.0B013BFD1A692AAD.title: "&#222222Netherite Deadeye Garb&r"
 	quest.0B2AE46F70CD1EC1.quest_desc: ["    &#B48EADPlatinum Chunks&r can be crafted into &#B48EADPlatinum Sheets&r."]
-	quest.0B2AE46F70CD1EC1.quest_subtitle: "Obtain &#B48EADPlatinum Chunks&r"
+	quest.0B2AE46F70CD1EC1.quest_subtitle: "Obtain the &#B48EADPlatinum Chunks&r"
 	quest.0B2AE46F70CD1EC1.title: "&#B48EADPlatinum Chunks&r"
 	quest.0B3DDDFB6E9283FE.quest_desc: ["    &#B48EADBronze Treasury&r is located in an underground labyrinth."]
 	quest.0B3DDDFB6E9283FE.quest_subtitle: "Slay the &#B48EADSlider&r Boss"
@@ -836,6 +862,9 @@
 	quest.0D7A686F36A12240.quest_desc: ["    Inflicts &#4d4791Poison II&r and &#4d4791Nausea&r."]
 	quest.0D7A686F36A12240.quest_subtitle: "Craft &#4d4791Prickly Fruit Weapons&r"
 	quest.0D7A686F36A12240.title: "&#4d4791Prickly Fruit Weapons&r"
+	quest.0D82076B4DD4B521.quest_subtitle: "Craft the &#3A003ARuby Sickle&r or &#3A003ADagger&r"
+	quest.0D9AA7EC57E7E6EA.quest_subtitle: "Craft &#EBCB8BRuby Kite Shield&r and &#EBCB8BMace&r"
+	quest.0D9AA7EC57E7E6EA.title: "&#EBCB8BRuby Kite Shield&r, &#EBCB8BMace&r"
 	quest.0DB16542D7F128D6.quest_desc: ["    Labyrinth and Ore Map reveals all &#B48EADtreasures in the labyrinth&r; each floor requires a separate map."]
 	quest.0DB16542D7F128D6.quest_subtitle: "Craft &#B48EADEmpty Labyrinth and Ore Map&r"
 	quest.0DB16542D7F128D6.title: "&#B48EADEmpty Labyrinth and Ore Map&r"
@@ -877,6 +906,17 @@
 	quest.0EB6626B28255F1D.quest_desc: ["    &eAegis Sword&r is better than &7stone&r but worse than &7iron&r."]
 	quest.0EB6626B28255F1D.quest_subtitle: "Craft &eAegis Sword&r"
 	quest.0EB6626B28255F1D.title: "&eAegis Sword&r"
+	quest.0EF9B590D97D72FD.quest_desc: [
+		"    &nFull set bonus:&r"
+		""
+		"• Armor +24."
+		""
+		"• Armor Toughness +14."
+		""
+		"• Knockback Resistance +80%."
+	]
+	quest.0EF9B590D97D72FD.quest_subtitle: "Craft the &#B48EADAeternium Armor&r"
+	quest.0EF9B590D97D72FD.title: "&#B48EADAeternium Armor&r"
 	quest.0F07971F959AD23C.quest_desc: [
 		"    Full set bonus:"
 		"- +20 Armor."
@@ -974,8 +1014,8 @@
 		""
 		"• Armor Toughness +4."
 	]
-	quest.0FF4618D4D458485.quest_subtitle: "Craft the &#FF681FNetherite Archer Armor&r"
-	quest.0FF4618D4D458485.title: "&#FF681FNetherite Archer Armor&r"
+	quest.0FF4618D4D458485.quest_subtitle: "Craft the &#FF681FNetherite Bowman Armor&r"
+	quest.0FF4618D4D458485.title: "&#FF681FNetherite Bowman Armor&r"
 	quest.1004EC86FE580D56.quest_desc: ["    New &#B48EADshards&r used to craft various &#B48EADitems&r/&#B48EADblocks&r."]
 	quest.1004EC86FE580D56.quest_subtitle: "Collect &#B48EADShards&r"
 	quest.1004EC86FE580D56.title: "&#B48EADShards&r"
@@ -990,8 +1030,8 @@
 		""
 		"• Physical Damage +16%."
 	]
-	quest.10270A4D3EA3128B.quest_subtitle: "Craft the &#4C566AReinforced Bear Armor&r"
-	quest.10270A4D3EA3128B.title: "&#4C566AReinforced Bear Armor&r"
+	quest.10270A4D3EA3128B.quest_subtitle: "Craft the &#4C566AEnhanced Ursine Armor&r"
+	quest.10270A4D3EA3128B.title: "&#4C566AEnhanced Ursine Armor&r"
 	quest.103EB71EA7542B60.quest_desc: ["{image:ftb:textures/quests/poisonb.png width:85 height:200 align:center}"]
 	quest.103EB71EA7542B60.quest_subtitle: "Throw item into &#B48EADPoison&r"
 	quest.103EB71EA7542B60.title: "&#B48EADPoison&r"
@@ -1077,6 +1117,8 @@
 	]
 	quest.11EC7AD1497D8470.quest_subtitle: "Craft &3Hydrargym Armor&r"
 	quest.11EC7AD1497D8470.title: "&3Hydrargym Armor&r"
+	quest.1200D5DE108815F3.quest_subtitle: "Craft the &#B48EADThallasium Sword&r"
+	quest.1200D5DE108815F3.title: "&#B48EADThallasium Sword&r"
 	quest.1204C10B7D108AF0.quest_desc: [
 		"    Full set bonus:"
 		"- +16% Adrenaline boost."
@@ -1113,6 +1155,8 @@
 	quest.1258C5696ED2A68A.title: "&2Sky Crossbow&r"
 	quest.127888228FD40A02.quest_subtitle: "Craft &#4d4791Amariuntine Tools&r"
 	quest.127888228FD40A02.title: "&#4d4791Amariuntine Tools&r"
+	quest.128A0722729BCB2F.quest_subtitle: "Craft the &5Crystal Arcane Staff&r"
+	quest.128A0722729BCB2F.title: "&5Crystal Arcane Staff&r"
 	quest.12BB73949365F590.quest_subtitle: "Craft &2Royal Longbow&r"
 	quest.12BB73949365F590.title: "&2Royal Longbow&r"
 	quest.12C23B333252B1FF.quest_subtitle: "Craft the &aNetherite Nature Staff or Wand&r"
@@ -1214,9 +1258,26 @@
 	quest.14711D0CD01F3B63.title: "&#B48EADMagic Beans&r"
 	quest.1477A68C1E247AEA.quest_subtitle: "Find Greenwood Pub"
 	quest.1477A68C1E247AEA.title: "Greenwood Pub"
+	quest.1485F915FB6BADF2.quest_desc: [
+		"    &nFull set bonus:&r"
+		""
+		"• Armor +16."
+		""
+		"• Armor Toughness +3,84."
+		""
+		"• Blindness Resistance +1."
+		""
+		"• Max Health +4."
+		""
+		"• Effects &#B48EADDig Speed&r and &#B48EADSwiftness&r."
+	]
+	quest.1485F915FB6BADF2.quest_subtitle: "Craft the &#B48EADCrystalite Armor&r"
+	quest.1485F915FB6BADF2.title: "&#B48EADCrystalite Armor&r"
 	quest.14881865C388581C.quest_desc: ["    Adds new &#4d4791Eternal Starlight&r dimension with new &#4d4791biomes&r, structures with &#4d4791bosses&r, plus many new &#4d4791tools&r, &#4d4791armor&r and &#4d4791mobs&r."]
 	quest.14881865C388581C.quest_subtitle: "&#4d4791Eternal Starlight&r Mod"
 	quest.14881865C388581C.title: "&#4d4791Eternal Starlight&r"
+	quest.14C874BDBC986C52.quest_subtitle: "Collect all &#6F0000Logs&r"
+	quest.14C874BDBC986C52.title: "&#6F0000Logs&r"
 	quest.14C9F3A2E231A67E.quest_subtitle: "Craft &8Iron Witcher Sword&r"
 	quest.14C9F3A2E231A67E.title: "&8Iron Witcher Sword&r"
 	quest.151D188AD328483C.quest_desc: ["    &5Carmot Tools&r are equivalent to &bdiamond&r and add fortune."]
@@ -1401,8 +1462,8 @@
 		""
 		"• Increases &bFrost Shield&r duration by 2 seconds."
 	]
-	quest.16D4CE3B9E9D8D3B.quest_subtitle: "Collect the &bGlacial Mantle&r"
-	quest.16D4CE3B9E9D8D3B.title: "&bGlacial Mantle&r"
+	quest.16D4CE3B9E9D8D3B.quest_subtitle: "Collect the &bGlacier Mantle&r"
+	quest.16D4CE3B9E9D8D3B.title: "&bGlacier Mantle&r"
 	quest.16DDFD417C947AE4.quest_desc: [
 		"    The &#BF616AAncient Runic Tome&r has 4 different Berserker spells:"
 		""
@@ -1487,9 +1548,9 @@
 	quest.17F1566DA7215A76.title: "&bIcicle Thrower&r"
 	quest.17FCC6E7EC5EF7F4.quest_subtitle: "Find the &#6F0000Gilded Battle Glaive&r"
 	quest.17FCC6E7EC5EF7F4.title: "&#6F0000Gilded Battle Glaive&r"
-	quest.180291DB28713E16.quest_desc: ["    &4Incendium&r mod adds 8 completely new biomes and 9 new structures with new mobs, items and upgrades."]
-	quest.180291DB28713E16.quest_subtitle: "&4Incendium&r Mod"
-	quest.180291DB28713E16.title: "&4Incendium&r"
+	quest.180291DB28713E16.quest_desc: ["    Adds completely new &#6F0000biomes&r to the Nether, new &#6F0000structures&r with new mobs, and new items and upgrades."]
+	quest.180291DB28713E16.quest_subtitle: "&#6F0000Better Nether&r Mod"
+	quest.180291DB28713E16.title: "&#6F0000Better Nether&r"
 	quest.182F24F1F3625911.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -1565,6 +1626,8 @@
 	quest.198783F4361CFCA7.quest_desc: ["    &0Withering Pulse&r - 50% chance on hit to deal extra damage to targets in 90 degree arc."]
 	quest.198783F4361CFCA7.quest_subtitle: "Craft &0Withered Spine&r"
 	quest.198783F4361CFCA7.title: "&0Withered Spine&r"
+	quest.19A554599EB6BDFE.quest_subtitle: "Create all &#6F0000Blue Obsidian Variants&r"
+	quest.19A554599EB6BDFE.title: "&#6F0000Blue Obsidian Variants&r"
 	quest.19D83E4D1954C788.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -1709,8 +1772,8 @@
 		""
 		"• Physical Damage +16%."
 	]
-	quest.1ACDFDA7D9C5F78B.quest_subtitle: "Craft the &#BF616ANortherner Armor&r"
-	quest.1ACDFDA7D9C5F78B.title: "&#BF616ANortherner Armor&r"
+	quest.1ACDFDA7D9C5F78B.quest_subtitle: "Craft the &#BF616ANorthling Armor&r"
+	quest.1ACDFDA7D9C5F78B.title: "&#BF616ANorthling Armor&r"
 	quest.1AD8E40C0C381B71.quest_desc: ["    Used to craft &#035B6CWarden Tools&r and &#035B6CWarden Armor&r."]
 	quest.1AD8E40C0C381B71.quest_subtitle: "Obtain the &#035B6CWarden Upgrade&r"
 	quest.1AD8E40C0C381B71.title: "&#035B6CWarden Upgrade&r"
@@ -1737,8 +1800,8 @@
 		""
 		"• Spell Haste +8%."
 	]
-	quest.1B844785F4049E13.quest_subtitle: "Craft the &5Mystic Mantle&r"
-	quest.1B844785F4049E13.title: "&5Mystic Mantle&r"
+	quest.1B844785F4049E13.quest_subtitle: "Craft the &5Arcane Mantle&r"
+	quest.1B844785F4049E13.title: "&5Arcane Mantle&r"
 	quest.1BA4168341EA6928.quest_desc: [
 		"    Totems are hidden in structures."
 		""
@@ -1764,6 +1827,9 @@
 	quest.1BB8608AE2A37CC3.quest_desc: ["    &cPalladium Crown&r has the same stats as &cPalladium Helmet&r."]
 	quest.1BB8608AE2A37CC3.quest_subtitle: "Craft &cPalladium Crown&r"
 	quest.1BB8608AE2A37CC3.title: "&cPalladium Crown&r"
+	quest.1BC08DC87E7FBB1E.quest_desc: ["    Used for &#6F0000respawn&r, requires &#6F00004 Glowstone&r to activate."]
+	quest.1BC08DC87E7FBB1E.quest_subtitle: "Find the &#6F0000Respawner Statue&r"
+	quest.1BC08DC87E7FBB1E.title: "&#6F0000Respawner Statue&r"
 	quest.1BC187DE32EA2681.quest_subtitle: "Craft &4Netherite Labrys&r"
 	quest.1BC187DE32EA2681.title: "&4Netherite Labrys&r"
 	quest.1BEFF06994C11398.quest_desc: [
@@ -1855,8 +1921,8 @@
 		""
 		"• Increases &#BF616ABlood Strike&r spell power multiplier by 10%."
 	]
-	quest.1D0EEE6914C2F96F.quest_subtitle: "Collect the &#BF616AScandinavian Warlord Armor&r"
-	quest.1D0EEE6914C2F96F.title: "&#BF616AScandinavian Warlord Armor&r"
+	quest.1D0EEE6914C2F96F.quest_subtitle: "Collect the &#BF616ANorse Warlord Armor&r"
+	quest.1D0EEE6914C2F96F.title: "&#BF616ANorse Warlord Armor&r"
 	quest.1D2704C794EBCCFD.quest_desc: ["    &4Adamantite Tools&r are better than &8netherite&r."]
 	quest.1D2704C794EBCCFD.quest_subtitle: "Craft &4Adamantite Tools&r"
 	quest.1D2704C794EBCCFD.title: "&4Adamantite Tools&r"
@@ -1901,8 +1967,8 @@
 	]
 	quest.1DD4C5A775A76515.quest_subtitle: "Collect the &5Astral Mantle&r"
 	quest.1DD4C5A775A76515.title: "&5Astral Mantle&r"
-	quest.1DFC8D79FAF32AA2.quest_subtitle: "Craft the &#BF616AGolden Greataxe&r"
-	quest.1DFC8D79FAF32AA2.title: "&#BF616AGolden Greataxe&r"
+	quest.1DFC8D79FAF32AA2.quest_subtitle: "Craft the &#BF616AGolden Raid Axe&r"
+	quest.1DFC8D79FAF32AA2.title: "&#BF616AGolden Raid Axe&r"
 	quest.1E1EC18C279AB665.quest_desc: ["    Contain massive &#B48EADcrystals&r and calcite formations."]
 	quest.1E1EC18C279AB665.quest_subtitle: "Visit the &#B48EADCrystal Canyons&r"
 	quest.1E1EC18C279AB665.title: "&#B48EADCrystal Canyons&r"
@@ -1951,8 +2017,8 @@
 	]
 	quest.1EA674A7601B9BD5.quest_subtitle: "Find the &#4C566AAncient Kaer Morhen Jewelry&r"
 	quest.1EA674A7601B9BD5.title: "&#4C566AAncient Kaer Morhen Jewelry&r"
-	quest.1EB5AD54E4CA1CF6.quest_subtitle: "Craft the &#BF616ANetherite Greataxe&r"
-	quest.1EB5AD54E4CA1CF6.title: "&#BF616ANetherite Greataxe&r"
+	quest.1EB5AD54E4CA1CF6.quest_subtitle: "Craft the &#BF616ANetherite Raid Axe&r"
+	quest.1EB5AD54E4CA1CF6.title: "&#BF616ANetherite Raid Axe&r"
 	quest.1EBF9276001D662F.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -2008,6 +2074,8 @@
 	quest.1F468F0F8AFD2FA3.title: "&9Holy Fist&r"
 	quest.1F4933F3EF31975C.quest_subtitle: "Craft the &2Battle Quiver&r"
 	quest.1F4933F3EF31975C.title: "&2Battle Quiver&r"
+	quest.1F7354C790FF696E.quest_subtitle: "Craft the &#6F0000Cincinnasite-Diamond Tools&r"
+	quest.1F7354C790FF696E.title: "&#6F0000Cincinnasite-Diamond Tools&r"
 	quest.1F95EDA8FAAEB746.quest_desc: ["    Magic Map shows &#B48EADbosses&r and other &#B48EADstructures&r."]
 	quest.1F95EDA8FAAEB746.quest_subtitle: "Craft &#B48EADEmpty Magic Map&r"
 	quest.1F95EDA8FAAEB746.title: "&#B48EADEmpty Magic Map&r"
@@ -2038,8 +2106,10 @@
 	]
 	quest.2021F5C4DDED2782.quest_subtitle: "Craft &8Steel Ingot&r"
 	quest.2021F5C4DDED2782.title: "&8Steel Ingot&r"
-	quest.20379957375C6E80.quest_subtitle: "Craft the &#A020F0Netherite Fist&r"
-	quest.20379957375C6E80.title: "&#A020F0Netherite Fist&r"
+	quest.20379957375C6E80.quest_subtitle: "Craft the &#A020F0Netherite Knuckle&r"
+	quest.20379957375C6E80.title: "&#A020F0Netherite Knuckle&r"
+	quest.2047EB1B95A0906A.quest_subtitle: "Find the &#6F0000Nether City&r"
+	quest.2047EB1B95A0906A.title: "&#6F0000Nether City&r"
 	quest.2049B27F20DD1A36.quest_desc: ["    Aqua Pearl is used to craft Tide Singer Upgrade."]
 	quest.2049B27F20DD1A36.quest_subtitle: "Find Aqua Pearl"
 	quest.20A1C2E1C777B48A.quest_subtitle: "Find all &#B48EADMusic Discs&r"
@@ -2112,6 +2182,16 @@
 	quest.21518F654C5CCFE1.title: "&4Draconic Battle Staff&r"
 	quest.21544634F580E234.quest_subtitle: "Craft &6Netherite Earth Staff&r"
 	quest.21544634F580E234.title: "&6Netherite Earth Staff&r"
+	quest.216A06A409596B1D.quest_subtitle: "Craft the &#6F0000Ruby Double Axe&r or &#6F0000Glaive&r"
+	quest.21724AB7BA07CFFB.quest_desc: [
+		"    From &#6F0000Nether Ruby&r are created:"
+		""
+		"• &#6F0000Nether Ruby Tools&r."
+		""
+		"• &#6F0000Nether Ruby Armor&r."
+	]
+	quest.21724AB7BA07CFFB.quest_subtitle: "Obtain the &#6F0000Nether Ruby&r"
+	quest.21724AB7BA07CFFB.title: "&#6F0000Nether Ruby&r"
 	quest.2172F3B3383A7BBF.quest_desc: [
 		"    Full set bonus:"
 		"- +80% Air, Earth, Water, Fire spell power."
@@ -2129,6 +2209,8 @@
 	quest.21A8A1E1D5FD4D15.title: "&0Hell Scythe&r"
 	quest.21B09CC170629E8D.quest_subtitle: "Find the &#4C566AHoly Witcher Sword&r"
 	quest.21B09CC170629E8D.title: "&#4C566AHoly Witcher Sword&r"
+	quest.21BDF5BAE820EE5C.quest_subtitle: "Craft the &#74DFBFCrystal Aqua Staff&r"
+	quest.21BDF5BAE820EE5C.title: "&#74DFBFCrystal Aqua Staff&r"
 	quest.21C9AF2E5687E059.quest_desc: ["    &2Flame Strike&r - 30% chance on hit to ignite area around target dealing continuous damage."]
 	quest.21C9AF2E5687E059.quest_subtitle: "Loot &2Phoenix Gale Crossbow&r"
 	quest.21C9AF2E5687E059.title: "&2Phoenix Gale Crossbow&r"
@@ -2173,9 +2255,9 @@
 	quest.22065ACE6EA1934D.quest_desc: ["• &#6F0000Rampaging&r (Passive) - On kill, gain 5% damage boost for 12 seconds, stacks up to 5 times."]
 	quest.22065ACE6EA1934D.quest_subtitle: "Find the &#6F0000Sunreaver War Axe&r"
 	quest.22065ACE6EA1934D.title: "&#6F0000Sunreaver War Axe&r"
-	quest.22254BAB8D6C842C.quest_subtitle: "Craft the &#A020F0Stone Fist&r"
-	quest.22254BAB8D6C842C.title: "&#A020F0Stone Fist&r"
-	quest.22294CAFD10DE2D9.quest_subtitle: "Find &#B48EADMansion&r"
+	quest.22254BAB8D6C842C.quest_subtitle: "Craft the &#A020F0Stone Knuckle&r"
+	quest.22254BAB8D6C842C.title: "&#A020F0Stone Knuckle&r"
+	quest.22294CAFD10DE2D9.quest_subtitle: "Find the &#B48EADMansion&r"
 	quest.22294CAFD10DE2D9.title: "&#B48EADMansion&r"
 	quest.222BB89598F57699.quest_subtitle: "Collect all &#4C566AGreater Glyphs&r"
 	quest.222BB89598F57699.title: "&#4C566AGreater Glyphs&r"
@@ -2267,8 +2349,8 @@
 		""
 		"• Critical Hit Damage +18%."
 	]
-	quest.23E6BD925F75AD1E.quest_subtitle: "Craft the &#BF616ARunic Jewelry&r"
-	quest.23E6BD925F75AD1E.title: "&#BF616ARunic Jewelry&r"
+	quest.23E6BD925F75AD1E.quest_subtitle: "Craft the &#BF616AViking Rune Jewelry&r"
+	quest.23E6BD925F75AD1E.title: "&#BF616AViking Rune Jewelry&r"
 	quest.240B7A1F94B58A88.quest_desc: [
 		"    Full set bonus:"
 		"- +24% Adrenaline boost."
@@ -2297,6 +2379,8 @@
 	quest.2492475C71774F86.quest_desc: ["    &0Sundering&r - 20% chance on hit to reduce target's armor by 30% for 5 seconds."]
 	quest.2492475C71774F86.quest_subtitle: "Loot &0Essence of Apocalypse&r"
 	quest.2492475C71774F86.title: "&0Essence of Apocalypse&r"
+	quest.24AE709B15395556.quest_subtitle: "Craft the &#B48EADTerminite Sword&r"
+	quest.24AE709B15395556.title: "&#B48EADTerminite Sword&r"
 	quest.24BACE4698720236.quest_subtitle: "Craft &2Netherite Longbow&r"
 	quest.24BACE4698720236.title: "&2Netherite Longbow&r"
 	quest.24D617E8F203A1F1.quest_subtitle: "Spell Damage: 10% chance to boost casting speed by 10%, stacks up to 10 times, for 10 seconds"
@@ -2315,8 +2399,8 @@
 		""
 		"• &#222222Evasion&r Chance +16%."
 	]
-	quest.2507D8BDA646999B.quest_subtitle: "Craft the &#222222Sharpshooter Garb&r"
-	quest.2507D8BDA646999B.title: "&#222222Sharpshooter Garb&r"
+	quest.2507D8BDA646999B.quest_subtitle: "Craft the &#222222Deadeye Garb&r"
+	quest.2507D8BDA646999B.title: "&#222222Deadeye Garb&r"
 	quest.2564517288FE8019.quest_desc: [
 		"    Full set bonus:"
 		"- +12 Armor."
@@ -2337,6 +2421,17 @@
 	]
 	quest.25784761776E4579.quest_subtitle: "Craft &bNetherite Tanzanite Jewelry&r"
 	quest.25784761776E4579.title: "&bNetherite Tanzanite Jewelry&r"
+	quest.2582F4F419517395.quest_desc: [
+		"    Using the &#B48EADDiamond Smith Hammer&r on the &#B48EADTerminite Anvil&r, you can create:"
+		""
+		"• &#B48EADTerminite Forged Plate&r."
+		""
+		"• &#B48EADTerminite Tool Head&r."
+		""
+		"• &#B48EADTerminite Sword Blade&r."
+	]
+	quest.2582F4F419517395.quest_subtitle: "Craft the &#B48EADTerminite Anvil&r"
+	quest.2582F4F419517395.title: "&#B48EADTerminite Anvil&r"
 	quest.25997C069BFB1FAF.quest_desc: [
 		"    The &3Ocean Secrets&r book has 5 different Water spells:"
 		""
@@ -2398,12 +2493,14 @@
 		""
 		"• Spell Haste +12%."
 	]
-	quest.267FEE2F69DB4FBE.quest_subtitle: "Craft the &5Netherite Mystic Mantle&r"
-	quest.267FEE2F69DB4FBE.title: "&5Netherite Mystic Mantle&r"
+	quest.267FEE2F69DB4FBE.quest_subtitle: "Craft the &5Netherite Arcane Mantle&r"
+	quest.267FEE2F69DB4FBE.title: "&5Netherite Arcane Mantle&r"
 	quest.26C03B853270A97C.quest_subtitle: "Find Jungle Tree House"
 	quest.26C03B853270A97C.title: "Jungle Tree House"
 	quest.26C909C586E07D99.quest_subtitle: "Cook all &#B48EADSalads&r"
 	quest.26C909C586E07D99.title: "&#B48EADSalads&r"
+	quest.26CF31066B93B053.quest_subtitle: "Find the &#B48EADEnd Village&r"
+	quest.26CF31066B93B053.title: "&#B48EADEnd Village&r"
 	quest.26D7701F3DFF34F3.quest_subtitle: "Craft &4Diamond Labrys&r"
 	quest.26D7701F3DFF34F3.title: "&4Diamond Labrys&r"
 	quest.26DDABC6FCAEC063.quest_desc: [
@@ -2501,6 +2598,11 @@
 	]
 	quest.27F3A51DAB572A32.quest_subtitle: "Find the &5Mystic Jewelry&r"
 	quest.27F3A51DAB572A32.title: "&5Mystic Jewelry&r"
+	quest.27FB9DC6E2F93CB4.quest_desc: ["• &#A020F0Carve&r (Passive) - Melee damage: 20% chance to stack 10% armor reduction and reduce incoming damage by 5% for 6 seconds."]
+	quest.27FB9DC6E2F93CB4.quest_subtitle: "Find the &#A020F0Knuckle of Mandess&r"
+	quest.27FB9DC6E2F93CB4.title: "&#A020F0Knuckle of Mandess&r"
+	quest.27FE33947FB4B97A.quest_subtitle: "Create the &#6F0000Blue Obsidian&r"
+	quest.27FE33947FB4B97A.title: "&#6F0000Blue Obsidian&r"
 	quest.280C07258168F554.quest_subtitle: "Craft the &5Arcane Staff&r or &5Wand&r"
 	quest.280FDEAA5750FA69.quest_desc: ["    &bGlacier Splitter&r - On kill, creates ice projectiles freezing nearby targets for 5 seconds."]
 	quest.280FDEAA5750FA69.quest_subtitle: "Craft &bGlacial Shard Bow&r"
@@ -2564,6 +2666,9 @@
 	quest.28E3360D7BC65F46.quest_desc: ["You'll need wood to craft your first tools."]
 	quest.28E3360D7BC65F46.quest_subtitle: "Get Wood"
 	quest.28E3360D7BC65F46.title: "Timber!"
+	quest.28F3A2FFC3F6B303.quest_desc: ["• &#A020F0Nen Focus&r (Passive) - Defeating enemies with Forcemaster Spells grants Nen Focus effect, stacking Arcane Overflow with melee attacks up to 7 times, lasting 8 seconds."]
+	quest.28F3A2FFC3F6B303.quest_subtitle: "Find the &#A020F0Federhorn Knuckle&r"
+	quest.28F3A2FFC3F6B303.title: "&#A020F0Federhorn Knuckle&r"
 	quest.291C2927DC0B8529.quest_desc: ["    &9Kyber Tools&r are on par with &7Iron&r tools."]
 	quest.291C2927DC0B8529.quest_subtitle: "Craft &9Kyber Tools&r"
 	quest.291C2927DC0B8529.title: "&9Kyber Tools&r"
@@ -2577,6 +2682,7 @@
 	quest.291C8D8369028E47.quest_subtitle: "Craft a Shining Essence"
 	quest.2998470090671E6C.quest_subtitle: "Craft the &#EBCB8BGolden Kite Shield&r and &#EBCB8BMace&r"
 	quest.2998470090671E6C.title: "&#EBCB8BGolden Kite Shield&r, &#EBCB8BMace&r"
+	quest.299C2C8E5C8B9D15.quest_subtitle: "Craft the &#EBCB8BAeternium Claymore&r or &#EBCB8BGreat Hammer&r"
 	quest.29AD940E923D62AB.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +20."
@@ -2589,7 +2695,7 @@
 	quest.29B80F8552FA3C68.title: "&8Netherite&r Tier Upgrade"
 	quest.29BFEEEE4A075DE8.quest_subtitle: "Craft a &4Fox Figurine&r"
 	quest.29BFEEEE4A075DE8.title: "&4Fox Figurine&r"
-	quest.29D7DD5690CED0BE.quest_desc: ["    &#BF616ACarve&r (Passive) - Melee damage: 20% chance to stack 10% armor reduction and reduce incoming damage by 5% for 6 seconds."]
+	quest.29D7DD5690CED0BE.quest_desc: ["• &#BF616ACarve&r (Passive) - Melee damage: 20% chance to stack 10% armor reduction and reduce incoming damage by 5% for 6 seconds."]
 	quest.29D7DD5690CED0BE.quest_subtitle: "Find the &#BF616ASkofnung&r"
 	quest.29D7DD5690CED0BE.title: "&#BF616ASkofnung&r"
 	quest.29F897963C821BA4.quest_desc: [
@@ -2767,6 +2873,7 @@
 	]
 	quest.2B6BD89932176079.quest_subtitle: "Craft a Moonstone Compass"
 	quest.2B6BD89932176079.title: "Moonstone Compass"
+	quest.2B759C1585BE7DE7.quest_subtitle: "Craft the &2Bow&r or &2Crossbow Stage III&r"
 	quest.2B90BBA5EC04B91F.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -2785,10 +2892,10 @@
 		""
 		"• Physical Damage +15%."
 	]
-	quest.2B9CA507467D725A.quest_subtitle: "Craft the &#4C566ADark Steel Jade Accessories&r"
-	quest.2B9CA507467D725A.title: "&#4C566ADark Steel Jade Accessories&r"
-	quest.2BA2B4184882F89F.quest_subtitle: "Craft a &#B48EADSacred Stone&r"
-	quest.2BA2B4184882F89F.title: "&#B48EADSacred Stone&r"
+	quest.2B9CA507467D725A.quest_subtitle: "Craft the &#4C566ADark Steel Jade Jewelry&r"
+	quest.2B9CA507467D725A.title: "&#4C566ADark Steel Jade Jewelry&r"
+	quest.2BA2B4184882F89F.quest_subtitle: "Craft the &#B48EADHallowed Gem&r"
+	quest.2BA2B4184882F89F.title: "&#B48EADHallowed Gem&r"
 	quest.2BA37124D70DA069.quest_desc: [
 		"    Full set bonus:"
 		"- Physical Damage +36%."
@@ -2933,6 +3040,8 @@
 	quest.2D6DB7981EFF0754.title: "&7Netherite Crusader Armor&r"
 	quest.2D9AF93680E11478.quest_subtitle: "Craft the &9Stone Fist&r"
 	quest.2D9AF93680E11478.title: "&9Stone Fist&r"
+	quest.2DB184D473F62BC2.quest_subtitle: "Craft the &#6F0000Fireruby Armor&r"
+	quest.2DB184D473F62BC2.title: "&#6F0000Fireruby Armor&r"
 	quest.2DC0AC0EB5512911.quest_subtitle: "Find the Mushroom Mines"
 	quest.2DC0AC0EB5512911.title: "Mushroom Mines"
 	quest.2DF71B9A15D75004.quest_desc: [
@@ -2951,6 +3060,8 @@
 	quest.2DFBB8ACFBC1E09D.quest_desc: ["    Takes the &#B48EADappearance&r of any &#B48EADpassable block&r. Can be &#B48EADtoggled&r with redstone."]
 	quest.2DFBB8ACFBC1E09D.quest_subtitle: "Craft a &#B48EADShadow Frame&r"
 	quest.2DFBB8ACFBC1E09D.title: "&#B48EADShadow Frame&r"
+	quest.2E4421F64455F66C.quest_subtitle: "Craft the &#6F0000Nether Ruby Tools&r"
+	quest.2E4421F64455F66C.title: "&#6F0000Nether Ruby Tools&r"
 	quest.2E4EAD5E6C6265F5.quest_desc: ["    Grants unlimited underwater breathing."]
 	quest.2E4EAD5E6C6265F5.quest_subtitle: "Find the &#B48EADIron Bubble&r"
 	quest.2E4EAD5E6C6265F5.title: "&#B48EADIron Bubble&r"
@@ -3021,6 +3132,17 @@
 	quest.2FDAEF5E9AB83F41.quest_desc: ["    &3Water Bomb&r - When attacking a target, 40% chance to deal extra damage around the target."]
 	quest.2FDAEF5E9AB83F41.quest_subtitle: "Craft &3Sea King's Claymore&r"
 	quest.2FDAEF5E9AB83F41.title: "&3Sea King's Claymore&r"
+	quest.2FE6D921A670BEB8.quest_desc: [
+		"    Using the &#B48EADDiamond Smith Hammer&r on the &#B48EADThallasium Anvil&r, you can create:"
+		""
+		"• &#B48EADThallasium Forged Plate&r."
+		""
+		"• &#B48EADThallasium Tool Head&r."
+		""
+		"• &#B48EADThallasium Sword Blade&r."
+	]
+	quest.2FE6D921A670BEB8.quest_subtitle: "Craft the &#B48EADThallasium Anvil&r and &#B48EADDiamond Smith Hammer&r"
+	quest.2FE6D921A670BEB8.title: "&#B48EADThallasium Anvil&r and &#B48EADDiamond Smith Hammer&r"
 	quest.2FF6F1905491BF07.quest_desc: ["    &0Maelstrom&r - The final combo attack creates a vortex that damages targets."]
 	quest.2FF6F1905491BF07.quest_subtitle: "Find the &0Thallassian Sickle&r"
 	quest.2FF6F1905491BF07.title: "&0Thallassian Sickle&r"
@@ -3040,6 +3162,8 @@
 	quest.3016CF3F00CDC248.quest_desc: ["    &0Frostbite&r - When attacking a target, 20% chance to slow movement and attack speed by 25% for 4 seconds."]
 	quest.3016CF3F00CDC248.quest_subtitle: "Find the &0Frost Fang&r"
 	quest.3016CF3F00CDC248.title: "&0Frost Fang&r"
+	quest.301DD3832CD1EDE5.quest_subtitle: "Craft the &2Aeternium Spear&r"
+	quest.301DD3832CD1EDE5.title: "&2Aeternium Spear&r"
 	quest.30245CE54F41A57A.quest_subtitle: "Collect all &#B48EADArmor Trims&r"
 	quest.30245CE54F41A57A.title: "&#B48EADArmor Trims&r"
 	quest.302DA9128AA702F6.quest_subtitle: "Find the &9Valkyrie Elemental Staff&r"
@@ -3056,9 +3180,13 @@
 	quest.303BD7982C822C94.title: "&#B48EADIceologer&r"
 	quest.304269B7516439CE.quest_subtitle: "Find the &eValkyrie Silver Staff&r"
 	quest.304269B7516439CE.title: "&eValkyrie Silver Staff&r"
+	quest.3051ADD8B1FC91F1.quest_subtitle: "Craft the &#77CCFFAeternium Wind Staff&r"
+	quest.3051ADD8B1FC91F1.title: "&#77CCFFAeternium Wind Staff&r"
 	quest.3074EAEB175AAFDF.quest_desc: ["Using Wither Skeleton Skulls and Soul Sand, the Wither boss is summoned."]
 	quest.3074EAEB175AAFDF.quest_subtitle: "Obtain Wither Skeleton Skulls and Soul Sand"
 	quest.3074EAEB175AAFDF.title: "Wither Skeleton Skull"
+	quest.30857C7B88F419CE.quest_subtitle: "Craft the &#B48EADAeternium Tools&r"
+	quest.30857C7B88F419CE.title: "&#B48EADAeternium Tools&r"
 	quest.3097A6ECCB7B023C.quest_subtitle: "Craft a &2Netherite Spear&r"
 	quest.3097A6ECCB7B023C.title: "&2Netherite Spear&r"
 	quest.30A35D0A26CBEF6F.quest_subtitle: "Find all &#4d4791Music Discs&r"
@@ -3125,7 +3253,9 @@
 		""
 		"• &#77CCFFAeroburst&r - Pressure Burst, knocking targets in a circle back and dealing damage."
 	]
-	quest.310F6C5DAFD455D2.quest_subtitle: "Craft a Tome"
+	quest.310F6C5DAFD455D2.quest_subtitle: "Craft the Tome"
+	quest.3112E3356FE5370F.quest_subtitle: "Craft the &#EBCB8BAeternium Kite Shield&r and &#EBCB8BMace&r"
+	quest.3112E3356FE5370F.title: "&#EBCB8BAeternium Kite Shield&r, &#EBCB8BMace&r"
 	quest.31225C5EB5D9F5ED.quest_desc: [
 		"    &#4d4791Amarlynth Ingots&r are used to craft:"
 		""
@@ -3154,6 +3284,8 @@
 	quest.31ABEC05C59954B3.quest_desc: ["• &2Bonus Shot&r (Passive) - When hitting a target, 20% chance to fire an additional arrow."]
 	quest.31ABEC05C59954B3.quest_subtitle: "Find the &2Crossbow of Relentless Strikes&r"
 	quest.31ABEC05C59954B3.title: "&2Crossbow of Relentless Strikes&r"
+	quest.31AD70BFB783FAE2.quest_subtitle: "Craft the &#A020F0Ruby Knuckle&r"
+	quest.31AD70BFB783FAE2.title: "&#A020F0Ruby Knuckle&r"
 	quest.31ADD640E92FE9F7.quest_subtitle: "Craft a &0Diamond Sickle&r"
 	quest.31ADD640E92FE9F7.title: "&0Diamond Sickle&r"
 	quest.31D7CF525692634E.quest_desc: [
@@ -3223,6 +3355,7 @@
 	]
 	quest.324DAA90FD7F9E4D.quest_subtitle: "Craft Bamboo Armor"
 	quest.324DAA90FD7F9E4D.title: "Bamboo Armor"
+	quest.3265DACDC9D0B4D9.quest_subtitle: "Craft the &#3A003AAeternium Sickle&r or &#3A003ADagger&r"
 	quest.3282F2C98E0E8139.quest_subtitle: "Melee Damage: 15% chance to increase attack speed by 15% and deal extra damage equal to 3% of the target's max health"
 	quest.329C4B2D0E44D926.quest_subtitle: "Craft &dCelestial Elytra&r"
 	quest.329C4B2D0E44D926.title: "&dCelestial Elytra&r"
@@ -3234,7 +3367,7 @@
 	quest.32ECD5EACF4C3EEE.quest_desc: ["    &2Bonus Shot&r - When hitting a target, 20% chance to fire an additional arrow."]
 	quest.32ECD5EACF4C3EEE.quest_subtitle: "Find &2Crossbow of Relentless Strikes&r"
 	quest.32ECD5EACF4C3EEE.title: "&2Crossbow of Relentless Strikes&r"
-	quest.32F3B71ED4A53FBF.quest_subtitle: "Find a &#B48EADWitch Hut&r"
+	quest.32F3B71ED4A53FBF.quest_subtitle: "Find the &#B48EADWitch Hut&r"
 	quest.32F3B71ED4A53FBF.title: "&#B48EADWitch Hut&r"
 	quest.3311D5BD0674D399.quest_desc: ["    Smelting &#B48EADRaw Palladium&r yields a &#B48EADPalladium Ingot&r."]
 	quest.3311D5BD0674D399.quest_subtitle: "Mine some &#B48EADRaw Palladium&r"
@@ -3264,6 +3397,8 @@
 	quest.337C5ACA2A1857F5.quest_desc: ["    After exploding, applies the effects &#4d4791Nausea&r, &#4d4791Poison&r, &#4d4791Tearful&r."]
 	quest.337C5ACA2A1857F5.quest_subtitle: "Craft a &#4d4791Tear Gas Bomb&r"
 	quest.337C5ACA2A1857F5.title: "&#4d4791Tear Gas Bomb&r"
+	quest.337EAB319AC0E6A3.quest_subtitle: "Craft the &#B48EADTerminite Tools&r"
+	quest.337EAB319AC0E6A3.title: "&#B48EADTerminite Tools&r"
 	quest.33947BFFFAD7C9CA.quest_subtitle: "Craft &#B48EADThe Incinerator&r"
 	quest.33947BFFFAD7C9CA.title: "&#B48EADThe Incinerator&r"
 	quest.33B34A0E40EDDC3B.quest_desc: [
@@ -3303,8 +3438,10 @@
 		""
 		"• Increases the duration of the &eCircle of Healing&r spell by 2 seconds."
 	]
-	quest.342D5112FD501530.quest_subtitle: "Collect the &eAvatar's Garb&r"
-	quest.342D5112FD501530.title: "&eAvatar's Garb&r"
+	quest.342D5112FD501530.quest_subtitle: "Collect the &eAvatar Garb&r"
+	quest.342D5112FD501530.title: "&eAvatar Garb&r"
+	quest.343FE13B38497833.quest_subtitle: "Craft the &#BF616AAeternium Raid Axe&r"
+	quest.343FE13B38497833.title: "&#BF616AAeternium Raid Axe&r"
 	quest.344CE31BC06BE053.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +15."
@@ -3321,8 +3458,8 @@
 		""
 		"• &eHealing&r Power +80%."
 	]
-	quest.345E03F608D65DCA.quest_subtitle: "Craft the &ePriest's Garb&r"
-	quest.345E03F608D65DCA.title: "&ePriest's Garb&r"
+	quest.345E03F608D65DCA.quest_subtitle: "Craft the &ePriest Garb&r"
+	quest.345E03F608D65DCA.title: "&ePriest Garb&r"
 	quest.349E62F90A67265A.quest_desc: [
 		"• &#B48EADEmperor's Cloth&r - Makes armor invisible.    "
 		""
@@ -3441,6 +3578,8 @@
 	]
 	quest.35FA43F0B3D6A029.quest_subtitle: "Craft a Tier 1 Forge"
 	quest.35FA43F0B3D6A029.title: "Tier 1 Forge"
+	quest.361BC10E4785BE67.quest_subtitle: "Craft the &#6F0000Cincinnasite Tools&r"
+	quest.361BC10E4785BE67.title: "&#6F0000Cincinnasite Tools&r"
 	quest.363692AA4A301444.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +20."
@@ -3487,6 +3626,8 @@
 	quest.366330ED2A65F12C.quest_subtitle: "Craft a &#B48EADTuff Golem&r"
 	quest.366330ED2A65F12C.title: "&#B48EADTuff Golem&r"
 	quest.366EBEF8D33619CB.quest_subtitle: "Craft the &#77CCFFWind Staff&r or &#77CCFFWand&r"
+	quest.367B3807BF906747.quest_subtitle: "Craft the &#B48EADThallasium Tools&r"
+	quest.367B3807BF906747.title: "&#B48EADThallasium Tools&r"
 	quest.368230C94A50A36E.quest_subtitle: "Slay the &#B48EADSandworm&r Boss without taking damage"
 	quest.368230C94A50A36E.title: "&#B48EADNo Damage&r"
 	quest.36B6A07CBE873C6C.quest_subtitle: "Slay the &#4d4791Starlight Golem&r Boss"
@@ -3519,8 +3660,8 @@
 	quest.36DFA00DBACF3519.title: "&#B48EADWeapons&r"
 	quest.36EB80710B6B8C43.quest_subtitle: "Craft a &3Netherite Water Scepter&r"
 	quest.36EB80710B6B8C43.title: "&3Netherite Water Scepter&r"
-	quest.36FBD7FC2263DAAE.quest_subtitle: "Slay the boss &#B48EADThe Summoner&r"
-	quest.36FBD7FC2263DAAE.title: "&#B48EADThe Summoner&r"
+	quest.36FBD7FC2263DAAE.quest_subtitle: "Slay the &#B48EADInvoker&r boss"
+	quest.36FBD7FC2263DAAE.title: "&#B48EADInvoker&r"
 	quest.370E956F360F2312.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -3543,6 +3684,8 @@
 	]
 	quest.3723B01C8E42F316.quest_subtitle: "Craft &cPalladium Rails and Minecart&r"
 	quest.3723B01C8E42F316.title: "&cPalladium Rails and Minecart&r"
+	quest.3727277E92593928.quest_subtitle: "Create the &#6F0000Crying and Weeping Obsidian&r"
+	quest.3727277E92593928.title: "&#6F0000Crying and Weeping Obsidian&r"
 	quest.37283615DC051C8B.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +15."
@@ -3600,8 +3743,8 @@
 		""
 		"• Spell Haste +16%."
 	]
-	quest.37EF6B814F690764.quest_subtitle: "Craft the &eNetherite Priory Garb&r"
-	quest.37EF6B814F690764.title: "&eNetherite Priory Garb&r"
+	quest.37EF6B814F690764.quest_subtitle: "Craft the &eNetherite Prior Garb&r"
+	quest.37EF6B814F690764.title: "&eNetherite Prior Garb&r"
 	quest.37FBB6700A5E05A3.quest_desc: ["    The &4Adamantite Crown&r is on par with the &4Adamantite Helmet&r."]
 	quest.37FBB6700A5E05A3.quest_subtitle: "Craft an &4Adamantite Crown&r"
 	quest.37FBB6700A5E05A3.title: "&4Adamantite Crown&r"
@@ -3617,8 +3760,8 @@
 		""
 		"• Can be used as a &#B48EADshield&r. (Right-Click)"
 	]
-	quest.38198337DD3854D7.quest_subtitle: "Obtain the &#B48EADFrozen Fist&r"
-	quest.38198337DD3854D7.title: "&#B48EADFrozen Fist&r"
+	quest.38198337DD3854D7.quest_subtitle: "Obtain the &#B48EADSkor Gauntlet&r"
+	quest.38198337DD3854D7.title: "&#B48EADSkor Gauntlet&r"
 	quest.38211943A954E7F4.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +8."
@@ -3688,8 +3831,8 @@
 	quest.397497BF6272E7F7.quest_desc: ["    The Legendary Bangle Upgrade is used to craft &6Legendary Bangle Armor&r and &6Legendary Bangle Tools&r."]
 	quest.397497BF6272E7F7.quest_subtitle: "Legendary Bangle Upgrade"
 	quest.397497BF6272E7F7.title: "Legendary Bangle Upgrade"
-	quest.3994C91833FA1CFE.quest_subtitle: "Craft the &#A020F0Diamond Fist&r"
-	quest.3994C91833FA1CFE.title: "&#A020F0Diamond Fist&r"
+	quest.3994C91833FA1CFE.quest_subtitle: "Craft the &#A020F0Diamond Knuckle&r"
+	quest.3994C91833FA1CFE.title: "&#A020F0Diamond Knuckle&r"
 	quest.399FF79A03BE417A.quest_subtitle: "Find the &#4d4791Seed Launcher&r"
 	quest.399FF79A03BE417A.title: "&#4d4791Seed Launcher&r"
 	quest.39A357DBA4495BD9.quest_desc: [
@@ -3737,7 +3880,7 @@
 	]
 	quest.39D06A08CFD0423D.quest_subtitle: "Craft the &bTundra Hunt&r book"
 	quest.39D06A08CFD0423D.title: "&bTundra Hunt&r"
-	quest.39DE09768272377D.quest_subtitle: "Craft the &#4C566AStage 1 Witcher Sword&r"
+	quest.39DE09768272377D.quest_subtitle: "Craft the &#4C566AWitcher Sword Stage I&r"
 	quest.39F9B4081DF68BFB.quest_desc: [
 		"    Full set bonus:"
 		"- Earth Spell Power +120%."
@@ -3761,9 +3904,20 @@
 	quest.3A193AF1B68A4152.quest_desc: ["    Allows you to control Moas."]
 	quest.3A193AF1B68A4152.quest_subtitle: "Craft a &#B48EADNature Staff&r"
 	quest.3A193AF1B68A4152.title: "&#B48EADNature Staff&r"
+	quest.3A4C9D18485992F1.quest_subtitle: "Find the &#B48EADEnd City&r"
+	quest.3A4C9D18485992F1.title: "&#B48EADEnd City&r"
 	quest.3A875743D63EDEB3.quest_desc: ["    &7Explosion&r - When attacking a target, 20% chance to create a fiery explosion at the target."]
 	quest.3A875743D63EDEB3.quest_subtitle: "Find &7Blackhand&r"
 	quest.3A875743D63EDEB3.title: "&7Blackhand&r"
+	quest.3A97FADE7B6DCC91.quest_desc: [
+		"    From &#B48EADThallasium Ingot&r are created:"
+		""
+		"• &#B48EADEnd Stone Smelter&r."
+		""
+		"• &#B48EADThallasium Anvil&r."
+	]
+	quest.3A97FADE7B6DCC91.quest_subtitle: "Craft the &#B48EADThallasium Ingot&r"
+	quest.3A97FADE7B6DCC91.title: "&#B48EADThallasium Ingot&r"
 	quest.3AAECCC58D9E67D1.quest_subtitle: "Craft the &#035B6CResonarium Tools&r"
 	quest.3AAECCC58D9E67D1.title: "&#035B6CResonarium Tools&r"
 	quest.3AB282CB57046FA3.quest_desc: ["    The Immersive Armors mod adds many unique armor sets with abilities, compatible with the vanilla version."]
@@ -3798,6 +3952,9 @@
 	]
 	quest.3B141CECE9D0E378.quest_subtitle: "Craft the &6Mountain Peak Diary&r"
 	quest.3B141CECE9D0E378.title: "&6Mountain Peak Diary&r"
+	quest.3B1692679B65F39E.quest_desc: ["    Used for &#B48EADrespawn&r, requires &#B48EAD4 Amber Gem&r to activate."]
+	quest.3B1692679B65F39E.quest_subtitle: "Find the &#B48EADRespawn Obelisk&r"
+	quest.3B1692679B65F39E.title: "&#B48EADRespawn Obelisk&r"
 	quest.3B1AD8B7AECEED7A.quest_desc: ["    Fire Resistance."]
 	quest.3B1AD8B7AECEED7A.quest_subtitle: "Craft the &#B48EADInferno Crown&r"
 	quest.3B1AD8B7AECEED7A.title: "&#B48EADInferno Crown&r"
@@ -3870,6 +4027,9 @@
 	quest.3BE153389A2BE748.quest_desc: ["    Placing a Blackstone Pedestal in an open area allows you to summon the boss Monarch of Chaos by right-clicking the pedestal with a Shard of Uncertainty."]
 	quest.3BE153389A2BE748.quest_subtitle: "Craft a Blackstone Pedestal"
 	quest.3BE153389A2BE748.title: "Blackstone Pedestal"
+	quest.3BF8C351DBBB4963.quest_desc: ["    Used to craft &#6F0000Fireruby Tools&r and &#6F0000Fireruby Armor&r."]
+	quest.3BF8C351DBBB4963.quest_subtitle: "Find the &#6F0000Fireruby Upgrade&r"
+	quest.3BF8C351DBBB4963.title: "&#6F0000Fireruby Upgrade&r"
 	quest.3C07824677AC7249.quest_subtitle: "Find a Wishing Well"
 	quest.3C07824677AC7249.title: "Wishing Well"
 	quest.3C109D81BF39EFFE.quest_desc: ["    Does not use spells from spellbooks."]
@@ -3884,8 +4044,8 @@
 		""
 		"• Knockback Resistance +20%."
 	]
-	quest.3C11C099419B8AD3.quest_subtitle: "Craft the &#4C566ABear Armor&r"
-	quest.3C11C099419B8AD3.title: "&#4C566ABear Armor&r"
+	quest.3C11C099419B8AD3.quest_subtitle: "Craft the &#4C566AUrsine Armor&r"
+	quest.3C11C099419B8AD3.title: "&#4C566AUrsine Armor&r"
 	quest.3C1A3000CD5BAB28.quest_desc: [
 		"    The &#B48EADFetzi's Displays&r mod adds many different stands for weapons and items."
 		""
@@ -4015,8 +4175,8 @@
 		""
 		"• Critical Chance for the &#4C566ARend&r Sign +5%."
 	]
-	quest.3D2AE45B12939EB6.quest_subtitle: "Craft the &#4C566AMastercrafted Bear Armor&r"
-	quest.3D2AE45B12939EB6.title: "&#4C566AMastercrafted Bear Armor&r"
+	quest.3D2AE45B12939EB6.quest_subtitle: "Craft the &#4C566AMastercrafted Ursine Armor&r"
+	quest.3D2AE45B12939EB6.title: "&#4C566AMastercrafted Ursine Armor&r"
 	quest.3D3938B558EF7755.quest_desc: ["    The &4Nuclear Reactor&r is found in the &nToxic Heaps&r biome."]
 	quest.3D3938B558EF7755.quest_subtitle: "Find and clear the &4Nuclear Reactor&r"
 	quest.3D3938B558EF7755.title: "&4Nuclear Reactor&r"
@@ -4045,25 +4205,25 @@
 	]
 	quest.3D664D60F02C963C.quest_subtitle: "&#B48EADEternal Starlight&r Enchanted Books"
 	quest.3D664D60F02C963C.title: "&#B48EADEternal Starlight&r"
-	quest.3D7303A71C939E99.quest_desc: [
-		"    The Better End mod adds new biomes, plants, materials, tools, armor, and structures to the End."
-		""
-		"    New Enchanted Book: Veil of the End - Allows looking at Endermen without angering them. Applies to Helmet."
-	]
-	quest.3D7303A71C939E99.quest_subtitle: "Better End Mod"
-	quest.3D7303A71C939E99.title: "Better End"
+	quest.3D7303A71C939E99.quest_desc: ["    Adds &#B48EAD24 new biomes&r to End, &#B48EAD6 new mobs&r, structures, and a variety of new items, weapons, and armor."]
+	quest.3D7303A71C939E99.quest_subtitle: "&#B48EADBetter End&r Mod"
+	quest.3D7303A71C939E99.title: "&#B48EADBetter End&r"
 	quest.3D73FDB26C3F5207.quest_desc: [
-		"• Combat system: &#B48EADBetter Combat&r, &#B48EADCombat Roll&r, &#B48EADCritical Strike&r."
+		"• Combat System: &#B48EADBetter Combat&r, &#B48EADCombat Roll&r, &#B48EADCritical Strike&r."
 		""
 		"• Classes: &#B48EADRPG Series&r, &#B48EADMore RPG Classes&r."
 		""
-		"• World Generation: &#B48EADOh The Biomes We've Gone&r."
+		"• Biomes: &#B48EADOh The Biomes We've Gone&r, &#B48EADBetterEnd&r, &#B48EADBetterNether&r."
+		""
+		"• Worlds: &#B48EADEternal Starlight&r, &#B48EADDeeper and Darker&r, &#B48EADThe Aether&r, &#B48EADThe Twilight Forest&r."
 		""
 		"• Texture Pack: &#B48EADExcalibur&r."
 	]
 	quest.3D73FDB26C3F5207.quest_subtitle: "About the Pack"
 	quest.3D73FDB26C3F5207.title: "&#B48EADSolution&r"
 	quest.3D987395A40EDBC9.quest_subtitle: "Melee Damage and Spell Damage: 6% chance to increase Lifesteal by 20% for 8 seconds"
+	quest.3DB947B8B2170FA7.quest_subtitle: "Craft the &#4C566ARuby Witcher Sword&r"
+	quest.3DB947B8B2170FA7.title: "&#4C566ARuby Witcher Sword&r"
 	quest.3DD25A01FF96A114.quest_desc: [
 		"    &#B48EADStep into water&r while wearing Phoenix Armor."
 		""
@@ -4260,8 +4420,8 @@
 		""
 		"• Physical Damage +9%."
 	]
-	quest.407D87429DC23229.quest_subtitle: "Craft the &#4C566ASteel Jade Accessories&r"
-	quest.407D87429DC23229.title: "&#4C566ASteel Jade Accessories&r"
+	quest.407D87429DC23229.quest_subtitle: "Craft the &#4C566ASteel Jade Jewelry&r"
+	quest.407D87429DC23229.title: "&#4C566ASteel Jade Jewelry&r"
 	quest.408CEC151D9C7275.quest_desc: ["    &4Fire Spellstrike&r - When attacking a target, deals extra magic fire damage."]
 	quest.408CEC151D9C7275.quest_subtitle: "Craft the &4Fire Claymore&r"
 	quest.408CEC151D9C7275.title: "&4Fire Claymore&r"
@@ -4290,8 +4450,8 @@
 	quest.40AC2C8860CCA482.quest_subtitle: "Slay the &#B48EADLeviathan&r Boss"
 	quest.40AC2C8860CCA482.title: "&#B48EADThe Leviathan&r"
 	quest.40B1C21CDCCD5746.quest_desc: ["    Highlights nearby &#B48EADpillagers&r."]
-	quest.40B1C21CDCCD5746.quest_subtitle: "Craft the &#B48EADHorn of Visibility&r"
-	quest.40B1C21CDCCD5746.title: "&#B48EADHorn of Visibility&r"
+	quest.40B1C21CDCCD5746.quest_subtitle: "Craft the &#B48EADHorn of Sight&r"
+	quest.40B1C21CDCCD5746.title: "&#B48EADHorn of Sight&r"
 	quest.40BA7CFAE5D3BA87.quest_subtitle: "Craft the &4Netherite Fire Staff&r or &4Wand&r"
 	quest.40C5E64F446D8837.quest_desc: ["    When attacking a target, deals additional magic damage to targets with <50% health."]
 	quest.40C5E64F446D8837.quest_subtitle: "Find &8Reach of the Damned&r"
@@ -4353,6 +4513,17 @@
 	quest.41D77BAFEEC0921B.title: "&6Holy Scepter&r"
 	quest.41E11B8FE0A3559B.quest_desc: ["    The Galosphere mod adds new biomes to caves, mobs, a boss, and new items."]
 	quest.41E11B8FE0A3559B.quest_subtitle: "Galosphere Mod"
+	quest.4207786F486D2255.quest_desc: [
+		"    &nFull set bonus:&r"
+		""
+		"• Armor +17."
+		""
+		"• Armor Toughness +4."
+		""
+		"• Knockback Resistance +20%."
+	]
+	quest.4207786F486D2255.quest_subtitle: "Craft the &#6F0000Cincinnasite Armor&r"
+	quest.4207786F486D2255.title: "&#6F0000Cincinnasite Armor&r"
 	quest.422B39B3104FCABE.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +13."
@@ -4386,12 +4557,12 @@
 		""
 		"• Critical Hit Damage +16%."
 	]
-	quest.42A2ED57177B802E.quest_subtitle: "Craft the &#FF681FArcher Armor&r"
-	quest.42A2ED57177B802E.title: "&#FF681FArcher Armor&r"
+	quest.42A2ED57177B802E.quest_subtitle: "Craft the &#FF681FBowman Armor&r"
+	quest.42A2ED57177B802E.title: "&#FF681FBowman Armor&r"
 	quest.42A4CB5ACBCE3FDD.quest_subtitle: "Craft a &7Netherite Claymore&r"
 	quest.42A4CB5ACBCE3FDD.title: "&7Netherite Claymore&r"
-	quest.42AB8A4BD7AA8965.quest_subtitle: "Craft the &#BF616AIron Axe&r"
-	quest.42AB8A4BD7AA8965.title: "&#BF616AIron Axe&r"
+	quest.42AB8A4BD7AA8965.quest_subtitle: "Craft the &#BF616AIron Raid Axe&r"
+	quest.42AB8A4BD7AA8965.title: "&#BF616AIron Raid Axe&r"
 	quest.42C11CF050059814.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -4460,8 +4631,9 @@
 	quest.43967111E1A87C58.quest_subtitle: "Craft an &#4d4791Aetherscent Ingot&r"
 	quest.43967111E1A87C58.title: "&#4d4791Aetherscent Ingot&r"
 	quest.43A4F6D141EC492E.quest_subtitle: "Craft the &5Netherite Arcane Staff&r or &5Wand&r"
-	quest.43DC49284A890EB3.quest_subtitle: "Craft the &#BF616AStone Axe&r"
-	quest.43DC49284A890EB3.title: "&#BF616AStone Axe&r"
+	quest.43DC49284A890EB3.quest_subtitle: "Craft the &#BF616AStone Raid Axe&r"
+	quest.43DC49284A890EB3.title: "&#BF616AStone Raid Axe&r"
+	quest.43E1ED22CB416372.quest_subtitle: "Craft the &dRuby Lute&r or &dAeternium Lyre&r"
 	quest.43E40E62AF895FB8.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +20."
@@ -4510,8 +4682,8 @@
 		""
 		"• Critical Hit Damage +24%."
 	]
-	quest.44737FBD628B4D93.quest_subtitle: "Craft the &#BF616ANetherite Runic Jewelry&r"
-	quest.44737FBD628B4D93.title: "&#BF616ANetherite Runic Jewelry&r"
+	quest.44737FBD628B4D93.quest_subtitle: "Craft the &#BF616ANetherite Viking Rune Jewelry&r"
+	quest.44737FBD628B4D93.title: "&#BF616ANetherite Viking Rune Jewelry&r"
 	quest.44A3E145FB82ADEB.quest_desc: ["    Using a Wither Skeleton Skull and Soul Sand summons the &4Wither&r boss."]
 	quest.44A3E145FB82ADEB.quest_subtitle: "Obtain Wither Skeleton Skulls"
 	quest.44A3E145FB82ADEB.title: "Wither Skeleton Skull"
@@ -4578,8 +4750,8 @@
 	quest.4525F6C8DEFD404A.title: "&#B48EADIronwood Tools&r"
 	quest.4532228AF6ABF1BF.quest_subtitle: "Visit all &#4d4791Biomes&r"
 	quest.4532228AF6ABF1BF.title: "&#4d4791Biomes&r"
-	quest.454C105EA5B98397.quest_subtitle: "Craft the &#A020F0Golden Fist&r"
-	quest.454C105EA5B98397.title: "&#A020F0Golden Fist&r"
+	quest.454C105EA5B98397.quest_subtitle: "Craft the &#A020F0Gold Knuckle&r"
+	quest.454C105EA5B98397.title: "&#A020F0Gold Knuckle&r"
 	quest.4581AEF1C42302C7.quest_desc: ["    Uses spells from spellbooks."]
 	quest.4581AEF1C42302C7.quest_subtitle: "Craft the Void Furnace"
 	quest.4581AEF1C42302C7.title: "Void Furnace"
@@ -4657,8 +4829,8 @@
 	quest.46F1085AB8E86042.quest_subtitle: "Craft a &bMithril Crown&r"
 	quest.46F1085AB8E86042.title: "&bMithril Crown&r"
 	quest.46F1C585306D27C7.quest_desc: ["    Can be thrown at a target."]
-	quest.46F1C585306D27C7.quest_subtitle: "Obtain the &#B48EADPlatinum Tomahawk&r"
-	quest.46F1C585306D27C7.title: "&#B48EADPlatinum Tomahawk&r"
+	quest.46F1C585306D27C7.quest_subtitle: "Obtain the &#B48EADPlatinum Infused Hatchet&r"
+	quest.46F1C585306D27C7.title: "&#B48EADPlatinum Infused Hatchet&r"
 	quest.46F3FA42AF3C109F.quest_subtitle: "Find a Pirate Junk Ship"
 	quest.46F3FA42AF3C109F.title: "Pirate Junk"
 	quest.46FBAE392915E279.quest_subtitle: "Craft a &9Diamond Fist&r"
@@ -4694,8 +4866,8 @@
 		""
 		"• Armor Toughness +4."
 	]
-	quest.472E58D5238C41B9.quest_subtitle: "Craft the &#4C566ASuperior Bear Armor&r"
-	quest.472E58D5238C41B9.title: "&#4C566ASuperior Bear Armor&r"
+	quest.472E58D5238C41B9.quest_subtitle: "Craft the &#4C566ASuperior Ursine Armor&r"
+	quest.472E58D5238C41B9.title: "&#4C566ASuperior Ursine Armor&r"
 	quest.473411870263C79F.quest_subtitle: "Craft the &#B48EADStaff of Suppression&r"
 	quest.473411870263C79F.title: "&#B48EADStaff of Suppression&r"
 	quest.4739411667D56497.quest_desc: [
@@ -4741,6 +4913,8 @@
 	quest.47771DA4190939AD.quest_desc: ["    &5Ender Dragon's Breath&r - When hitting a target, 30% chance to create a dragon's breath cloud dealing continuous damage."]
 	quest.47771DA4190939AD.quest_subtitle: "Craft a &5Charged Ender Bolt&r"
 	quest.47771DA4190939AD.title: "&5Charged Ender Bolt&r"
+	quest.47772DF573231A9B.quest_subtitle: "Visit all &#B48EADBiomes&r"
+	quest.47772DF573231A9B.title: "&#B48EADBiomes&r"
 	quest.478E30357991FE03.quest_desc: [
 		"    The &#B48EADSoul Star&r is used like an Eye of Ender, pointing the way to a &#B48EADtower&r."
 		""
@@ -4801,7 +4975,7 @@
 		""
 		"• Increases the power multiplier of &#FF681FPoint Blank Shot&r spell by 10%."
 	]
-	quest.4882ED9FE4158858.quest_subtitle: "Collect the &#FF681FSentinel Archer Armor&r set"
+	quest.4882ED9FE4158858.quest_subtitle: "Collect the &#FF681FSentinel Archer Armor&r"
 	quest.4882ED9FE4158858.title: "&#FF681FSentinel Archer Armor&r"
 	quest.488C0F49FAD59005.quest_subtitle: "Slay the &#B48EADYeti&r Boss"
 	quest.488C0F49FAD59005.title: "&#B48EADCold Eye&r"
@@ -4821,8 +4995,8 @@
 		""
 		"• Physical Damage +20%."
 	]
-	quest.48ABB1B0CD1CCD3A.quest_subtitle: "Craft the &#BF616ANetherite Northern Armor&r"
-	quest.48ABB1B0CD1CCD3A.title: "&#BF616ANetherite Northern Armor&r"
+	quest.48ABB1B0CD1CCD3A.quest_subtitle: "Craft the &#BF616ANetherite Northling Armor&r"
+	quest.48ABB1B0CD1CCD3A.title: "&#BF616ANetherite Northling Armor&r"
 	quest.48C8CD2454E5CFEE.quest_desc: [
 		"    The &5Arcane Techniques&r book has 5 different Arcane spells:"
 		""
@@ -4838,8 +5012,14 @@
 	]
 	quest.48C8CD2454E5CFEE.quest_subtitle: "Craft the &5Arcane Techniques&r book"
 	quest.48C8CD2454E5CFEE.title: "&5Arcane Techniques&r"
+	quest.48D3EB82FB6E18B6.quest_subtitle: "Craft the &eRuby Holy Staff&r"
+	quest.48D3EB82FB6E18B6.title: "&eRuby Holy Staff&r"
 	quest.48D666C94E17BB0E.quest_subtitle: "Slay the &#B48EADSnow Queen&r Boss"
 	quest.48D666C94E17BB0E.title: "&#B48EADSnow Queen&r"
+	quest.48D6ED550DC38056.quest_subtitle: "Craft the &#B48EADAeternium Sword&r"
+	quest.48D6ED550DC38056.title: "&#B48EADAeternium Sword&r"
+	quest.48E66DDE6B0FA172.quest_subtitle: "Visit all &#6F0000Biomes&r"
+	quest.48E66DDE6B0FA172.title: "&#6F0000Biomes&r"
 	quest.490858C822AC055E.quest_subtitle: "Slay the boss &4Wither&r"
 	quest.490858C822AC055E.title: "&4Wither&r"
 	quest.4921A91CCD6E2B7B.quest_subtitle: "Craft the Inky Hand"
@@ -4987,6 +5167,7 @@
 	quest.4A905C26C5FCFA89.quest_desc: ["    &5Starrite&r is used to craft &5Stellar Platinum&r."]
 	quest.4A905C26C5FCFA89.quest_subtitle: "Obtain &5Starrite&r"
 	quest.4A905C26C5FCFA89.title: "&5Starrite&r"
+	quest.4AA2A3AF148E04E4.quest_subtitle: "Craft the &#6F0000Aeternium Double Axe&r or &#6F0000Glaive&r"
 	quest.4ACCCFA783A5FE8A.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +17."
@@ -5201,8 +5382,8 @@
 		""
 		"• Critical Hit Chance +8%."
 	]
-	quest.4F09D6D4087FD4DA.quest_subtitle: "Craft the &#3A003AAssassin's Garb&r"
-	quest.4F09D6D4087FD4DA.title: "&#3A003AAssassin's Garb&r"
+	quest.4F09D6D4087FD4DA.quest_subtitle: "Craft the &#3A003AAssassin Garb&r"
+	quest.4F09D6D4087FD4DA.title: "&#3A003AAssassin Garb&r"
 	quest.4F0C9AE8A919E8A0.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +12."
@@ -5284,8 +5465,8 @@
 		""
 		"• Critical Hit Damage +36%."
 	]
-	quest.502A6F99EEDDE4C2.quest_subtitle: "Find the &#BF616ASwablod Jewelry&r"
-	quest.502A6F99EEDDE4C2.title: "&#BF616ASwablod Jewelry&r"
+	quest.502A6F99EEDDE4C2.quest_subtitle: "Find the &#BF616ASvablods Jewelry&r"
+	quest.502A6F99EEDDE4C2.title: "&#BF616ASvablods Jewelry&r"
 	quest.50381C1241F6FB0C.quest_desc: ["    &7Radiance&r - When attacking a target, 25% chance to restore health, also healing nearby allies."]
 	quest.50381C1241F6FB0C.quest_subtitle: "Find the &7Hammer of Sanctification&r"
 	quest.50381C1241F6FB0C.title: "&7Hammer of Sanctification&r"
@@ -5382,8 +5563,8 @@
 		""
 		"• Reduces cooldown of the &#3A003AShadowstep&r Spell by 4 seconds."
 	]
-	quest.51C1CCAFDA6A7379.quest_subtitle: "Collect the &#3A003AMantle of Death&r"
-	quest.51C1CCAFDA6A7379.title: "&#3A003AMantle of Death&r"
+	quest.51C1CCAFDA6A7379.quest_subtitle: "Collect the &#3A003ADeathmantle&r"
+	quest.51C1CCAFDA6A7379.title: "&#3A003ADeathmantle&r"
 	quest.51F0D3C5D4763907.quest_desc: ["    A huge tower found in the &#B48EADCenter Dark Forest&r biome."]
 	quest.51F0D3C5D4763907.quest_subtitle: "Slay the &#B48EADUr Ghast&r Boss"
 	quest.51F0D3C5D4763907.title: "&#B48EADUr Ghast&r"
@@ -5453,10 +5634,29 @@
 	quest.53115D612E65F5E0.quest_desc: ["    Freezes the target."]
 	quest.53115D612E65F5E0.quest_subtitle: "Craft &#4d4791Lednite Weapons&r"
 	quest.53115D612E65F5E0.title: "&#4d4791Lednite Weapons&r"
+	quest.5346A4A7D1E29845.quest_subtitle: "Craft the &#A020F0Aeternium Knuckle&r"
+	quest.5346A4A7D1E29845.title: "&#A020F0Aeternium Knuckle&r"
 	quest.5353887AA65D5B3C.quest_desc: ["    &bGlacier Splitter&r - When killing a target, creates ice projectiles that freeze nearby targets for 5 seconds."]
 	quest.5353887AA65D5B3C.quest_subtitle: "Craft the &bGlacial Bolt Crossbow&r"
 	quest.5353887AA65D5B3C.title: "&bGlacial Bolt Crossbow&r"
 	quest.5361AF8D510B2C59.quest_subtitle: "Use: +20% Water spell power for 10 seconds"
+	quest.536602A8DAEF1987.quest_desc: [
+		"    After finding a ruined &#B48EADEnd Portal&r, you need to place &#B48EAD6 Eternal Crystal&r on the pedestals to activate it."
+		""
+		"    The ruined portal may not always be complete, so you will need to build it using &#B48EADRuned Flavolite&r."
+		""
+		""
+		"{image:ftb:textures/quests/endportal.png width:200 height:100 align:center}"
+	]
+	quest.536602A8DAEF1987.quest_subtitle: "Light up the &#B48EADEnd Portal&r"
+	quest.536602A8DAEF1987.title: "&#B48EADEnd Portal&r"
+	quest.538F1BA7829F2FEC.quest_desc: [
+		"    &nFull set bonus:&r"
+		""
+		"• Armor +12."
+	]
+	quest.538F1BA7829F2FEC.quest_subtitle: "Craft the &#B48EADThallasium Armor&r"
+	quest.538F1BA7829F2FEC.title: "&#B48EADThallasium Armor&r"
 	quest.539BF2B198DDB9BF.quest_desc: ["    The Soulslike Weaponry mod adds over 40 legendary weapon types and many bosses to fight."]
 	quest.539BF2B198DDB9BF.quest_subtitle: "Soulslike Weaponry Mod"
 	quest.539BF2B198DDB9BF.title: "Soulslike Weaponry"
@@ -5472,6 +5672,9 @@
 	]
 	quest.53C2B36CD0CF066A.quest_subtitle: "Craft the &#74DFBFAquamarine Jewelry&r"
 	quest.53C2B36CD0CF066A.title: "&#74DFBFAquamarine Jewelry&r"
+	quest.53DC0E37D89315E0.quest_desc: ["    Fusing &#B48EADEnder Dust&r with &#B48EADThallasium Ingot&r in an &#B48EADEnd Stone Smelter&r will result in a &#B48EADTerminite Ingot&r."]
+	quest.53DC0E37D89315E0.quest_subtitle: "Craft the &#B48EADEnder Dust&r"
+	quest.53DC0E37D89315E0.title: "&#B48EADEnder Dust&r"
 	quest.53E4082D1F1418AE.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +20."
@@ -5544,9 +5747,11 @@
 		""
 		"• &2Draw&r Speed +20%."
 	]
-	quest.5595FBDDC2FD94EB.quest_subtitle: "Craft the &2Netherite Ranger's Garb&r"
-	quest.5595FBDDC2FD94EB.title: "&2Netherite Ranger's Garb&r"
+	quest.5595FBDDC2FD94EB.quest_subtitle: "Craft the &2Netherite Ranger Garb&r"
+	quest.5595FBDDC2FD94EB.title: "&2Netherite Ranger Garb&r"
 	quest.55B0FD1C6DC4E327.quest_subtitle: "Ranged Damage: 6% chance to increase ranged weapon damage by 20% for 8 seconds"
+	quest.55C22D6A51287370.quest_subtitle: "Craft the &dAeternium Rapier&r"
+	quest.55C22D6A51287370.title: "&dAeternium Rapier&r"
 	quest.5609AEE0749C5C83.quest_subtitle: "Craft a &2Quiver&r"
 	quest.5609AEE0749C5C83.title: "&2Quiver&r"
 	quest.565E7D4FF442C70A.quest_subtitle: "Craft &#4d4791Glazed Tools&r"
@@ -5587,8 +5792,8 @@
 		""
 		"• &2Ranged&r Damage +20%."
 	]
-	quest.56E360F668558383.quest_subtitle: "Craft the &2Archer's Garb&r"
-	quest.56E360F668558383.title: "&2Archer's Garb&r"
+	quest.56E360F668558383.quest_subtitle: "Craft the &2Archer Garb&r"
+	quest.56E360F668558383.title: "&2Archer Garb&r"
 	quest.56E41C3E40C44629.quest_desc: ["    &4Flame Strike&r - When attacking a target, 20% chance to ignite the area around the target, dealing continuous damage."]
 	quest.56E41C3E40C44629.quest_subtitle: "Find the &4Hell-Raiser&r"
 	quest.56E41C3E40C44629.title: "&4Hell-Raiser&r"
@@ -5677,7 +5882,7 @@
 		""
 		"• &bRay of Frost&r - Casts a cold beam, causing frost spell damage and slowing the target."
 	]
-	quest.578B21BA4828ECDB.quest_subtitle: "Craft a Tome"
+	quest.578B21BA4828ECDB.quest_subtitle: "Craft the Tome"
 	quest.578FCFAA5973D706.quest_subtitle: "Craft the &#3A003ADiamond Sickle&r or &#3A003ADagger&r"
 	quest.57948DEA00F56253.quest_subtitle: "Craft the &2Bow&r or &2Crossbow Stage II&r"
 	quest.579773DD76231DA7.quest_desc: [
@@ -5689,8 +5894,8 @@
 		""
 		"• Physical Damage +12%."
 	]
-	quest.579773DD76231DA7.quest_subtitle: "Craft the &#4C566AWolf Armor&r"
-	quest.579773DD76231DA7.title: "&#4C566AWolf Armor&r"
+	quest.579773DD76231DA7.quest_subtitle: "Craft the &#4C566AWolven Armor&r"
+	quest.579773DD76231DA7.title: "&#4C566AWolven Armor&r"
 	quest.579F56B3108819CC.quest_desc: ["    At the end of the Prison Cells, there will be a portal."]
 	quest.579F56B3108819CC.quest_subtitle: "Enter the Path of the Doomed"
 	quest.579F56B3108819CC.title: "Path of the Doomed"
@@ -5757,8 +5962,8 @@
 		""
 		"• Increases duration of the &2Entangling Roots&r spell by 2 seconds."
 	]
-	quest.58335D1DAF9D9DDC.quest_subtitle: "Collect the &2Strider's Garb&r"
-	quest.58335D1DAF9D9DDC.title: "&2Strider's Garb&r"
+	quest.58335D1DAF9D9DDC.quest_subtitle: "Collect the &2Strider Garb&r"
+	quest.58335D1DAF9D9DDC.title: "&2Strider Garb&r"
 	quest.5837F889107BBEB8.quest_subtitle: "Craft the &#EBCB8BTurtle Figurine&r"
 	quest.5837F889107BBEB8.title: "&#EBCB8BTurtle Figurine&r"
 	quest.58492A330D0FBDB2.quest_desc: ["    The Tabula Rasa holds 4 spells of Fire, Frost, Arcana each tier (RPG Series)."]
@@ -5813,6 +6018,8 @@
 	quest.594EFDCFB5F09D37.title: "&#B48EADLight Temple&r"
 	quest.5957894658EAF85C.quest_subtitle: "Find the Bandit Towers"
 	quest.5957894658EAF85C.title: "Bandit Towers"
+	quest.59584C1C573219C7.quest_subtitle: "Craft the &#B48EADArmored Elytra&r"
+	quest.59584C1C573219C7.title: "&#B48EADArmored Elytra&r"
 	quest.59709A68C23E1714.quest_desc: ["    The Carmot Upgrade is used to craft &5Carmot Armor&r and &5Carmot Tools&r."]
 	quest.59709A68C23E1714.quest_subtitle: "Find the Carmot Upgrade"
 	quest.59709A68C23E1714.title: "Carmot Upgrade"
@@ -6000,8 +6207,8 @@
 		""
 		"• &#4C566AAdrenaline&r Gain +30%."
 	]
-	quest.5BC3354EFA45AADC.quest_subtitle: "Craft the &#4C566ASuperior Wolf Armor&r"
-	quest.5BC3354EFA45AADC.title: "&#4C566ASuperior Wolf Armor&r"
+	quest.5BC3354EFA45AADC.quest_subtitle: "Craft the &#4C566ASuperior Wolven Armor&r"
+	quest.5BC3354EFA45AADC.title: "&#4C566ASuperior Wolven Armor&r"
 	quest.5BE9F458C086D722.quest_desc: [
 		"    The &6Sacred Alloy Ingot&r is used to craft:"
 		"- &6Sacred Armor&r,"
@@ -6051,8 +6258,8 @@
 	quest.5C6E016ECA407B15.quest_desc: ["    Used as fuel for the altar."]
 	quest.5C6E016ECA407B15.quest_subtitle: "Obtain an &#B48EADAmbrosium Shard&r"
 	quest.5C6E016ECA407B15.title: "&#B48EADAmbrosium Shard&r"
-	quest.5C7D54A75F4AA051.quest_desc: [""]
-	quest.5C7D54A75F4AA051.quest_subtitle: "Find Elytras"
+	quest.5C6F3EBD0F9B4466.quest_subtitle: "Craft the &4Ruby Fire Staff&r"
+	quest.5C6F3EBD0F9B4466.title: "&4Ruby Fire Staff&r"
 	quest.5C9F61DE923F9067.quest_subtitle: "Obtain an &#B48EADArmor Trim&r"
 	quest.5C9F61DE923F9067.title: "&#B48EADArmor Trim&r"
 	quest.5CB3177BA3EE40C5.quest_desc: ["    &5Arcane Spellstrike&r - When attacking a target, deals additional Arcane magic damage."]
@@ -6204,8 +6411,8 @@
 		""
 		"• &5Arcane&r Power Fuze +10%."
 	]
-	quest.5F898A4FD9D331D1.quest_subtitle: "Craft the &#A020F0Eastern Armor&r"
-	quest.5F898A4FD9D331D1.title: "&#A020F0Eastern Armor&r"
+	quest.5F898A4FD9D331D1.quest_subtitle: "Craft the &#A020F0Oriene Armor&r"
+	quest.5F898A4FD9D331D1.title: "&#A020F0Oriene Armor&r"
 	quest.5F8EA3E648F6B9F7.quest_desc: [
 		"    Place a Sniffer Egg on a &#B48EADmoss block&r, and within 10 minutes a &#B48EADbaby Sniffer&r will hatch."
 		""
@@ -6230,6 +6437,8 @@
 	quest.5FDDF23BC96EC148.quest_subtitle: "Craft the &#B48EADFunctionality Upgrades&r"
 	quest.5FDDF23BC96EC148.title: "&#B48EADFunctionality Upgrades&r"
 	quest.5FEE73DCBB4523A8.quest_subtitle: "Use: Ranged weapon damage +10% for 10 seconds"
+	quest.5FF42EB575119E3D.quest_subtitle: "Craft the &bSmaragdant Frost Staff&r"
+	quest.5FF42EB575119E3D.title: "&bSmaragdant Frost Staff&r"
 	quest.601BDE71AA76678D.quest_subtitle: "Craft a &2Golden Spear&r"
 	quest.601BDE71AA76678D.title: "&2Golden Spear&r"
 	quest.6029C71A947C546D.quest_desc: [
@@ -6274,8 +6483,8 @@
 		""
 		"• Targets in the &5Yrden&r circle take more damage from the &3Aard&r sign."
 	]
-	quest.60A42B60C9F2FE07.quest_subtitle: "Craft the &#4C566AGrandmaster Wolf Armor&r"
-	quest.60A42B60C9F2FE07.title: "&#4C566AGrandmaster Wolf Armor&r"
+	quest.60A42B60C9F2FE07.quest_subtitle: "Craft the &#4C566AGrandmaster Wolven Armor&r"
+	quest.60A42B60C9F2FE07.title: "&#4C566AGrandmaster Wolven Armor&r"
 	quest.60A551B1FEF87160.quest_subtitle: "Craft a &5Netherite Arcane Wand&r"
 	quest.60A551B1FEF87160.title: "&5Netherite Arcane Wand&r"
 	quest.60AAF193CDD7AC60.quest_desc: [
@@ -6490,6 +6699,17 @@
 	]
 	quest.63328A84BD78EFEC.quest_subtitle: "Craft &aOrichalcum Armor&r"
 	quest.63328A84BD78EFEC.title: "&aOrichalcum Armor&r"
+	quest.633E19329CA415B1.quest_desc: [
+		"    From &#6F0000Cincnasite Ingot&r are created:"
+		""
+		"• &#6F0000Cincinnasite Tools&r."
+		""
+		"• &#6F0000Cincinnasite Armor&r."
+		""
+		"• &#6F0000Cincinnasite Functional Blocks&r."
+	]
+	quest.633E19329CA415B1.quest_subtitle: "Craft the &#6F0000Cincinnasite Ingot&r"
+	quest.633E19329CA415B1.title: "&#6F0000Cincinnasite Ingot&r"
 	quest.6346AE7C8BF8F661.quest_subtitle: "Use: +20% Earth spell power for 10 seconds"
 	quest.6350CED0B6E03C42.quest_desc: ["    Smelting &6Banglum Ore&r in a forge yields a &6Banglum Ingot&r."]
 	quest.6350CED0B6E03C42.quest_subtitle: "Obtain &6Banglum Ore&r"
@@ -6533,8 +6753,8 @@
 		""
 		"• Removes negative effects of &#B48EADpoison&r. (Right-Click)"
 	]
-	quest.639F3BAE32DD7CEE.quest_subtitle: "Obtain the &#B48EADSandworm Dart&r"
-	quest.639F3BAE32DD7CEE.title: "&#B48EADSandworm Dart&r"
+	quest.639F3BAE32DD7CEE.quest_subtitle: "Obtain the &#B48EADSirok Gauntlet&r"
+	quest.639F3BAE32DD7CEE.title: "&#B48EADSirok Gauntlet&r"
 	quest.63A264FF833F574E.quest_subtitle: "Craft the &#EBCB8BDiamond Claymore&r or &#EBCB8BGreat Hammer&r"
 	quest.63AB6CDDDB47F47B.quest_subtitle: "Taking Damage: 30% chance to reduce the target's attack and movement speed by 30% for 10 seconds"
 	quest.63B228F7E787C14F.quest_desc: ["A chest is a place to store items and objects."]
@@ -6586,8 +6806,8 @@
 		""
 		"• Physical Damage +8%."
 	]
-	quest.63CFCA5D8329B61D.quest_subtitle: "Craft the &#4C566AReinforced Cat Armor&r"
-	quest.63CFCA5D8329B61D.title: "&#4C566AReinforced Cat Armor&r"
+	quest.63CFCA5D8329B61D.quest_subtitle: "Craft the &#4C566AEnhanced Feline Armor&r"
+	quest.63CFCA5D8329B61D.title: "&#4C566AEnhanced Feline Armor&r"
 	quest.63DDE7942D63E8B7.quest_subtitle: "Obtain the &#B48EADTidal Claws&r"
 	quest.63DDE7942D63E8B7.title: "&#B48EADTidal Claws&r"
 	quest.63F4FE09BD5B99C3.quest_desc: ["    The &#4C566AIron&r level upgrade holds 45 slots, 3 tool slots, 3 functional upgrade slots."]
@@ -6606,7 +6826,7 @@
 		""
 		"• &#B48EADBoots&r - Can jump on tilled soil."
 	]
-	quest.64003826DC3082A0.quest_subtitle: "Craft a &#B48EADPlatinum Sheet&r"
+	quest.64003826DC3082A0.quest_subtitle: "Craft the &#B48EADPlatinum Sheet&r"
 	quest.64003826DC3082A0.title: "&#B48EADPlatinum Sheet&r"
 	quest.641F1008929953F3.quest_desc: [
 		"    Full set bonus:"
@@ -6665,11 +6885,13 @@
 	]
 	quest.64E7DC9C95F6BE84.quest_subtitle: "Craft the &#B48EADIgnitium Armor&r"
 	quest.64E7DC9C95F6BE84.title: "&#B48EADIgnitium Armor&r"
-	quest.64E97BDA1B3F01D7.quest_subtitle: "Find the &#A020F0Holy Fist&r"
-	quest.64E97BDA1B3F01D7.title: "&#A020F0Holy Fist&r"
+	quest.64E97BDA1B3F01D7.quest_subtitle: "Find the &#A020F0Holy Knuckle&r"
+	quest.64E97BDA1B3F01D7.title: "&#A020F0Holy Knuckle&r"
 	quest.653462879BD5992D.quest_desc: ["    &4Desert Blazes&r inhabit the &nInfernal Dunes&r biome. You need to kill a &4Desert Blaze&r on the border of light and darkness."]
 	quest.653462879BD5992D.quest_subtitle: "Find and slay a &4Desert Blaze&r"
 	quest.653462879BD5992D.title: "&4Desert Blaze&r"
+	quest.655548B1D57BC8D7.quest_subtitle: "Craft the &dRuby Rapier&r"
+	quest.655548B1D57BC8D7.title: "&dRuby Rapier&r"
 	quest.655EC4FEC548A991.quest_subtitle: "Craft &#4d4791Thermal Springstone Tools&r"
 	quest.655EC4FEC548A991.title: "&#4d4791Thermal Springstone Tools&r"
 	quest.6563404C57289C1A.quest_desc: [
@@ -6685,8 +6907,8 @@
 		""
 		"• Reduces cooldown of the &3Aard&r sign by 2 seconds."
 	]
-	quest.6563404C57289C1A.quest_subtitle: "Craft the &#4C566AMastercrafted Wolf Armor&r"
-	quest.6563404C57289C1A.title: "&#4C566AMastercrafted Wolf Armor&r"
+	quest.6563404C57289C1A.quest_subtitle: "Craft the &#4C566AMastercrafted Wolven Armor&r"
+	quest.6563404C57289C1A.title: "&#4C566AMastercrafted Wolven Armor&r"
 	quest.6565836334BF968C.quest_subtitle: "Craft an &6Earth Wand&r"
 	quest.6565836334BF968C.title: "&6Earth Wand&r"
 	quest.657BDD41FF7AC308.quest_desc: ["    Smelting &3Osmium Ore&r in a forge yields an &3Osmium Ingot&r."]
@@ -6710,6 +6932,10 @@
 	quest.658611C526434F4A.title: "&#B48EADFeeding Trough&r"
 	quest.65BD11A5CF84A729.quest_subtitle: "Place &#B48EADLore Book&r in &#B48EADLore Book&r"
 	quest.65BD11A5CF84A729.title: "&#B48EADLore Book&r"
+	quest.65DEBC2F25C44F4F.quest_subtitle: "Craft the &#EBCB8BRuby Claymore&r or &#EBCB8BGreat Hammer&r"
+	quest.65E441C1C7A88DCE.quest_desc: ["    Used to craft &#6F0000Cincinnasite-Diamond Tools&r."]
+	quest.65E441C1C7A88DCE.quest_subtitle: "Find the &#6F0000Diamond Cincinnasite Upgrade&r"
+	quest.65E441C1C7A88DCE.title: "&#6F0000Diamond Cincinnasite Upgrade&r"
 	quest.660143C270CBB66F.quest_subtitle: "Slay the boss Magus"
 	quest.660143C270CBB66F.title: "Magus"
 	quest.660DF4BEC90C3529.quest_desc: [
@@ -6778,8 +7004,6 @@
 	quest.666EAF4E6EE9D324.quest_desc: ["    &3Water Bomb&r - When attacking a target, 40% chance to deal extra damage around the target."]
 	quest.666EAF4E6EE9D324.quest_subtitle: "Craft the &3Abyssal Sickle&r"
 	quest.666EAF4E6EE9D324.title: "&3Abyssal Sickle&r"
-	quest.66B871C0550F4F40.quest_subtitle: "Slay the boss Ender Dragon"
-	quest.66B871C0550F4F40.title: "Ender Dragon"
 	quest.66C4924F72992F5F.quest_subtitle: "Craft the &#6F0000Diamond Double Axe&r or &#6F0000Glaive&r"
 	quest.66CB31E361003267.quest_desc: [
 		"    Full set bonus:"
@@ -6816,6 +7040,15 @@
 	quest.673A91D19E44B80C.quest_desc: ["Smelting ancient debris yields netherite scrap."]
 	quest.673A91D19E44B80C.quest_subtitle: "Obtain Ancient Debris"
 	quest.673A91D19E44B80C.title: "Ancient Debris"
+	quest.673AA4B7A1DF7516.quest_desc: [
+		"• &#6F0000Cincinnasite Forge&r - speeds up the smelting of all items."
+		""
+		"• &#6F0000Cincinnasite Anvil&r - increased durability."
+		""
+		"• &#6F0000Nether Brewing Stand&r - speeds up the brewing of all potions."
+	]
+	quest.673AA4B7A1DF7516.quest_subtitle: "Craft the &#6F0000Cincinnasite Functional Blocks&r"
+	quest.673AA4B7A1DF7516.title: "&#6F0000Cincinnasite Functional Blocks&r"
 	quest.673E8F5F46CD8B36.quest_desc: ["    &3Coral Reef Arrows&r - When hitting a target, 50% chance to cause bleeding for 5 seconds."]
 	quest.673E8F5F46CD8B36.quest_subtitle: "Craft the &3Nemo's Wrath&r"
 	quest.673E8F5F46CD8B36.title: "&3Nemo's Wrath&r"
@@ -6895,6 +7128,9 @@
 	]
 	quest.68AB3C8B618C5FFE.quest_subtitle: "Craft &#4d4791Air Sack Equipment&r"
 	quest.68AB3C8B618C5FFE.title: "&#4d4791Air Sack Equipment&r"
+	quest.68BF5E0D6387003D.quest_desc: ["    By melting &#6F0000Cincinnasite&r, you will obtain a &#6F0000Cincinnasite Ingot&r."]
+	quest.68BF5E0D6387003D.quest_subtitle: "Obtain the &#6F0000Cincinnasite&r"
+	quest.68BF5E0D6387003D.title: "&#6F0000Cincinnasite&r"
 	quest.68D7B6BD18EEE0FD.quest_desc: [
 		"    The &8Witcher Sign Guide&r contains 5 different Witcher spells:"
 		""
@@ -6932,8 +7168,8 @@
 		""
 		"• &#4C566AAdrenaline&r Gain +10%."
 	]
-	quest.68E5B4B043510A67.quest_subtitle: "Craft the &#4C566AReinforced Wolf Armor&r"
-	quest.68E5B4B043510A67.title: "&#4C566AReinforced Wolf Armor&r"
+	quest.68E5B4B043510A67.quest_subtitle: "Craft the &#4C566AEnhanced Wolven Armor&r"
+	quest.68E5B4B043510A67.title: "&#4C566AEnhanced Wolven Armor&r"
 	quest.68FF05F57451772C.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -6945,8 +7181,8 @@
 		""
 		"• Reduces the cooldown of the &#EBCB8BJudgement&r Spell by 3 seconds."
 	]
-	quest.68FF05F57451772C.quest_subtitle: "Collect the &#EBCB8BJusticiar Armor&r"
-	quest.68FF05F57451772C.title: "&#EBCB8BJusticiar Armor&r"
+	quest.68FF05F57451772C.quest_subtitle: "Collect the &#EBCB8BJusticar Armor&r"
+	quest.68FF05F57451772C.title: "&#EBCB8BJusticar Armor&r"
 	quest.6918605B859D8A69.quest_desc: ["Obsidian can be mined with a Diamond Pickaxe."]
 	quest.6918605B859D8A69.quest_subtitle: "Craft Diamond Tools"
 	quest.6918605B859D8A69.title: "Diamond Tools"
@@ -6961,7 +7197,7 @@
 	quest.694E44CF557F7D8C.title: "&#4d4791Raw Amaranth&r"
 	quest.698B349D890DB8EE.quest_subtitle: "Craft the &7Gold Greathammer&r"
 	quest.698B349D890DB8EE.title: "&7Gold Greathammer&r"
-	quest.698F2F3B29039853.quest_subtitle: "Craft the &#4C566AWitcher Sword Stage 3&r"
+	quest.698F2F3B29039853.quest_subtitle: "Craft the &#4C566AWitcher Sword Stage III&r"
 	quest.69C2AF3EF3FDDC35.quest_desc: ["    Functions like a &#B48EADBarrel&r."]
 	quest.69C2AF3EF3FDDC35.quest_subtitle: "Craft the &#B48EADPantry&r"
 	quest.69CD1CA58A74A23C.quest_desc: [
@@ -7078,6 +7314,8 @@
 		"• &#B48EADJug&r can hold liquids."
 		""
 		"• &#B48EADTapping Kit&r is used to &#B48EADtap sap&r from trees (Spruce and Dark Oak). The process takes 3 to 6 minutes. Afterward, collect the sap with a &#B48EADbucket&r. The bucket of sap must be poured into a &#B48EADheated cauldron&r. Once the sap evaporates, &#B48EADsyrup&r remains and can be collected into a &#B48EADbottle&r."
+		""
+		"• &#B48EADEmpty Crate&r can hold any combination of bottles, eggs, small items, etc. You can collect the crate without breaking it. (Crouch + RMB)"
 	]
 	quest.6C083CEBECBF118B.quest_subtitle: "Craft &#B48EADFarming Tools&r"
 	quest.6C083CEBECBF118B.title: "&#B48EADFarming Tools&r"
@@ -7159,6 +7397,8 @@
 	]
 	quest.6D16E2897441B39B.quest_subtitle: "Collect all &#B48EADRings&r"
 	quest.6D16E2897441B39B.title: "&#B48EADRings&r"
+	quest.6D1996CDC8E4F681.quest_subtitle: "Craft the &2Ruby Spear&r"
+	quest.6D1996CDC8E4F681.title: "&2Ruby Spear&r"
 	quest.6D49E92B9B95477C.quest_desc: ["    Candlesticks empower the Altar."]
 	quest.6D49E92B9B95477C.quest_subtitle: "Craft Candlesticks"
 	quest.6D49E92B9B95477C.title: "Candlesticks"
@@ -7179,6 +7419,16 @@
 		"    Harvesting &#B48EADgrants XP&r."
 	]
 	quest.6D628A835D1B7863.quest_subtitle: "Craft a &#B48EADLevel I Hoe&r"
+	quest.6D69AB18CAC83102.quest_desc: [
+		"    &#B48EADPedestals&r are used to perform a ritual to create armor and other items."
+		""
+		"    You must place the &#B48EADInfusion Pedestal&r in the center and any other pedestals around it, with the items facing north."
+		""
+		""
+		"{image:ftb:textures/quests/piedestal.png width:200 height:100 align:center}"
+	]
+	quest.6D69AB18CAC83102.quest_subtitle: "Craft the &#B48EADPedestals&r"
+	quest.6D69AB18CAC83102.title: "&#B48EADPedestals&r"
 	quest.6D6C912FEA56AD7B.quest_subtitle: "Spell Damage: 5% chance to increase Air and Water spell power by 15% for 6 seconds"
 	quest.6D723877B2738CFF.quest_subtitle: "Craft the &bFrost Staff&r"
 	quest.6D723877B2738CFF.title: "&bFrost Staff&r"
@@ -7618,6 +7868,9 @@
 	quest.72C1DC672267C993.quest_desc: ["    The &eMidas Gold Sword Gilding&r is used to upgrade the &eMidas Gold Sword&r."]
 	quest.72C1DC672267C993.quest_subtitle: "Craft the &eMidas Gold Sword Gilding&r"
 	quest.72C1DC672267C993.title: "&eMidas Gold Sword Gilding&r"
+	quest.731181B08ACC132C.quest_desc: ["    It smelts &#B48EADtwo&r ore into &#B48EADthree&r ingot."]
+	quest.731181B08ACC132C.quest_subtitle: "Craft the &#B48EADEnd Stone Smelter&r"
+	quest.731181B08ACC132C.title: "&#B48EADEnd Stone Smelter&r"
 	quest.731B274A4E67BFA5.quest_desc: [
 		"    The &#B48EADEnd Remastered&r + &#B48EADAdditions&r mod changes how you get to the End, adding &#B48EAD22 new eyes&r."
 		""
@@ -7630,6 +7883,8 @@
 	quest.731EACCCDC35C704.title: "&#4d4791Glazed Upgrade&r"
 	quest.73334A32D26EBFEF.quest_subtitle: "Find the &#3A003AHeavenly Harvester&r"
 	quest.73334A32D26EBFEF.title: "&#3A003AHeavenly Harvester&r"
+	quest.73497FCAA8DBC750.quest_subtitle: "Craft the &#8B4513Ruby Terra Staff&r"
+	quest.73497FCAA8DBC750.title: "&#8B4513Ruby Terra Staff&r"
 	quest.738C6452159E088F.quest_desc: ["    The Black Moa has the most jump stamina."]
 	quest.738C6452159E088F.quest_subtitle: "Ride a &#B48EADBlack Moa&r"
 	quest.738C6452159E088F.title: "&#B48EADBlack Moa&r"
@@ -7774,7 +8029,7 @@
 	quest.75ABEEAE05B59A66.title: "&#B48EADEnder Guardian&r"
 	quest.75B4323AD3BDD234.quest_subtitle: "Find the Small Airship"
 	quest.75B4323AD3BDD234.title: "Small Airship"
-	quest.75BF269A8F77B627.quest_subtitle: "Craft the &#4C566AWitcher Sword Stage 2&r"
+	quest.75BF269A8F77B627.quest_subtitle: "Craft the &#4C566AWitcher Sword Stage II&r"
 	quest.75C85238DE3B0986.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +20."
@@ -7859,6 +8114,13 @@
 	quest.771D9CFDC6B59BB9.title: "&5Ender Claymore&r"
 	quest.771E6EA23E1F4554.quest_subtitle: "Spell Damage: 15% chance to torment the target for 10 seconds, dealing 3% of the target's max health as damage"
 	quest.772C87FA25C65509.quest_subtitle: "Use: +20% Nature spell power for 10 seconds"
+	quest.772DC7A427F42A95.quest_subtitle: "Craft the &#4C566AAeternium Witcher Sword&r"
+	quest.772DC7A427F42A95.title: "&#4C566AAeternium Witcher Sword&r"
+	quest.775A078F953A8099.quest_subtitle: "Craft the &#B48EADCrystalite Elytra&r"
+	quest.775A078F953A8099.title: "&#B48EADCrystalite Elytra&r"
+	quest.776327F77DA4AB54.quest_desc: ["    Breaking a &#B48EADEnder Shard&r on a &#B48EADThallasium Anvil&r will result in &#B48EADEnder Dust&r."]
+	quest.776327F77DA4AB54.quest_subtitle: "Obtain the &#B48EADEnder Shard&r"
+	quest.776327F77DA4AB54.title: "&#B48EADEnder Shard&r"
 	quest.77945776D9ECC08D.quest_subtitle: "Slay the &#B48EADAlpha Yeti&r Boss"
 	quest.77945776D9ECC08D.title: "&#B48EADAlpha Yeti&r"
 	quest.77990938D3AF65D5.quest_subtitle: "Craft the &2Gale Crossbow&r"
@@ -7972,8 +8234,8 @@
 	quest.790090513EDFCF15.title: "&#0044FFSorcerer's Mantle&r"
 	quest.79202F24741576A5.quest_subtitle: "Prepare some &#B48EADPickled Food&r"
 	quest.79202F24741576A5.title: "&#B48EADPickled Food&r"
-	quest.793A8AABC8BDE7B0.quest_subtitle: "Craft the &#BF616ADiamond Axe&r"
-	quest.793A8AABC8BDE7B0.title: "&#BF616ADiamond Axe&r"
+	quest.793A8AABC8BDE7B0.quest_subtitle: "Craft the &#BF616ADiamond Raid Axe&r"
+	quest.793A8AABC8BDE7B0.title: "&#BF616ADiamond Raid Axe&r"
 	quest.797E831A2F0163B8.quest_desc: ["    Can be fitted with any &#B48EADbanner&r."]
 	quest.797E831A2F0163B8.quest_subtitle: "Craft &#B48EADSterling Horse Armor&r"
 	quest.797E831A2F0163B8.title: "&#B48EADSterling Horse Armor&r"
@@ -8070,6 +8332,8 @@
 	quest.7AF35889851FAA5A.quest_desc: ["Combining Netherite Scrap and Gold produces a Netherite Ingot."]
 	quest.7AF35889851FAA5A.quest_subtitle: "Obtain Netherite Scrap and Gold"
 	quest.7AF35889851FAA5A.title: "Netherite Scrap"
+	quest.7B1DA6C8F3D1C1A0.quest_subtitle: "Craft the &#6F0000Fireruby Tools&r"
+	quest.7B1DA6C8F3D1C1A0.title: "&#6F0000Fireruby Tools&r"
 	quest.7B2725AF14FAE0E4.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +19."
@@ -8107,6 +8371,17 @@
 	quest.7C469DDE96F6D5EA.quest_desc: ["    Freezes rivers, covers any blocks with snow, and turns &#B48EADyeti into ice blocks&r."]
 	quest.7C469DDE96F6D5EA.quest_subtitle: "Obtain the &#B48EADIce Bomb&r"
 	quest.7C469DDE96F6D5EA.title: "&#B48EADIce Bomb&r"
+	quest.7C4BFC725D8BC2A5.quest_desc: [
+		"    Using the &#B48EADNetherite Smith Hammer&r on the &#B48EADAeternium Anvil&r, you can create:"
+		""
+		"• &#B48EADAeternium Forged Plate&r."
+		""
+		"• &#B48EADAeternium Tool Head&r."
+		""
+		"• &#B48EADAeternium Sword Blade&r."
+	]
+	quest.7C4BFC725D8BC2A5.quest_subtitle: "Craft the &#B48EADAeternium Anvil&r and &#B48EADNetherite Smith Hammer&r"
+	quest.7C4BFC725D8BC2A5.title: "&#B48EADAeternium Anvil&r and &#B48EADNetherite Smith Hammer&r"
 	quest.7C6076B8AC628C29.quest_desc: [
 		"• &#B48EADCounter&r is a decorative block."
 		""
@@ -8150,8 +8425,8 @@
 	quest.7CF7E85DDE0DD62C.quest_subtitle: "Find the &5Mystic Jewelry&r"
 	quest.7CF7E85DDE0DD62C.title: "&5Mystic Jewelry&r"
 	quest.7CFDEBCCC80B10FF.quest_desc: ["    Improves enchantments on enchanted items by &#B48EAD+1 level&r."]
-	quest.7CFDEBCCC80B10FF.quest_subtitle: "Craft the &#B48EADInfusion Table&r"
-	quest.7CFDEBCCC80B10FF.title: "&#B48EADInfusion Table&r"
+	quest.7CFDEBCCC80B10FF.quest_subtitle: "Craft the &#B48EADImbuing Table&r"
+	quest.7CFDEBCCC80B10FF.title: "&#B48EADImbuing Table&r"
 	quest.7D01BB2247DC310F.quest_desc: ["    &6Bronze Tools&r are of the same quality as &7Iron&r tools."]
 	quest.7D01BB2247DC310F.quest_subtitle: "Craft &6Bronze Tools&r"
 	quest.7D01BB2247DC310F.title: "&6Bronze Tools&r"
@@ -8181,8 +8456,8 @@
 	quest.7D65DD63D1E3BEFB.quest_desc: ["    &4Hovering Inferno&r is summoned on an &nInfernal Altar&r using a Nether Star, in the &nInfernal Dunes&r biome."]
 	quest.7D65DD63D1E3BEFB.quest_subtitle: "Summon the &4Hovering Inferno&r Boss"
 	quest.7D65DD63D1E3BEFB.title: "&4Hovering Inferno&r"
-	quest.7D72C646776D904B.quest_subtitle: "Craft the &#A020F0Iron Fist&r"
-	quest.7D72C646776D904B.title: "&#A020F0Iron Fist&r"
+	quest.7D72C646776D904B.quest_subtitle: "Craft the &#A020F0Iron Knuckle&r"
+	quest.7D72C646776D904B.title: "&#A020F0Iron Knuckle&r"
 	quest.7D7858A809CD739B.quest_desc: [
 		"    Full set bonus:"
 		"- Armor +13."
@@ -8272,8 +8547,8 @@
 		""
 		"• When injured, 20% chance to activate the &6Quen&r sign."
 	]
-	quest.7E52FA47199F746F.quest_subtitle: "Craft the &#4C566AGrandmaster Bear Armor&r"
-	quest.7E52FA47199F746F.title: "&#4C566AGrandmaster Bear Armor&r"
+	quest.7E52FA47199F746F.quest_subtitle: "Craft the &#4C566AGrandmaster Ursine Armor&r"
+	quest.7E52FA47199F746F.title: "&#4C566AGrandmaster Ursine Armor&r"
 	quest.7E66E4B41E998980.quest_subtitle: "Craft the &0Gold Dagger&r"
 	quest.7E66E4B41E998980.title: "&0Gold Dagger&r"
 	quest.7E68A25F9338A7EE.quest_desc: ["    The &5Stormyx Carapace&r is used to craft the &5Stormyx Shield&r."]
@@ -8351,6 +8626,9 @@
 	quest.7F327ED450DFE535.title: "&5Jeweled Master Armor&r"
 	quest.7F3B175075755C22.quest_subtitle: "Find the &2Holy Spear&r"
 	quest.7F3B175075755C22.title: "&2Holy Spear&r"
+	quest.7F3C3BE3ED3C35F3.quest_desc: ["    By melting &#B48EADRaw Thallasium&r, you will obtain &#B48EADThallasium Ingot&r."]
+	quest.7F3C3BE3ED3C35F3.quest_subtitle: "Obtain the &#B48EADRaw Thallasium&r"
+	quest.7F3C3BE3ED3C35F3.title: "&#B48EADRaw Thallasium&r"
 	quest.7F4B65BA0A97D9C5.quest_desc: [
 		"    &nFull set bonus:&r"
 		""
@@ -8358,8 +8636,8 @@
 		""
 		"• &#EBCB8BHealing&r Power +2."
 	]
-	quest.7F4B65BA0A97D9C5.quest_subtitle: "Craft the &#EBCB8BMonk-Knight Armor&r"
-	quest.7F4B65BA0A97D9C5.title: "&#EBCB8BMonk-Knight Armor&r"
+	quest.7F4B65BA0A97D9C5.quest_subtitle: "Craft the &#EBCB8BPaladin Armor&r"
+	quest.7F4B65BA0A97D9C5.title: "&#EBCB8BPaladin Armor&r"
 	quest.7F6BAEDC360A325E.quest_desc: [
 		"• &#4d4791Petal Scythe&r - the first combo attack deals additional &#4d4791explosion damage&r and applies &#4d4791Poison II&r."
 		""
@@ -8378,7 +8656,7 @@
 	quest.7F893271F4EFE9F8.quest_subtitle: "Craft &#4d4791Hunger Weapons&r"
 	quest.7F893271F4EFE9F8.title: "&#4d4791Hunger Weapons&r"
 	quest.7FAAA5C638A62B06.quest_subtitle: "Spell Damage: 5% chance to increase Frost and Healing spell power by 15% for 6 seconds"
-	quest.7FAEB2BDA9AABA53.quest_subtitle: "Obtain &#B48EADUnusual Dust&r"
+	quest.7FAEB2BDA9AABA53.quest_subtitle: "Obtain the &#B48EADUnusual Dust&r"
 	quest.7FAEB2BDA9AABA53.title: "&#B48EADUnusual Dust&r"
 	quest.7FB4CEE1960C1789.quest_desc: ["    &3Coral Reef Arrows&r - On hitting a target, 50% chance to cause bleeding for 5 seconds."]
 	quest.7FB4CEE1960C1789.quest_subtitle: "Craft the &3Assailing Reef&r"
@@ -8411,9 +8689,11 @@
 	quest.7FEFC9FE3B945858.quest_subtitle: "Craft a &7Tin Ingot&r"
 	quest.7FEFC9FE3B945858.title: "&7Tin Ingot&r"
 	reward_table.0002AFBB3B5C309D.title: "RunesEle"
+	reward_table.11D1CBA7DD97124D.title: "Glyph"
 	reward_table.20271908E914B8A0.title: "Necklace Stage II"
 	reward_table.23B7AD0698EC056B.title: "Necklace Stage I"
 	reward_table.253CE8EDE1B5515F.title: "Ring Stage II"
+	reward_table.3C26ADF7C4AE72AB.title: "Runestone"
 	reward_table.3F8CFC83A1059C40.title: "Ring Stage I"
 	reward_table.40C847386BA29E0C.title: "Necklace Stage III"
 	reward_table.418E3AAB1348DC55.title: "Ring Stage III"
@@ -8472,10 +8752,12 @@
 	task.150063456111D498.title: "&#EBCB8BGold Claymore&r / &#EBCB8BGreat Hammer&r"
 	task.1564B69F506B623E.title: "&#B48EADKitchen&r"
 	task.15A44D1D2B9FB218.title: "Choosing a Direction"
+	task.15C2FC633D28C56B.title: "&dRuby Lute&r / &dAeternium Lyre&r"
 	task.15E442D99364B48E.title: "Sky Rider"
 	task.17397B9A0053E8F1.title: "Citadel"
 	task.17AA0612801D3920.title: "&#B48EADCrockery Combo&r"
 	task.183AD369FCA90A8F.title: "Armor of the Ages"
+	task.193C56F3C91BAAA5.title: "&#EBCB8BAeternium Claymore&r / &#EBCB8BGreat Hammer&r"
 	task.1990AED378688824.title: "Scorched Mines"
 	task.1A4CD5474086CA97.title: "See the &#B48EADMiscreant&r"
 	task.1AAD0E9FE5094FC8.title: "Plains Archaeologist"
@@ -8484,6 +8766,7 @@
 	task.1DCC8D0DF5B7B0AD.title: "&#3A003AGold Sickle&r / &#3A003ADagger&r"
 	task.1E2D68D27CDAFAC4.title: "Visit the &#4d4791Golem Forge&r"
 	task.1E86F9FF7DC71CBC.title: "Visit the &#B48EADTrail Ruins&r"
+	task.208CE5BC4C491ABA.title: "Visit the &#B48EADEnd City&r"
 	task.21AAFF76CD97EBAD.title: "&#B48EADHorizontal Wall Holder&r"
 	task.21AB9590F2F2CEBC.title: "&#3A003ANetherite Sickle&r / &#3A003ADagger&r"
 	task.22CDAF02A52DF816.title: "Visit the &#035B6CAncient City&r"
@@ -8539,26 +8822,27 @@
 	task.3E964103FB72B5EF.title: "&#B48EADMoa Armor&r"
 	task.3F3BF820836B4FF1.title: "&#B48EADRunic Weapons&r"
 	task.403FC9491510E344.title: "&2Bow&r / &2Crossbow Stage II&r"
-	task.41933A3505A942E7.title: "Visit the &#4d4791Twilight Forest&r"
+	task.41933A3505A942E7.title: "Visit the &#B48EADTwilight Forest&r"
 	task.41E026DBB75BE763.title: "&#EBCB8BNetherite Claymore&r / &#EBCB8BGreat Hammer&r"
 	task.41F3B286FC26DD81.title: "Mushroom House"
-	task.42400C250F89962D.title: "&#4C566AWitcher Sword Stage 3&r"
+	task.42400C250F89962D.title: "&#4C566AWitcher Sword Stage III&r"
 	task.428098995ADC03D4.title: "&#B48EADPot&r"
 	task.4358922A6A438326.title: "Visit the &#B48EADWitch's Hut&r"
 	task.4415D55C6315088D.title: "&#B48EADSharestone&r"
 	task.4543893E4460692C.title: "Illager Rest Camp"
 	task.45C695AC3686AF33.title: "Paladins and Priests"
-	task.4709129AB7F54ED3.title: "Visit the &#B48EADEther&r"
+	task.4709129AB7F54ED3.title: "Visit the &#B48EADAether&r"
 	task.47425005B213A472.title: "The Greenwood Pub"
 	task.474A57743E8EB76F.title: "Undead Pirate Ship"
 	task.491E9287F51030E9.title: "dd"
 	task.49CCE4D68C4B7620.title: "Brutal Corsair"
+	task.4A7437D577AAADEA.title: "&#6F0000Aeternium Double Axe&r / &#6F0000Glaive&r"
 	task.4BA2B3F2B4E7CDA9.title: "&#B48EADAccessories&r"
-	task.4C482E843E5738FC.title: "Visit the Nether"
+	task.4C482E843E5738FC.title: "Visit the &#6F0000Nether&r"
 	task.4C8B4FA961F7199A.title: "&#B48EADShelf&r"
 	task.4D4B35A6571B5D33.title: "&#EBCB8BStone Claymore&r / &#EBCB8BGreat Hammer&r"
 	task.4D99EA339ECCF67D.title: "&#6F0000Gold Double Axe&r / &#6F0000Glaive&r"
-	task.4DDDF7442AB0B021.title: "&#035B6CTemple&r"
+	task.4DDDF7442AB0B021.title: "Visit the &#035B6CTemple&r"
 	task.4DFDABA8BCD85D15.title: "Frigate 'Victory'"
 	task.4E6EDD1D79DB396A.title: "&#B48EADTable&r"
 	task.4F0D952CB6CB675B.title: "See the &#B48EADCowflower&r"
@@ -8569,6 +8853,7 @@
 	task.50BFA434AFEFC100.title: "&#B48EADLevel III Hoe&r"
 	task.50E05DBCFAB3FB58.title: "Citadel"
 	task.51C506BB50A86556.title: "Visit the &#B48EADMansion&r"
+	task.51E928D153EB7EB1.title: "&#B48EADPedestals&r"
 	task.5203ACC7027F0C6E.title: "&#77CCFFNetherite Wind Staff&r / &#77CCFFWand&r"
 	task.5203F27B3445EBFB.title: "&#B48EADSide Table&r"
 	task.528E7218E62B8164.title: "&#B48EADKnife&r"
@@ -8576,17 +8861,20 @@
 	task.5367C272B9BFF257.title: "&#B48EADJeweler's Cushion&r"
 	task.5393E5B8F9F714C1.title: "Black Bridge"
 	task.542333FF78023422.title: "Jungle Treehouse"
+	task.55B5C596F09C5EF6.title: "&#6F0000Ruby Double Axe&r / &#6F0000Glaive&r"
 	task.55CB14B44864D081.title: "Plague Hospital"
 	task.57183EB141013CB8.title: "&#B48EADLevel II Hoe&r"
 	task.57599812A5A3BA58.title: "Illager Windmill"
 	task.57C7C4D7DF25DC8E.title: "Any #c:storage_blocks"
 	task.58ED0B4D9598F0A5.title: "Tomes of &#74DFBFWater&r, &#8B4513Earth&r, &#77CCFFWind&r"
+	task.59A8389F29AA7E73.title: "&2Bow&r / &2Crossbow Stage III&r"
 	task.5A1F21E8308408EF.title: "&#B48EADStorage Upgrade&r"
 	task.5A9698FF55BE41EF.title: "Witch Circle"
 	task.5A9D4B6682AF2AFB.title: "&#B48EADVertical Wall Holder&r"
 	task.5B946982C0C46ADE.title: "&#B48EADWine Rack&r"
 	task.5BA50DE8B68A8CE6.title: "&#EBCB8BDiamond Claymore&r / &#EBCB8BGreat Hammer&r"
-	task.5C91927CCC1B311D.title: "&#4C566AWitcher Sword Stage 1&r"
+	task.5C91927CCC1B311D.title: "&#4C566AWitcher Sword Stage I&r"
+	task.5CBD8B6423A1993F.title: "&#3A003ARuby Sickle&r / &#3A003ADagger&r"
 	task.5D1EB169365D6664.title: "&#74DFBFWater Staff&r / &#74DFBFWand&r"
 	task.5D2F4135B3202B80.title: "Visit the &#B48EADIllusioner's Tower&r"
 	task.5D79D8C0D544D1EC.title: "Spellblades and Such"
@@ -8594,6 +8882,7 @@
 	task.5DC459596A5036C6.title: "Witch Hut"
 	task.60915C0B092A3523.title: "Bandit Towers"
 	task.612402C401F8213B.title: "Minecraft"
+	task.619AE32E7811A354.title: "&#3A003AAeternium Sickle&r / &#3A003ADagger&r"
 	task.61DE26DDF26D5714.title: "Any #spell_engine:spell_books"
 	task.63FB621B64474324.title: "&#B48EADNightstand&r"
 	task.641B5AD2278C47F4.title: "Camp Kitchen"
@@ -8601,13 +8890,14 @@
 	task.64F5D7B4C42D7B57.title: "Bathhouse"
 	task.654D3FF3B69CEDE2.title: "&#B48EADUtility Upgrade&r"
 	task.666BF10D1CC41A18.title: "Monastery"
+	task.66B6C47907E73455.title: "&#EBCB8BRuby Claymore&r / &#EBCB8BGreat Hammer&r"
 	task.6701400E55227946.title: "Small"
 	task.679B5F055CD0AAB8.title: "Rogues and Warriors"
 	task.67C94115D0319721.title: "When Dungeons Arise"
 	task.67E2BE95DBF41B03.title: "Prison Cells"
 	task.67FFE1A40BBD2BAC.title: "&#B48EADScroll&r"
 	task.68186017E447444D.title: "Any #farmersdelight:canvas_signs"
-	task.681BC66999301975.title: "&#4C566AWitcher Sword Stage 2&r"
+	task.681BC66999301975.title: "&#4C566AWitcher Sword Stage II&r"
 	task.695B1A86C6F3FE59.title: "&#6F0000Netherite Double Axe&r / &#6F0000Glaive&r"
 	task.69683DA86AA777ED.title: "Wizards"
 	task.6A536D50F3B04F1F.title: "&eNetherite Holy Staff&r / &eWand&r"
@@ -8620,8 +8910,10 @@
 	task.6EA5078BA744ACEC.title: "Helmet"
 	task.6EE3B22DA2DE494A.title: "Spiders"
 	task.70CC11350712E076.title: "Prison Towers"
+	task.710E1BDDC4CE53F1.title: "Visit the &#B48EADEnd Village&r"
 	task.713E801D793CAD58.title: "Small Airship"
 	task.7286AAC81DF3C6DB.title: "YUNG's Better"
+	task.7351145D198162A9.title: "Visit the &#6F0000Nether City&r"
 	task.7381CD7EA85EB888.title: "Wishing Well"
 	task.747CA45697B06516.title: "Zombies"
 	task.75957519D7BFC699.title: "&#B48EADBrush&r"
@@ -8633,7 +8925,7 @@
 	task.7878802CE007044A.title: "&eHoly Staff&r / &eWand&r"
 	task.78806CCE86F443A2.title: "Visit the &#035B6COtherside&r"
 	task.7915FC7085BD90D2.title: "Sky Conqueror"
-	task.79B4CF52C9464105.title: "Visit the &#4d4791Everstarflare&r"
+	task.79B4CF52C9464105.title: "Visit the &#4d4791Eternal Starlight&r"
 	task.7A34D4B3C2A25B71.title: "&#B48EADChest Upgrade&r"
 	task.7A9880CC18426B2B.title: "Icarus"
 	task.7D1DEDAE98445E06.title: "&4Netherite Fire Staff&r / &4Wand&r"
@@ -8641,7 +8933,7 @@
 	task.7D9D5C8CFB45E05F.title: "Tomes of &4Fire&r, &5Arcane&r, &bFrost&r"
 	task.7DCE4D5779E6956C.title: "Desert Temple"
 	task.7E655148F3B4E82F.title: "Fate Obelisk"
-	task.7E8E150989D3946E.title: "Better End"
+	task.7E8E150989D3946E.title: "Visit the &#B48EADEnd&r"
 	task.7EDFD78FBE792E02.title: "Any #simplyswords:runic_weapons"
 	task.7F7FDC0B5AAE2E1C.title: "&dDiamond Lute&r / &dLyre&r"
 }

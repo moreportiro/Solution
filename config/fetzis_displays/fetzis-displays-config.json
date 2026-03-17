@@ -3,5 +3,5 @@
   "configWiki": "https://fetzis-orga.gitbook.io/fetzis-displays/config-settings",
   "chatMessageOnJoin": false,
   "chatMessageOnce": true,
-  "itemGUIPos": "TOP_RIGHT"
+  "itemGUIPos": "BOTTOM_RIGHT"
 }

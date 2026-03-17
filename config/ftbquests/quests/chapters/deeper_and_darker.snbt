@@ -194,7 +194,7 @@
 			y: -4.5d
 		}
 	]
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -489,6 +489,7 @@
 		}
 		{
 			dependencies: ["549F4C15F77ECAA4"]
+			icon_scale: 1.45d
 			id: "1EF26EC90B0174C5"
 			rewards: [
 				{

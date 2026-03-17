@@ -62,11 +62,17 @@
     "entity": true,
     "entity_variant": true
   },
+  "betternether": {
+    "plant_growth": true
+  },
   "jadeaddons.lootr": {
     "info": true
   },
   "ftbquests": {
     "barrier": true
+  },
+  "betterend": {
+    "plant_growth": true
   },
   "twilightforest": {
     "drying_rack": true,
@@ -89,9 +95,5 @@
   },
   "balm": {
     "jade": true
-  },
-  "functionalstorage": {
-    "armory": true,
-    "drawer": true
   }
 }

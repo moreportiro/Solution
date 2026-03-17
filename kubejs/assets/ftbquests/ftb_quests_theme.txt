@@ -1,11 +1,11 @@
 [!1]
 background: ftb:textures/quests/white_bg.png; color=#F2343434; tile_size=64
-chapter_panel_background: color:#F2343434; border=#B48EAD
-context_menu: color:#F2343434; border=#B48EAD
 widget_border: #B48EAD
+context_menu: color:#F2343434; border=#B48EAD
+chapter_panel_background: color:#F2343434; border=#B48EAD
 
 quest_view_background: color:#F2343434; border=#B48EAD
-
+quest_view_border: #B48EAD
 # info
 [3975E2F79FDD5150]
 background: ftb:textures/quests/solution_main.png; color=#3A3B3C
@@ -26,21 +26,29 @@ background: ftb:textures/quests/bosses.png; color=#3A3B3C
 [45E8D0D49D7C8632]
 background: ftb:textures/quests/endrem.png; color=#3A3B3C
 
-# 2.1 deeper
+# 2.1 nether
+[779B7A49398CDD67]
+background: ftb:textures/quests/nether.png; color=#3A3B3C
+
+# 2.2 deeper
 [41ADE8149BF8297F]
 background: ftb:textures/quests/deeep.png; color=#5F5F5F
 
-# 2.2 aether
+# 2.3 aether
 [71DED117E01B37F1]
 background: ftb:textures/quests/aethervill.png; color=#3A3B3C
 
-# 2.3 starlight
+# 2.4 starlight
 [41F654A628659EF4]
 background: ftb:textures/quests/strlit3.png; color=#3A3B3C
 
-# 2.4 twilight
+# 2.5 twilight
 [1B38FC801CBD19B2]
 background: ftb:textures/quests/twilight.png; color=#3A3B3C
+
+# 2.6 end
+[5B4C3FCE0DF758A0]
+background: ftb:textures/quests/end.png; color=#3A3B3C
 
 # 3.1 farmerdelight
 [29955E9C9859437D]

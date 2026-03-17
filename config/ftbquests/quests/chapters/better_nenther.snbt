@@ -1,0 +1,974 @@
+{
+	autofocus_id: "180291DB28713E16"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "better_nenther"
+	group: "2E5C18A0A73C2FE5"
+	icon: {
+		id: "cataclysm:altar_of_fire"
+	}
+	id: "779B7A49398CDD67"
+	images: [
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/nether_ruby_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/cincinnasite_forged"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/blackstone_furnace_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.1d
+			image: "betternether:block/blackstone_furnace_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			height: 1.6d
+			image: "betternether:block/blackstone_furnace_top"
+			rotation: 0.0d
+			width: 1.6d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/willow_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/eye_seed"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.8d
+		}
+		{
+			height: 0.7d
+			image: "betternether:block/lumabus_roots"
+			rotation: 0.0d
+			width: 0.7d
+			x: 0.0d
+			y: 3.7d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/black_apple"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.1d
+			y: 2.4d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/ink_bush_seed"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.2d
+			y: -0.6d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/jungle_plant_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 0.3d
+		}
+		{
+			height: 0.8d
+			image: "betternether:block/ngrass_2"
+			rotation: 0.0d
+			width: 0.8d
+			x: -4.8d
+			y: 1.4d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.45d
+			id: "180291DB28713E16"
+			rewards: [{
+				id: "7EED7751B1FC9B63"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:block/nether_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4C482E843E5738FC"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			id: "68BF5E0D6387003D"
+			rewards: [
+				{
+					id: "36BFDDEFD26DFDF5"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 4
+					id: "506DD1CBC27301B2"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "2DBD9CD63F19CC85"
+				item: { count: 1, id: "betternether:cincinnasite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["68BF5E0D6387003D"]
+			id: "633E19329CA415B1"
+			rewards: [
+				{
+					id: "2BC82628126D9A9A"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "6EE32C52303F1A19"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "0C8A1163719A6569"
+				item: { count: 1, id: "betternether:cincinnasite_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["633E19329CA415B1"]
+			id: "361BC10E4785BE67"
+			rewards: [
+				{
+					id: "064946E2B439FAEC"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "76908FD8B8114C50"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "70A669BD6F685247"
+					item: { count: 1, id: "betternether:cincinnasite_sword" }
+					type: "item"
+				}
+				{
+					id: "36B5ADAA6D24F891"
+					item: { count: 1, id: "betternether:cincinnasite_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "3281BB4EA6555986"
+					item: { count: 1, id: "betternether:cincinnasite_axe" }
+					type: "item"
+				}
+				{
+					id: "0488E2CDAA5017E8"
+					item: { count: 1, id: "betternether:cincinnasite_shovel" }
+					type: "item"
+				}
+				{
+					id: "60A3651705BA9425"
+					item: { count: 1, id: "betternether:cincinnasite_hoe" }
+					type: "item"
+				}
+				{
+					id: "7F51514FA99B083B"
+					item: { count: 1, id: "betternether:cincinnasite_shears" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["361BC10E4785BE67"]
+			id: "65E441C1C7A88DCE"
+			rewards: [
+				{
+					id: "3AF72D6A1B2C8EA9"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "26B5A4CB7F32688B"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite_diamond_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A4380592D74234F"
+				item: { count: 1, id: "betternether:cincinnasite_diamond_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["65E441C1C7A88DCE"]
+			id: "1F7354C790FF696E"
+			rewards: [
+				{
+					id: "6DB463C065C18F78"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 4
+					id: "5AFDBC9F3149C4C9"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4A7B0804773195D5"
+					item: { count: 1, id: "betternether:cincinnasite_sword_diamond" }
+					type: "item"
+				}
+				{
+					id: "696347CFFB30BA98"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:obsidian_breaker": 2 } } }, count: 1, id: "betternether:cincinnasite_pickaxe_diamond" }
+					type: "item"
+				}
+				{
+					id: "2275D3E1ACF6D868"
+					item: { count: 1, id: "betternether:cincinnasite_axe_diamond" }
+					type: "item"
+				}
+				{
+					id: "6A6D8532908BC947"
+					item: { count: 1, id: "betternether:cincinnasite_shovel_diamond" }
+					type: "item"
+				}
+				{
+					id: "53F6259975FD0C21"
+					item: { count: 1, id: "betternether:cincinnasite_hoe_diamond" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["633E19329CA415B1"]
+			id: "4207786F486D2255"
+			rewards: [
+				{
+					id: "4DC2EC11D742CF6B"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "3A725D5C0FD90BB6"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2528A2DAFDD8810D"
+					item: { count: 1, id: "betternether:cincinnasite_helmet" }
+					type: "item"
+				}
+				{
+					id: "0568D7751B4BF58C"
+					item: { count: 1, id: "betternether:cincinnasite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "1C9384A9B71C2AE9"
+					item: { count: 1, id: "betternether:cincinnasite_leggings" }
+					type: "item"
+				}
+				{
+					id: "3283B2836193DF33"
+					item: { count: 1, id: "betternether:cincinnasite_boots" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["633E19329CA415B1"]
+			id: "673AA4B7A1DF7516"
+			rewards: [
+				{
+					id: "071F4EC4FB32A3A7"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "7AE82B1873D170C7"
+					item: {
+						count: 1
+						id: "betternether:cincinnasite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "12723396B395C166"
+					item: { count: 1, id: "betternether:cincinnasite_forge" }
+					type: "item"
+				}
+				{
+					id: "5C29064C3711C2F0"
+					item: { count: 1, id: "betternether:cincinnasite_anvil" }
+					type: "item"
+				}
+				{
+					id: "570FB39690DDCD2B"
+					item: { count: 1, id: "betternether:nether_brewing_stand" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			id: "21724AB7BA07CFFB"
+			rewards: [
+				{
+					id: "3726325009C63EA1"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 4
+					id: "18452CDDC5BA47EB"
+					item: {
+						count: 1
+						id: "betternether:nether_ruby"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "3D16081A7E6D89C1"
+				item: { count: 1, id: "betternether:nether_ruby" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["21724AB7BA07CFFB"]
+			id: "2E4421F64455F66C"
+			rewards: [
+				{
+					id: "2463F40FB2190840"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "24279346976601FF"
+					item: {
+						count: 1
+						id: "betternether:nether_ruby"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "42B783939ADF7C85"
+					item: { count: 1, id: "betternether:nether_ruby_sword" }
+					type: "item"
+				}
+				{
+					id: "14ACA08B5990B6EB"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:obsidian_breaker": 1 } } }, count: 1, id: "betternether:nether_ruby_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "46C05DF0F03CFAC9"
+					item: { count: 1, id: "betternether:nether_ruby_axe" }
+					type: "item"
+				}
+				{
+					id: "5637A5D096964EF3"
+					item: { count: 1, id: "betternether:nether_ruby_shovel" }
+					type: "item"
+				}
+				{
+					id: "7141FB76F5061172"
+					item: { count: 1, id: "betternether:nether_ruby_hoe" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["21724AB7BA07CFFB"]
+			id: "0506E6140E5ECB6D"
+			rewards: [
+				{
+					id: "1354244B2825623D"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "11CFB4756B437A44"
+					item: {
+						count: 1
+						id: "betternether:nether_ruby"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0A7D941B8691D6E4"
+					item: { count: 1, id: "betternether:nether_ruby_helmet" }
+					type: "item"
+				}
+				{
+					id: "743074FE3C79092F"
+					item: { count: 1, id: "betternether:nether_ruby_chestplate" }
+					type: "item"
+				}
+				{
+					id: "32DF9831DE2E61B3"
+					item: { count: 1, id: "betternether:nether_ruby_leggings" }
+					type: "item"
+				}
+				{
+					id: "1C6F7B675F81C538"
+					item: { count: 1, id: "betternether:nether_ruby_boots" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"0506E6140E5ECB6D"
+				"2E4421F64455F66C"
+			]
+			id: "3BF8C351DBBB4963"
+			rewards: [
+				{
+					id: "24D6694EAC722D5E"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "696477220CB25FD3"
+					item: {
+						count: 1
+						id: "betternether:flaming_ruby_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F0DF30650A21109"
+				item: { count: 1, id: "betternether:flaming_ruby_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3BF8C351DBBB4963"]
+			id: "7B1DA6C8F3D1C1A0"
+			rewards: [
+				{
+					id: "6D454D3D34676F49"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "3D6F39E844AA5E1C"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7506441A4B330938"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_sword" }
+					type: "item"
+				}
+				{
+					id: "5A7EC03A635C8C97"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:obsidian_breaker": 3, "betternether:ruby_fire": 1, "minecraft:mending": 1 } } }, count: 1, id: "betternether:flaming_ruby_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "6AFED6D9EFFC9AC9"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_axe" }
+					type: "item"
+				}
+				{
+					id: "661AB37C00B5AA79"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_shovel" }
+					type: "item"
+				}
+				{
+					id: "0BA98C52FCFACC0A"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_hoe" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3BF8C351DBBB4963"]
+			id: "2DB184D473F62BC2"
+			rewards: [
+				{
+					id: "6832D2B194D88732"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "2F14B43D46B478E7"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "38F8AFB85808F017"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_helmet" }
+					type: "item"
+				}
+				{
+					id: "7055F55E2ABE3693"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3A94FF85FFCD17C8"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_leggings" }
+					type: "item"
+				}
+				{
+					id: "751C11A766894678"
+					item: { components: { "minecraft:enchantments": { levels: { "betternether:ruby_fire": 1 } } }, count: 1, id: "betternether:flaming_ruby_boots" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			hide_dependency_lines: true
+			id: "14C874BDBC986C52"
+			rewards: [
+				{
+					id: "5939CD90EC0900C0"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "506B327493A8508D"
+					table_id: 2683275586397622623L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			tasks: [
+				{
+					id: "52115293C15713F5"
+					item: { count: 1, id: "minecraft:crimson_stem" }
+					type: "item"
+				}
+				{
+					id: "3C65003072622249"
+					item: { count: 1, id: "minecraft:warped_stem" }
+					type: "item"
+				}
+				{
+					id: "0D76D34615DDF064"
+					item: { count: 1, id: "betternether:stalagnate_log" }
+					type: "item"
+				}
+				{
+					id: "0E93C5D71F908380"
+					item: { count: 1, id: "betternether:wart_log" }
+					type: "item"
+				}
+				{
+					id: "041C1FD16E875900"
+					item: { count: 1, id: "betternether:rubeus_log" }
+					type: "item"
+				}
+				{
+					id: "2E280B0E3EF85CE1"
+					item: { count: 1, id: "betternether:mushroom_fir_log" }
+					type: "item"
+				}
+				{
+					id: "0BFFE80AA49CA110"
+					item: { count: 1, id: "betternether:anchor_tree_log" }
+					type: "item"
+				}
+				{
+					id: "53AC0A413D8AA6BF"
+					item: { count: 1, id: "betternether:nether_sakura_log" }
+					type: "item"
+				}
+				{
+					id: "173B25F6E7C96BF2"
+					item: { count: 1, id: "betternether:willow_log" }
+					type: "item"
+				}
+				{
+					id: "42A0F7B271C8F4BB"
+					item: { count: 1, id: "betternether:nether_mushroom_stem" }
+					type: "item"
+				}
+				{
+					id: "531C34E7BBD084D7"
+					item: { count: 1, id: "betternether:nether_reed_planks" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			hide_dependency_lines: true
+			id: "48E66DDE6B0FA172"
+			rewards: [
+				{
+					id: "0B4FFFA5EE27C20F"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "346BD2110A125B4F"
+					table_id: 2316848059366291616L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betternether:all_the_biomes"
+				criterion: ""
+				id: "5D71D40DEEEA3636"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			hide_dependency_lines: true
+			id: "27FE33947FB4B97A"
+			rewards: [
+				{
+					id: "627522A0EAE218EF"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "0D27FE582E1971C5"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betternether:blue_obsidian"
+				criterion: ""
+				id: "76084B40CE346958"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27FE33947FB4B97A"]
+			hide_dependency_lines: true
+			id: "19A554599EB6BDFE"
+			rewards: [
+				{
+					id: "6F8C068809028C48"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "54CFBB5B705A28B6"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betternether:obsidian_blocks"
+				criterion: ""
+				id: "7C65C140FFB7005D"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["19A554599EB6BDFE"]
+			hide_dependency_lines: true
+			id: "3727277E92593928"
+			rewards: [
+				{
+					id: "6476145DCB63BB22"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "0E14D85FBB6A39E3"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betternether:make_crying"
+				criterion: ""
+				id: "4306EF48BD686527"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["180291DB28713E16"]
+			id: "2047EB1B95A0906A"
+			rewards: [{
+				id: "04BE140C2A5D8234"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				advancement: "betternether:city"
+				criterion: ""
+				id: "7351145D198162A9"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2047EB1B95A0906A"]
+			id: "1BC08DC87E7FBB1E"
+			rewards: [
+				{
+					id: "54CAFB1401929EB4"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "60BA335282471F50"
+					item: {
+						count: 1
+						id: "minecraft:glowstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A465CB03460CEF3"
+				item: { count: 1, id: "betternether:pig_statue_respawner" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+	]
+}

@@ -1,0 +1,1307 @@
+{
+	autofocus_id: "3D7303A71C939E99"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "better_end"
+	group: "2E5C18A0A73C2FE5"
+	icon: {
+		id: "cataclysm:altar_of_void"
+	}
+	id: "5B4C3FCE0DF758A0"
+	images: [
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/thallasium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 8.5d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 8.5d
+			y: -7.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -8.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -8.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/terminite_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.6d
+			image: "betterend:block/aeternium_block"
+			rotation: 0.0d
+			width: 1.6d
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.6d
+			image: "betterend:block/aurora_crystal"
+			rotation: 0.0d
+			width: 1.6d
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.1d
+			image: "minecraft:block/purpur_block"
+			rotation: 0.0d
+			width: 1.1d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:block/purpur_block"
+			rotation: 0.0d
+			width: 1.6d
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			height: 0.8d
+			image: "betterend:item/eternal_crystal"
+			rotation: 0.0d
+			width: 0.8d
+			x: -4.2d
+			y: 2.0d
+		}
+		{
+			height: 0.8d
+			image: "betterend:block/tenanea_sapling"
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.7d
+			y: 1.5d
+		}
+		{
+			height: 0.8d
+			image: "betterend:block/aeridium"
+			rotation: 0.0d
+			width: 0.8d
+			x: -2.2d
+			y: 3.5d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/umbrella_tree_log_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 1.1d
+			image: "betterend:block/umbrella_tree_log_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 4.0d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.45d
+			id: "3D7303A71C939E99"
+			rewards: [{
+				id: "63326282A66BD762"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					components: {
+						"ftbquests:icon": "betterend:block/end_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7E8E150989D3946E"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			id: "7F3C3BE3ED3C35F3"
+			rewards: [
+				{
+					id: "7C13D3ECF1FA09A2"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 4
+					id: "1C26C36E4F4CB69A"
+					item: {
+						count: 1
+						id: "betterend:thallasium_raw"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "1024BAC2C0324C71"
+				item: { count: 1, id: "betterend:thallasium_raw" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			id: "26CF31066B93B053"
+			rewards: [
+				{
+					id: "64F2D909FA91647A"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "26ED6F24997E0615"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "betterend:village"
+				criterion: ""
+				id: "710E1BDDC4CE53F1"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			hide_dependency_lines: true
+			id: "47772DF573231A9B"
+			rewards: [
+				{
+					id: "00C68DF0431F5268"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "1CFA104373DE198B"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betterend:all_the_biomes"
+				criterion: ""
+				id: "6B31EE0242344030"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			hide_dependency_lines: true
+			id: "536602A8DAEF1987"
+			rewards: [
+				{
+					id: "7A15C1EC4801B1C9"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "388AE3CFD88697A5"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				advancement: "betterend:portal_travel"
+				criterion: ""
+				id: "2167B5FAE57A44E4"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			id: "6D69AB18CAC83102"
+			rewards: [{
+				id: "076AA9FF5A46438F"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [
+				{
+					id: "1CCAA50981402D6E"
+					item: { count: 1, id: "betterend:infusion_pedestal" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "51E928D153EB7EB1"
+					item: { components: { "ftbfiltersystem:filter": "or(item(betterend:flavolite_pedestal)item(betterend:violecite_pedestal)item(betterend:sulphuric_rock_pedestal)item(betterend:virid_jadestone_pedestal)item(betterend:azure_jadestone_pedestal)item(betterend:sandy_jadestone_pedestal)item(betterend:umbralith_pedestal)item(betterend:andesite_pedestal)item(betterend:diorite_pedestal)item(betterend:granite_pedestal)item(betterend:quartz_pedestal)item(betterend:purpur_pedestal)item(betterend:smaragdant_crystal_pedestal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6D69AB18CAC83102"]
+			id: "1485F915FB6BADF2"
+			rewards: [
+				{
+					id: "36EFE41D9866BC7D"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "08F02559F4E0616F"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2B4C06DAB3DDC466"
+					item: { count: 1, id: "betterend:crystalite_helmet" }
+					type: "item"
+				}
+				{
+					id: "76C06BE395133765"
+					item: { count: 1, id: "betterend:crystalite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3AB6BD3F2922060A"
+					item: { count: 1, id: "betterend:crystalite_leggings" }
+					type: "item"
+				}
+				{
+					id: "42E8C9DB1092D83C"
+					item: { count: 1, id: "betterend:crystalite_boots" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1485F915FB6BADF2"]
+			icon_scale: 1.45d
+			id: "775A078F953A8099"
+			rewards: [
+				{
+					id: "31D7E453517132FC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4385EAA61F2CE334"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "791FBF1EFFCD89A6"
+					table_id: 4668059321419079180L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "74133ED9A9A8FD94"
+				item: { count: 1, id: "betterend:elytra_crystalite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7F3C3BE3ED3C35F3"]
+			id: "3A97FADE7B6DCC91"
+			rewards: [
+				{
+					id: "6C5F967E3AEDE1D6"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "6BFFE3A7A51E19D6"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "729E6154C9FB516F"
+				item: { count: 1, id: "betterend:thallasium_ingot" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3A97FADE7B6DCC91"]
+			id: "731181B08ACC132C"
+			rewards: [
+				{
+					id: "54F516DA9CEC0D60"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "57D68C846B5E3A2F"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D73A349829FC024"
+				item: { count: 1, id: "betterend:end_stone_smelter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3A97FADE7B6DCC91"]
+			id: "2FE6D921A670BEB8"
+			rewards: [
+				{
+					id: "1E3BAC1D6737D70C"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "7751A33F83328CDF"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7BF434C4F4A9DB83"
+					item: { count: 1, id: "betterend:thallasium_anvil" }
+					type: "item"
+				}
+				{
+					id: "1C4A8FE961041535"
+					item: { count: 1, id: "betterend:diamond_hammer" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2FE6D921A670BEB8"]
+			id: "538F1BA7829F2FEC"
+			rewards: [
+				{
+					id: "1E142585151A8B6C"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "30C314EB0BE93583"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3EF418BCCC440FA0"
+					item: { count: 1, id: "betterend:thallasium_helmet" }
+					type: "item"
+				}
+				{
+					id: "5C8370039F6468A2"
+					item: { count: 1, id: "betterend:thallasium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "20EC50EAEE55F5BE"
+					item: { count: 1, id: "betterend:thallasium_leggings" }
+					type: "item"
+				}
+				{
+					id: "0E905803B47BDAE6"
+					item: { count: 1, id: "betterend:thallasium_boots" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2FE6D921A670BEB8"]
+			id: "367B3807BF906747"
+			rewards: [
+				{
+					id: "630EBBA98B8EABEC"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "4E43EFBE8FE587FC"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "676678FD69FBEA98"
+					item: { count: 1, id: "betterend:thallasium_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "73B09C6A2D8FBD1F"
+					item: { count: 1, id: "betterend:thallasium_axe" }
+					type: "item"
+				}
+				{
+					id: "7752753AC42F3243"
+					item: { count: 1, id: "betterend:thallasium_shovel" }
+					type: "item"
+				}
+				{
+					id: "5739BC1CE87319AD"
+					item: { count: 1, id: "betterend:thallasium_hoe" }
+					type: "item"
+				}
+				{
+					id: "174C409DCDC54D7B"
+					item: { count: 1, id: "betterend:thallasium_hammer" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2FE6D921A670BEB8"]
+			id: "1200D5DE108815F3"
+			rewards: [
+				{
+					id: "3C5532EBED193874"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "5DB3228FD390413C"
+					item: {
+						count: 1
+						id: "betterend:thallasium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0D6F418F393E1AD5"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55532870CC4FD40F"
+				item: { count: 1, id: "betterend:thallasium_sword" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"367B3807BF906747"
+				"1200D5DE108815F3"
+				"538F1BA7829F2FEC"
+			]
+			id: "776327F77DA4AB54"
+			rewards: [
+				{
+					id: "2CBB5B90C869326E"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 4
+					id: "26F16631A2EBBFD9"
+					item: {
+						count: 1
+						id: "betterend:ender_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "0A79E47A88FECC04"
+				item: { count: 1, id: "betterend:ender_shard" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["776327F77DA4AB54"]
+			id: "53DC0E37D89315E0"
+			rewards: [
+				{
+					id: "41573B3B1E4BF984"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 4
+					id: "3A51499B7B8D3F51"
+					item: {
+						count: 1
+						id: "betterend:ender_dust"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "780686FF8407C474"
+				item: { count: 1, id: "betterend:ender_dust" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["53DC0E37D89315E0"]
+			id: "02E8057E93658FA8"
+			rewards: [
+				{
+					id: "495604D02E5CF3FA"
+					type: "xp"
+					xp: 45
+				}
+				{
+					count: 4
+					id: "6B87A0E744694ACC"
+					item: {
+						count: 1
+						id: "betterend:terminite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "1708A74CC30AC60A"
+				item: { count: 1, id: "betterend:terminite_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["02E8057E93658FA8"]
+			id: "2582F4F419517395"
+			rewards: [
+				{
+					id: "1A0BA093D15EB14E"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 4
+					id: "1E4CFD6E77DFE985"
+					item: {
+						count: 1
+						id: "betterend:terminite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1AD8FA69564D8876"
+				item: { count: 1, id: "betterend:terminite_anvil" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2582F4F419517395"]
+			id: "01AF5B9080C62E2D"
+			rewards: [
+				{
+					id: "7F6C61894C46791A"
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "52F796DDD2C3AEDD"
+					item: {
+						count: 1
+						id: "betterend:terminite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "73F4BCED555E53C3"
+					item: { count: 1, id: "betterend:terminite_helmet" }
+					type: "item"
+				}
+				{
+					id: "2AA1EE53E1BB812F"
+					item: { count: 1, id: "betterend:terminite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2ABFAFDC3FB0DAC4"
+					item: { count: 1, id: "betterend:terminite_leggings" }
+					type: "item"
+				}
+				{
+					id: "3FF7FECE3634100C"
+					item: { count: 1, id: "betterend:terminite_boots" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2582F4F419517395"]
+			id: "337EAB319AC0E6A3"
+			rewards: [
+				{
+					id: "7256E610FE394FE5"
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "0985DBD1322F02AF"
+					item: {
+						count: 1
+						id: "betterend:terminite_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7D5A4193A1C5C0FC"
+					item: { count: 1, id: "betterend:terminite_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "437BABCA58B8A62D"
+					item: { count: 1, id: "betterend:terminite_axe" }
+					type: "item"
+				}
+				{
+					id: "1241157DC607BC2B"
+					item: { count: 1, id: "betterend:terminite_shovel" }
+					type: "item"
+				}
+				{
+					id: "64475016C6B522ED"
+					item: { count: 1, id: "betterend:terminite_hoe" }
+					type: "item"
+				}
+				{
+					id: "42DDBB4A59696A33"
+					item: { count: 1, id: "betterend:terminite_hammer" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["2582F4F419517395"]
+			id: "24AE709B15395556"
+			rewards: [
+				{
+					id: "7174D6B6E69F5CCD"
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 4
+					id: "1E74D98E66340C89"
+					item: {
+						count: 1
+						id: "betterend:terminite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1D965EC64B63B2FD"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00DB5CB64415C08B"
+				item: { count: 1, id: "betterend:terminite_sword" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0355ABDD5568800B"]
+			id: "7C4BFC725D8BC2A5"
+			rewards: [
+				{
+					id: "2EFB04EBEB2CF736"
+					type: "xp"
+					xp: 65
+				}
+				{
+					count: 2
+					id: "6FC3F8824CD70431"
+					item: {
+						count: 1
+						id: "betterend:aeternium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "00301DFD525C6002"
+					item: { count: 1, id: "betterend:aeternium_anvil" }
+					type: "item"
+				}
+				{
+					id: "17574D2530D1C6F5"
+					item: { count: 1, id: "betterend:netherite_hammer" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["7C4BFC725D8BC2A5"]
+			id: "0EF9B590D97D72FD"
+			rewards: [
+				{
+					id: "7DB5715C0AFC807A"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "0620CB0D05E1DDE6"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "754874B3A830CDA5"
+					item: { count: 1, id: "betterend:aeternium_helmet" }
+					type: "item"
+				}
+				{
+					id: "3FF592B361ED398A"
+					item: { count: 1, id: "betterend:aeternium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "14A12F0216E65267"
+					item: { count: 1, id: "betterend:aeternium_leggings" }
+					type: "item"
+				}
+				{
+					id: "53EB6E690F76D895"
+					item: { count: 1, id: "betterend:aeternium_boots" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7C4BFC725D8BC2A5"]
+			id: "30857C7B88F419CE"
+			rewards: [
+				{
+					id: "75F476C8FFDED121"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "2084F19DDAADEC09"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6B1F5EC0A0B2ED34"
+					item: { count: 1, id: "betterend:aeternium_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "1FAA216E7BA5E9EF"
+					item: { count: 1, id: "betterend:aeternium_axe" }
+					type: "item"
+				}
+				{
+					id: "53281CC84898ED64"
+					item: { count: 1, id: "betterend:aeternium_shovel" }
+					type: "item"
+				}
+				{
+					id: "41922DAEF042A3E2"
+					item: { count: 1, id: "betterend:aeternium_hoe" }
+					type: "item"
+				}
+				{
+					id: "5DCF4C68734CB9C3"
+					item: { count: 1, id: "betterend:aeternium_hammer" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7C4BFC725D8BC2A5"]
+			id: "48D6ED550DC38056"
+			rewards: [
+				{
+					id: "0483483BFB2A8CDE"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "653EFB4CBB1B9625"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					id: "73898B963526CA86"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3FB19CB0071187DD"
+				item: { count: 1, id: "betterend:aeternium_sword" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"48D6ED550DC38056"
+				"0EF9B590D97D72FD"
+				"30857C7B88F419CE"
+			]
+			icon_scale: 1.45d
+			id: "59584C1C573219C7"
+			rewards: [
+				{
+					id: "79408C05D1523878"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "19E55489D08153F1"
+					item: {
+						count: 1
+						id: "betterend:eternal_crystal"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5571E4716E5AE177"
+					table_id: 4723777565595589717L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "51CBD65E228EE033"
+				item: { count: 1, id: "betterend:elytra_armored" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"337EAB319AC0E6A3"
+				"24AE709B15395556"
+				"01AF5B9080C62E2D"
+			]
+			id: "0355ABDD5568800B"
+			rewards: [
+				{
+					id: "50B41DEE0C9F6542"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 2
+					id: "4D7F6204437EB98E"
+					item: {
+						count: 1
+						id: "betterend:aeternium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "265B7F57F3974EB3"
+				item: { count: 1, id: "betterend:aeternium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["26CF31066B93B053"]
+			id: "3B1692679B65F39E"
+			rewards: [
+				{
+					id: "1BC6E1A13460FAA2"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "18B76AEDD48A2DB6"
+					item: {
+						count: 1
+						id: "betterend:amber_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5EFD9BDD48FEFA64"
+				item: { count: 1, id: "betterend:respawn_obelisk" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3A4C9D18485992F1"]
+			icon_scale: 1.45d
+			id: "093ABF8D42E20503"
+			rewards: [
+				{
+					id: "57BC4BFD3BF2A9F8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51E44B65BE231665"
+					table_id: 4723777565595589717L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "1F5A50FD83F4572C"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			id: "3A4C9D18485992F1"
+			rewards: [{
+				id: "317E7A8C14A469AB"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:purpur_block"
+				}
+				id: "208CE5BC4C491ABA"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D7303A71C939E99"]
+			hide_dependency_lines: true
+			id: "0133D9E4A5046025"
+			rewards: [
+				{
+					id: "29AEC4D32A7B0225"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "0323FDACC822C6CB"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			tasks: [
+				{
+					id: "6F1491FE838A11AB"
+					item: { count: 1, id: "betterend:music_disc_strange_and_alien" }
+					type: "item"
+				}
+				{
+					id: "671C4282072FF437"
+					item: { count: 1, id: "betterend:music_disc_grasping_at_stars" }
+					type: "item"
+				}
+				{
+					id: "0CF443A39596B631"
+					item: { count: 1, id: "betterend:music_disc_endseeker" }
+					type: "item"
+				}
+				{
+					id: "7E44A08064B3CC46"
+					item: { count: 1, id: "betterend:music_disc_eo_dracona" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 4.0d
+		}
+	]
+}

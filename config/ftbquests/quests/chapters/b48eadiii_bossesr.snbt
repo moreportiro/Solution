@@ -739,6 +739,9 @@
 			y: -5.5d
 		}
 		{
+			icon: {
+				id: "block_factorys_bosses:underworld_knight_spawn_egg"
+			}
 			icon_scale: 1.45d
 			id: "006E51565082FEC8"
 			rewards: [
@@ -758,12 +761,19 @@
 			]
 			shape: "square"
 			size: 1.5d
-			tasks: [{
-				entity: "block_factorys_bosses:underworld_knight"
-				id: "1509C9353BC8F0BD"
-				type: "kill"
-				value: 1L
-			}]
+			tasks: [
+				{
+					id: "5E4263198DDCF714"
+					item: { count: 1, id: "block_factorys_bosses:underworld_arena_key" }
+					type: "item"
+				}
+				{
+					entity: "block_factorys_bosses:underworld_knight"
+					id: "1509C9353BC8F0BD"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: -3.5d
 			y: -7.5d
 		}
@@ -1056,6 +1066,7 @@
 				{
 					id: "578680CD323F8C02"
 					item: { count: 1, id: "bosses_of_mass_destruction:void_lily" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1331,6 +1342,7 @@
 				{
 					id: "73199FBB4A86556E"
 					item: { count: 1, id: "cataclysm:flame_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1443,6 +1455,7 @@
 				{
 					id: "163163C98C5D8AF4"
 					item: { count: 1, id: "cataclysm:monstrous_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1523,6 +1536,7 @@
 				{
 					id: "6D39CE911FA1D6BC"
 					item: { count: 1, id: "cataclysm:void_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1596,6 +1610,7 @@
 				{
 					id: "052E2823EC07DFDA"
 					item: { count: 1, id: "cataclysm:mech_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1743,6 +1758,7 @@
 				{
 					id: "5CA194CC18E4F4B1"
 					item: { count: 1, id: "cataclysm:desert_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -1860,6 +1876,7 @@
 				{
 					id: "290625BF674163CD"
 					item: { count: 1, id: "cataclysm:cursed_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -2031,6 +2048,7 @@
 				{
 					id: "2A79F45D76FA93E2"
 					item: { count: 1, id: "cataclysm:storm_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -2121,6 +2139,7 @@
 				{
 					id: "34824A3965F012E2"
 					item: { count: 1, id: "cataclysm:abyss_eye" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -2315,6 +2334,7 @@
 				{
 					id: "513A07E064B3F937"
 					item: { count: 1, id: "fdbosses:eye_of_chesed" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -2360,6 +2380,7 @@
 				{
 					id: "0F3C9228875C521E"
 					item: { count: 1, id: "fdbosses:eye_of_malkuth" }
+					optional_task: true
 					type: "item"
 				}
 				{
@@ -2397,6 +2418,7 @@
 				{
 					id: "7F63EC2F9EA140D8"
 					item: { count: 1, id: "fdbosses:eye_of_geburah" }
+					optional_task: true
 					type: "item"
 				}
 				{

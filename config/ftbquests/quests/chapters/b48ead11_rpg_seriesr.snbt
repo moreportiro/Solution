@@ -118,24 +118,24 @@
 			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: -14.0d
-			y: -16.0d
+			x: -17.0d
+			y: -19.0d
 		}
 		{
 			height: 1.35d
 			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: -15.5d
-			y: -17.5d
+			x: -18.5d
+			y: -20.5d
 		}
 		{
 			height: 1.35d
 			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: -16.0d
-			y: -16.0d
+			x: -19.0d
+			y: -19.0d
 		}
 		{
 			height: 2.0d
@@ -214,8 +214,16 @@
 			image: "simplyswords:item/gold_chakram"
 			rotation: 0.0d
 			width: 1.35d
+			x: -17.0d
+			y: 11.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/gold_chakram"
+			rotation: 0.0d
+			width: 1.35d
 			x: -15.5d
-			y: 9.5d
+			y: 11.0d
 		}
 		{
 			height: 1.35d
@@ -223,15 +231,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -14.0d
-			y: 9.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/gold_chakram"
-			rotation: 0.0d
-			width: 1.35d
-			x: -12.5d
-			y: 8.0d
+			y: 10.0d
 		}
 		{
 			height: 1.35d
@@ -239,7 +239,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -11.5d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			height: 1.35d
@@ -302,23 +302,7 @@
 			image: "simplyswords:item/netherite_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 17.5d
-			y: 9.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/netherite_chakram"
-			rotation: 0.0d
-			width: 1.35d
-			x: 16.5d
-			y: 10.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/netherite_chakram"
-			rotation: 0.0d
-			width: 1.35d
-			x: 18.0d
+			x: 21.5d
 			y: 11.5d
 		}
 		{
@@ -326,23 +310,7 @@
 			image: "simplyswords:item/netherite_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 19.5d
-			y: 10.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/netherite_chakram"
-			rotation: 0.0d
-			width: 1.35d
 			x: 20.5d
-			y: 11.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/netherite_chakram"
-			rotation: 0.0d
-			width: 1.35d
-			x: 19.0d
 			y: 12.5d
 		}
 		{
@@ -350,15 +318,23 @@
 			image: "simplyswords:item/netherite_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
-			y: 12.0d
+			x: 22.0d
+			y: 14.0d
 		}
 		{
 			height: 1.35d
 			image: "simplyswords:item/netherite_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 20.0d
+			x: 23.5d
+			y: 12.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 24.5d
 			y: 13.5d
 		}
 		{
@@ -366,8 +342,32 @@
 			image: "simplyswords:item/netherite_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
-			y: 13.5d
+			x: 23.0d
+			y: 15.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 25.5d
+			y: 14.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 24.0d
+			y: 16.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 25.5d
+			y: 16.0d
 		}
 		{
 			height: 1.35d
@@ -486,7 +486,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 18.0d
+			x: 21.5d
 			y: 2.0d
 		}
 		{
@@ -494,7 +494,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 18.0d
+			x: 21.5d
 			y: 0.5d
 		}
 		{
@@ -534,7 +534,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 20.0d
+			x: 23.5d
 			y: 2.0d
 		}
 		{
@@ -542,7 +542,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 20.0d
+			x: 23.5d
 			y: 0.5d
 		}
 		{
@@ -550,7 +550,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
+			x: 25.0d
 			y: 0.5d
 		}
 		{
@@ -558,7 +558,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
+			x: 25.0d
 			y: 2.0d
 		}
 		{
@@ -566,7 +566,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 23.0d
+			x: 26.5d
 			y: 2.0d
 		}
 		{
@@ -574,7 +574,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
 			rotation: 0.0d
 			width: 1.35d
-			x: 23.0d
+			x: 26.5d
 			y: 0.5d
 		}
 		{
@@ -670,7 +670,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -21.5d
+			x: -25.5d
 			y: 3.0d
 		}
 		{
@@ -678,7 +678,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -18.5d
+			x: -22.5d
 			y: 3.0d
 		}
 		{
@@ -686,7 +686,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -20.0d
+			x: -24.0d
 			y: 3.0d
 		}
 		{
@@ -694,7 +694,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -16.5d
+			x: -20.5d
 			y: 3.0d
 		}
 		{
@@ -774,7 +774,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -18.0d
+			x: -20.0d
 			y: -6.5d
 		}
 		{
@@ -782,7 +782,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -19.0d
+			x: -21.0d
 			y: -5.0d
 		}
 		{
@@ -790,30 +790,6 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -18.0d
-			y: -3.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
-			rotation: 0.0d
-			width: 1.35d
-			x: -23.0d
-			y: -3.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
-			rotation: 0.0d
-			width: 1.35d
-			x: -21.5d
-			y: -3.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
-			rotation: 0.0d
-			width: 1.35d
 			x: -20.0d
 			y: -3.5d
 		}
@@ -822,7 +798,31 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -23.0d
+			x: -25.0d
+			y: -3.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -23.5d
+			y: -3.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -22.0d
+			y: -3.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -25.0d
 			y: -6.5d
 		}
 		{
@@ -830,7 +830,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -21.5d
+			x: -23.5d
 			y: -6.5d
 		}
 		{
@@ -838,7 +838,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -20.0d
+			x: -22.0d
 			y: -6.5d
 		}
 		{
@@ -982,16 +982,16 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -15.0d
-			y: -14.0d
+			x: -19.5d
+			y: -15.0d
 		}
 		{
 			height: 1.35d
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -16.5d
-			y: -13.0d
+			x: -17.0d
+			y: -12.5d
 		}
 		{
 			height: 1.35d
@@ -1246,23 +1246,15 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_mythril"
 			rotation: 0.0d
 			width: 1.35d
-			x: 9.5d
-			y: 15.5d
+			x: 10.5d
+			y: 17.0d
 		}
 		{
 			height: 1.35d
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_mythril"
 			rotation: 0.0d
 			width: 1.35d
-			x: 10.0d
-			y: 17.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
-			rotation: 0.0d
-			width: 1.35d
-			x: 7.5d
+			x: 11.0d
 			y: 18.5d
 		}
 		{
@@ -1271,31 +1263,39 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 7.5d
-			y: 20.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
-			rotation: 0.0d
-			width: 1.35d
-			x: 1.0d
-			y: 17.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
-			rotation: 0.0d
-			width: 1.35d
-			x: 1.0d
-			y: 19.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
-			rotation: 0.0d
-			width: 1.35d
-			x: 1.0d
 			y: 20.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
+			rotation: 0.0d
+			width: 1.35d
+			x: 7.5d
+			y: 22.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
+			rotation: 0.0d
+			width: 1.35d
+			x: 1.0d
+			y: 19.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
+			rotation: 0.0d
+			width: 1.35d
+			x: 1.0d
+			y: 21.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
+			rotation: 0.0d
+			width: 1.35d
+			x: 1.0d
+			y: 22.5d
 		}
 		{
 			height: 1.35d
@@ -1303,7 +1303,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 5.0d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			height: 1.35d
@@ -1311,7 +1311,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 10.0d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			height: 1.35d
@@ -1446,7 +1446,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 19.5d
+			x: 23.5d
 			y: -4.5d
 		}
 		{
@@ -1454,7 +1454,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
+			x: 25.5d
 			y: -4.5d
 		}
 		{
@@ -1462,7 +1462,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 23.0d
+			x: 27.0d
 			y: -4.5d
 		}
 		{
@@ -1470,7 +1470,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 24.5d
+			x: 28.5d
 			y: -4.5d
 		}
 		{
@@ -1478,7 +1478,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 24.5d
+			x: 28.5d
 			y: -6.0d
 		}
 		{
@@ -1486,7 +1486,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 23.0d
+			x: 27.0d
 			y: -6.0d
 		}
 		{
@@ -1494,7 +1494,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.5d
+			x: 25.5d
 			y: -6.0d
 		}
 		{
@@ -1502,7 +1502,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 19.5d
+			x: 23.5d
 			y: -6.0d
 		}
 		{
@@ -1558,7 +1558,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 19.0d
+			x: 23.0d
 			y: -7.5d
 		}
 		{
@@ -1566,7 +1566,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 21.0d
+			x: 25.0d
 			y: -7.5d
 		}
 		{
@@ -1574,7 +1574,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 22.5d
+			x: 26.5d
 			y: -7.5d
 		}
 		{
@@ -1582,7 +1582,7 @@
 			image: "simplyswords:item/iron_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: 24.0d
+			x: 28.0d
 			y: -7.5d
 		}
 		{
@@ -1751,7 +1751,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -10.5d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			height: 1.35d
@@ -1759,7 +1759,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -5.5d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			height: 1.35d
@@ -1791,7 +1791,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 0.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			height: 1.35d
@@ -1799,7 +1799,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -3.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			height: 1.35d
@@ -1807,7 +1807,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -2.5d
-			y: -19.5d
+			y: -20.0d
 		}
 		{
 			height: 1.35d
@@ -1815,7 +1815,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: -1.0d
-			y: -20.0d
+			y: -20.5d
 		}
 		{
 			height: 1.35d
@@ -1823,7 +1823,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 1.0d
-			y: -20.0d
+			y: -20.5d
 		}
 		{
 			height: 1.35d
@@ -1831,7 +1831,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 2.5d
-			y: -19.5d
+			y: -20.0d
 		}
 		{
 			height: 1.35d
@@ -1839,7 +1839,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 3.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			height: 1.35d
@@ -2047,7 +2047,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 0.0d
-			y: -21.5d
+			y: -22.0d
 		}
 		{
 			height: 2.6d
@@ -2062,7 +2062,7 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_banglum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -8.5d
+			x: -9.0d
 			y: 15.5d
 		}
 		{
@@ -2070,7 +2070,7 @@
 			image: "simplyswords:item/gobber_compat/end_gobber/chakram_end_gobber"
 			rotation: 0.0d
 			width: 1.35d
-			x: -6.0d
+			x: -5.0d
 			y: 17.0d
 		}
 		{
@@ -2078,7 +2078,7 @@
 			image: "simplyswords:item/runic_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: -1.5d
+			x: -2.0d
 			y: 17.0d
 		}
 		{
@@ -2118,8 +2118,8 @@
 			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
 			rotation: 0.0d
 			width: 1.35d
-			x: -14.0d
-			y: -18.0d
+			x: -17.0d
+			y: -21.0d
 		}
 		{
 			height: 1.35d
@@ -2166,8 +2166,8 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_prometheum"
 			rotation: 0.0d
 			width: 1.35d
-			x: -13.0d
-			y: 14.0d
+			x: -13.5d
+			y: 13.5d
 		}
 		{
 			height: 1.35d
@@ -2239,7 +2239,7 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 10.0d
-			y: -8.0d
+			y: -7.5d
 		}
 		{
 			height: 1.35d
@@ -2262,24 +2262,8 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
 			rotation: 0.0d
 			width: 1.35d
-			x: 11.5d
-			y: -11.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
-			rotation: 0.0d
-			width: 1.35d
-			x: 12.5d
-			y: -10.0d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
-			rotation: 0.0d
-			width: 1.35d
-			x: 12.0d
-			y: -8.5d
+			x: 14.5d
+			y: -14.5d
 		}
 		{
 			height: 1.35d
@@ -2287,15 +2271,23 @@
 			rotation: 0.0d
 			width: 1.35d
 			x: 13.5d
-			y: -9.0d
+			y: -11.0d
 		}
 		{
 			height: 1.35d
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
 			rotation: 0.0d
 			width: 1.35d
-			x: 15.0d
-			y: -10.5d
+			x: 11.5d
+			y: -8.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
+			x: 14.5d
+			y: -10.0d
 		}
 		{
 			height: 1.35d
@@ -2310,6 +2302,22 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
 			rotation: 0.0d
 			width: 1.35d
+			x: 17.5d
+			y: -12.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
+			x: 16.5d
+			y: -13.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
 			x: 15.0d
 			y: -12.5d
 		}
@@ -2318,16 +2326,8 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
 			rotation: 0.0d
 			width: 1.35d
-			x: 14.0d
-			y: -11.5d
-		}
-		{
-			height: 1.35d
-			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
-			rotation: 0.0d
-			width: 1.35d
-			x: 13.0d
-			y: -13.0d
+			x: 16.0d
+			y: -16.0d
 		}
 		{
 			height: 2.0d
@@ -2358,8 +2358,8 @@
 			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
 			rotation: 0.0d
 			width: 1.35d
-			x: 13.5d
-			y: -15.5d
+			x: 13.0d
+			y: -16.0d
 		}
 		{
 			height: 1.35d
@@ -2368,6 +2368,238 @@
 			width: 1.35d
 			x: 11.0d
 			y: -15.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -19.0d
+			y: -5.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -19.0d
+			y: 3.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_orichalcum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -17.0d
+			y: 3.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
+			x: 13.0d
+			y: -9.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
+			x: 12.0d
+			y: -12.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_celestium"
+			rotation: 0.0d
+			width: 1.35d
+			x: 13.5d
+			y: -13.5d
+		}
+		{
+			height: 1.35d
+			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: -14.5d
+			y: -16.5d
+		}
+		{
+			height: 1.35d
+			image: "simplymore:item/uniques/mimicry/mimicry_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: -16.0d
+			y: -18.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_banglum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -7.5d
+			y: 16.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/gobber_compat/end_gobber/chakram_end_gobber"
+			rotation: 0.0d
+			width: 1.35d
+			x: -6.5d
+			y: 17.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/runic_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: -0.5d
+			y: 17.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -16.0d
+			y: -14.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -18.0d
+			y: -14.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -21.0d
+			y: -16.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_star_platinum"
+			rotation: 0.0d
+			width: 1.35d
+			x: -21.5d
+			y: -15.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/gold_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: -13.0d
+			y: 9.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/iron_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 21.5d
+			y: -7.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/iron_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 19.5d
+			y: -7.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/iron_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 22.0d
+			y: -5.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/iron_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 20.0d
+			y: -5.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 20.0d
+			y: 11.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/netherite_chakram"
+			rotation: 0.0d
+			width: 1.35d
+			x: 18.0d
+			y: 9.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
+			rotation: 0.0d
+			width: 1.35d
+			x: 18.0d
+			y: 1.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
+			rotation: 0.0d
+			width: 1.35d
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_steel"
+			rotation: 0.0d
+			width: 1.35d
+			x: -1.5d
+			y: -17.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_steel"
+			rotation: 0.0d
+			width: 1.35d
+			x: 1.5d
+			y: -17.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_adamantite"
+			rotation: 0.0d
+			width: 1.35d
+			x: 7.5d
+			y: 18.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_stormyx"
+			rotation: 0.0d
+			width: 1.35d
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			height: 1.35d
+			image: "simplyswords:item/mythicmetals_compat/chakram/chakram_mythril"
+			rotation: 0.0d
+			width: 1.35d
+			x: 9.5d
+			y: 15.5d
 		}
 	]
 	order_index: 0
@@ -3556,8 +3788,8 @@
 				item: { count: 1, id: "arsenal:unique_staff_damage_6" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 15.5d
+			x: 10.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["45F64755417D29AD"]
@@ -3586,8 +3818,8 @@
 				item: { count: 1, id: "arsenal:unique_staff_damage_1" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 17.0d
+			x: 11.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["40BA7CFAE5D3BA87"]
@@ -3617,7 +3849,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 18.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["40BA7CFAE5D3BA87"]
@@ -3647,7 +3879,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 20.0d
+			y: 22.0d
 		}
 		{
 			dependencies: ["715EC70B009A1870"]
@@ -3749,7 +3981,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 19.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["43A4F6D141EC492E"]
@@ -3779,7 +4011,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 17.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["43A4F6D141EC492E"]
@@ -3809,7 +4041,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 20.5d
+			y: 22.5d
 		}
 		{
 			dependencies: [
@@ -3843,7 +4075,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			dependencies: [
@@ -3877,7 +4109,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["310F6C5DAFD455D2"]
@@ -4768,7 +5000,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			dependencies: [
@@ -4802,7 +5034,7 @@
 				type: "item"
 			}]
 			x: -10.5d
-			y: 21.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["6F12431E4D0B7931"]
@@ -5079,8 +5311,8 @@
 				item: { count: 1, id: "rogues:aether_sickle" }
 				type: "item"
 			}]
-			x: 17.5d
-			y: 9.0d
+			x: 21.5d
+			y: 11.5d
 		}
 		{
 			dependencies: ["6F12431E4D0B7931"]
@@ -5216,8 +5448,8 @@
 				item: { count: 1, id: "rogues:aether_dagger" }
 				type: "item"
 			}]
-			x: 16.5d
-			y: 10.0d
+			x: 20.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["78D87A2BC9BFDDFB"]
@@ -5530,7 +5762,7 @@
 				item: { count: 1, id: "rogues:aether_glaive" }
 				type: "item"
 			}]
-			x: 18.0d
+			x: 21.5d
 			y: 2.0d
 		}
 		{
@@ -5559,7 +5791,7 @@
 				item: { count: 1, id: "rogues:aether_double_axe" }
 				type: "item"
 			}]
-			x: 18.0d
+			x: 21.5d
 			y: 0.5d
 		}
 		{
@@ -5651,8 +5883,8 @@
 				item: { count: 1, id: "arsenal:unique_sickle_1" }
 				type: "item"
 			}]
-			x: 21.5d
-			y: 12.0d
+			x: 25.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5680,8 +5912,8 @@
 				item: { count: 1, id: "arsenal:unique_sickle_sw" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: 10.0d
+			x: 23.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5709,8 +5941,8 @@
 				item: { count: 1, id: "arsenal:unique_sickle_2" }
 				type: "item"
 			}]
-			x: 20.5d
-			y: 11.0d
+			x: 24.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5738,8 +5970,8 @@
 				item: { count: 1, id: "arsenal:unique_longsword_sw" }
 				type: "item"
 			}]
-			x: 21.5d
-			y: 13.5d
+			x: 25.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5767,8 +5999,8 @@
 				item: { count: 1, id: "arsenal:unique_dagger_2" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: 12.5d
+			x: 23.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5796,8 +6028,8 @@
 				item: { count: 1, id: "arsenal:unique_dagger_sw" }
 				type: "item"
 			}]
-			x: 18.0d
-			y: 11.5d
+			x: 22.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0CEE3566ECB45ACE"]
@@ -5825,8 +6057,8 @@
 				item: { count: 1, id: "arsenal:unique_dagger_1" }
 				type: "item"
 			}]
-			x: 20.0d
-			y: 13.5d
+			x: 24.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["4CC526BD6F4C7BCD"]
@@ -5854,7 +6086,7 @@
 				item: { count: 1, id: "arsenal:unique_glaive_2" }
 				type: "item"
 			}]
-			x: 23.0d
+			x: 26.5d
 			y: 2.0d
 		}
 		{
@@ -5883,7 +6115,7 @@
 				item: { count: 1, id: "arsenal:unique_glaive_sw" }
 				type: "item"
 			}]
-			x: 21.5d
+			x: 25.0d
 			y: 2.0d
 		}
 		{
@@ -5912,7 +6144,7 @@
 				item: { count: 1, id: "arsenal:unique_glaive_1" }
 				type: "item"
 			}]
-			x: 20.0d
+			x: 23.5d
 			y: 2.0d
 		}
 		{
@@ -5941,7 +6173,7 @@
 				item: { count: 1, id: "arsenal:unique_double_axe_1" }
 				type: "item"
 			}]
-			x: 20.0d
+			x: 23.5d
 			y: 0.5d
 		}
 		{
@@ -5970,7 +6202,7 @@
 				item: { count: 1, id: "arsenal:unique_double_axe_sw" }
 				type: "item"
 			}]
-			x: 21.5d
+			x: 25.0d
 			y: 0.5d
 		}
 		{
@@ -5999,7 +6231,7 @@
 				item: { count: 1, id: "arsenal:unique_double_axe_2" }
 				type: "item"
 			}]
-			x: 23.0d
+			x: 26.5d
 			y: 0.5d
 		}
 		{
@@ -6389,7 +6621,7 @@
 				type: "item"
 			}]
 			x: -11.5d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["754E90873AA60A7B"]
@@ -6417,8 +6649,8 @@
 				item: { count: 1, id: "paladins:aether_holy_staff" }
 				type: "item"
 			}]
-			x: -12.5d
-			y: 8.0d
+			x: -14.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["754E90873AA60A7B"]
@@ -6446,8 +6678,8 @@
 				item: { count: 1, id: "arsenal:unique_staff_heal_2" }
 				type: "item"
 			}]
-			x: -15.5d
-			y: 9.5d
+			x: -17.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["754E90873AA60A7B"]
@@ -6475,8 +6707,8 @@
 				item: { count: 1, id: "arsenal:unique_staff_heal_sw" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: 9.0d
+			x: -15.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["49C7B92298881150"]
@@ -6663,7 +6895,7 @@
 				item: { count: 1, id: "archers:aether_spear" }
 				type: "item"
 			}]
-			x: -16.5d
+			x: -20.5d
 			y: 3.0d
 		}
 		{
@@ -6692,7 +6924,7 @@
 				item: { count: 1, id: "arsenal:unique_spear_sw" }
 				type: "item"
 			}]
-			x: -21.5d
+			x: -25.5d
 			y: 3.0d
 		}
 		{
@@ -6721,7 +6953,7 @@
 				item: { count: 1, id: "arsenal:unique_spear_2" }
 				type: "item"
 			}]
-			x: -18.5d
+			x: -22.5d
 			y: 3.0d
 		}
 		{
@@ -6750,7 +6982,7 @@
 				item: { count: 1, id: "arsenal:unique_spear_1" }
 				type: "item"
 			}]
-			x: -20.0d
+			x: -24.0d
 			y: 3.0d
 		}
 		{
@@ -7405,7 +7637,7 @@
 					xp: 30
 				}
 				{
-					count: 8
+					count: 4
 					id: "55AD42F5866EFA5A"
 					item: {
 						count: 1
@@ -7448,7 +7680,7 @@
 				item: { count: 1, id: "archers:aether_longbow" }
 				type: "item"
 			}]
-			x: -18.0d
+			x: -20.0d
 			y: -6.5d
 		}
 		{
@@ -7477,7 +7709,7 @@
 				item: { count: 1, id: "archers:aether_heavy_crossbow" }
 				type: "item"
 			}]
-			x: -18.0d
+			x: -20.0d
 			y: -3.5d
 		}
 		{
@@ -7506,7 +7738,7 @@
 				item: { count: 1, id: "archers:aether_rapid_crossbow" }
 				type: "item"
 			}]
-			x: -19.0d
+			x: -21.0d
 			y: -5.0d
 		}
 		{
@@ -7535,7 +7767,7 @@
 				item: { count: 1, id: "arsenal:unique_longbow_2" }
 				type: "item"
 			}]
-			x: -20.0d
+			x: -22.0d
 			y: -6.5d
 		}
 		{
@@ -7564,7 +7796,7 @@
 				item: { count: 1, id: "arsenal:unique_longbow_sw" }
 				type: "item"
 			}]
-			x: -21.5d
+			x: -23.5d
 			y: -6.5d
 		}
 		{
@@ -7593,7 +7825,7 @@
 				item: { count: 1, id: "arsenal:unique_longbow_1" }
 				type: "item"
 			}]
-			x: -23.0d
+			x: -25.0d
 			y: -6.5d
 		}
 		{
@@ -7622,7 +7854,7 @@
 				item: { count: 1, id: "arsenal:unique_heavy_crossbow_1" }
 				type: "item"
 			}]
-			x: -23.0d
+			x: -25.0d
 			y: -3.5d
 		}
 		{
@@ -7651,7 +7883,7 @@
 				item: { count: 1, id: "arsenal:unique_heavy_crossbow_sw" }
 				type: "item"
 			}]
-			x: -21.5d
+			x: -23.5d
 			y: -3.5d
 		}
 		{
@@ -7680,7 +7912,7 @@
 				item: { count: 1, id: "arsenal:unique_heavy_crossbow_2" }
 				type: "item"
 			}]
-			x: -20.0d
+			x: -22.0d
 			y: -3.5d
 		}
 		{
@@ -8153,7 +8385,7 @@
 				item: { count: 1, id: "paladins:aether_great_hammer" }
 				type: "item"
 			}]
-			x: 19.5d
+			x: 23.5d
 			y: -6.0d
 		}
 		{
@@ -8182,7 +8414,7 @@
 				item: { count: 1, id: "paladins:aether_claymore" }
 				type: "item"
 			}]
-			x: 19.5d
+			x: 23.5d
 			y: -4.5d
 		}
 		{
@@ -8211,7 +8443,7 @@
 				item: { count: 1, id: "arsenal:unique_hammer_2" }
 				type: "item"
 			}]
-			x: 21.5d
+			x: 25.5d
 			y: -6.0d
 		}
 		{
@@ -8240,7 +8472,7 @@
 				item: { count: 1, id: "arsenal:unique_hammer_sw" }
 				type: "item"
 			}]
-			x: 23.0d
+			x: 27.0d
 			y: -6.0d
 		}
 		{
@@ -8269,7 +8501,7 @@
 				item: { count: 1, id: "arsenal:unique_hammer_1" }
 				type: "item"
 			}]
-			x: 24.5d
+			x: 28.5d
 			y: -6.0d
 		}
 		{
@@ -8298,7 +8530,7 @@
 				item: { count: 1, id: "arsenal:unique_claymore_1" }
 				type: "item"
 			}]
-			x: 21.5d
+			x: 25.5d
 			y: -4.5d
 		}
 		{
@@ -8327,7 +8559,7 @@
 				item: { count: 1, id: "arsenal:unique_claymore_sw" }
 				type: "item"
 			}]
-			x: 23.0d
+			x: 27.0d
 			y: -4.5d
 		}
 		{
@@ -8356,7 +8588,7 @@
 				item: { count: 1, id: "arsenal:unique_claymore_2" }
 				type: "item"
 			}]
-			x: 24.5d
+			x: 28.5d
 			y: -4.5d
 		}
 		{
@@ -8528,7 +8760,7 @@
 					type: "item"
 				}
 			]
-			x: 19.0d
+			x: 23.0d
 			y: -7.5d
 		}
 		{
@@ -8564,7 +8796,7 @@
 					type: "item"
 				}
 			]
-			x: 22.5d
+			x: 26.5d
 			y: -7.5d
 		}
 		{
@@ -8600,7 +8832,7 @@
 					type: "item"
 				}
 			]
-			x: 21.0d
+			x: 25.0d
 			y: -7.5d
 		}
 		{
@@ -8636,7 +8868,7 @@
 					type: "item"
 				}
 			]
-			x: 24.0d
+			x: 28.0d
 			y: -7.5d
 		}
 		{
@@ -8807,7 +9039,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -8842,7 +9074,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -19.5d
+			y: -20.0d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -8877,7 +9109,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -8912,7 +9144,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -20.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -8947,7 +9179,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -19.5d
+			y: -20.0d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -8982,7 +9214,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -18.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["698F2F3B29039853"]
@@ -9017,7 +9249,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -20.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["2AD48E694D479894"]
@@ -9389,7 +9621,7 @@
 				}
 			]
 			x: 0.0d
-			y: -21.5d
+			y: -22.0d
 		}
 		{
 			dependencies: ["182F24F1F3625911"]
@@ -10467,8 +10699,8 @@
 				item: { count: 1, id: "berserker_rpg:aether_berserker_axe" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: -16.0d
+			x: -17.0d
+			y: -19.0d
 		}
 		{
 			dependencies: ["1EB5AD54E4CA1CF6"]
@@ -10496,8 +10728,8 @@
 				item: { count: 1, id: "berserker_rpg:unique_sword_1" }
 				type: "item"
 			}]
-			x: -15.5d
-			y: -17.5d
+			x: -18.5d
+			y: -20.5d
 		}
 		{
 			dependencies: ["1EB5AD54E4CA1CF6"]
@@ -10525,8 +10757,8 @@
 				item: { count: 1, id: "berserker_rpg:unique_berserker_axe_1" }
 				type: "item"
 			}]
-			x: -16.0d
-			y: -16.0d
+			x: -19.0d
+			y: -19.0d
 		}
 		{
 			dependencies: ["48ABB1B0CD1CCD3A"]
@@ -10970,8 +11202,8 @@
 				item: { count: 1, id: "forcemaster_rpg:aether_knuckle" }
 				type: "item"
 			}]
-			x: -15.0d
-			y: -14.0d
+			x: -19.5d
+			y: -15.0d
 		}
 		{
 			dependencies: ["6CF883C046A95EEE"]
@@ -11101,8 +11333,8 @@
 					type: "item"
 				}
 			]
-			x: -16.5d
-			y: -13.0d
+			x: -17.0d
+			y: -12.5d
 		}
 		{
 			dependencies: ["4C867CBD99E72E14"]
@@ -11235,7 +11467,7 @@
 					type: "item"
 				}
 			]
-			x: -1.5d
+			x: -2.0d
 			y: 17.0d
 		}
 		{
@@ -11279,7 +11511,7 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
+			x: -9.0d
 			y: 15.5d
 		}
 		{
@@ -11323,7 +11555,7 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
+			x: -5.0d
 			y: 17.0d
 		}
 		{
@@ -11528,8 +11760,8 @@
 				item: { count: 1, id: "berserker_rpg:unique_berserker_axe_2" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: -18.0d
+			x: -17.0d
+			y: -21.0d
 		}
 		{
 			dependencies: ["51FC466FBC761ACE"]
@@ -11725,8 +11957,8 @@
 				item: { count: 1, id: "druids:staff_moon" }
 				type: "item"
 			}]
-			x: -13.0d
-			y: 14.0d
+			x: -13.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["1B0F916DA828676B"]
@@ -12179,7 +12411,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: -8.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["133CD58172C8C89D"]
@@ -12205,7 +12437,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(bards_rpg:netherite_lute)item(bards_rpg:netherite_lyre))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: -8.5d
 		}
 		{
@@ -12234,8 +12466,8 @@
 				item: { count: 1, id: "bards_rpg:aether_rapier" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: -11.5d
+			x: 14.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12263,8 +12495,8 @@
 				item: { count: 1, id: "bards_rpg:aether_lute" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -10.0d
+			x: 13.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12292,8 +12524,8 @@
 				item: { count: 1, id: "bards_rpg:aether_lyre" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: -9.0d
+			x: 14.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["3DF1D96654248266"]
@@ -12321,8 +12553,8 @@
 				item: { count: 1, id: "bards_rpg:unique_rapier_0" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: -13.0d
+			x: 16.0d
+			y: -16.0d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12350,8 +12582,8 @@
 				item: { count: 1, id: "bards_rpg:unique_lute_0" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -11.5d
+			x: 15.0d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12379,8 +12611,8 @@
 				item: { count: 1, id: "bards_rpg:unique_lute_1" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: -12.5d
+			x: 16.5d
+			y: -13.0d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12408,8 +12640,8 @@
 				item: { count: 1, id: "bards_rpg:unique_lyre_0" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: -10.5d
+			x: 16.0d
+			y: -11.5d
 		}
 		{
 			dependencies: ["1F456DD33B753BDF"]
@@ -12437,8 +12669,8 @@
 				item: { count: 1, id: "bards_rpg:unique_lyre_1" }
 				type: "item"
 			}]
-			x: 16.0d
-			y: -11.5d
+			x: 17.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["41C539E66BFA0839"]
@@ -12568,8 +12800,819 @@
 					type: "item"
 				}
 			]
+			x: 13.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["1F4933F3EF31975C"]
+			id: "2B759C1585BE7DE7"
+			rewards: [
+				{
+					id: "02FF93B5D1C014DB"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "786C69A9C2DA0560"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59A8389F29AA7E73"
+				item: { components: { "ftbfiltersystem:filter": "or(item(archers:crystal_shortbow)item(archers:crystal_longbow)item(archers:ruby_rapid_crossbow)item(archers:ruby_heavy_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -19.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["52E05C624CC8FA43"]
+			id: "6D1996CDC8E4F681"
+			rewards: [
+				{
+					id: "4DA6E416AFF6FB1C"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "1482E4EEEB97E4BC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "302C0A9315C53E16"
+				item: { count: 1, id: "archers:ruby_spear" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6D1996CDC8E4F681"]
+			id: "301DD3832CD1EDE5"
+			rewards: [
+				{
+					id: "0AF28C92DDB477A8"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "62F84C88A6120637"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E260B6F0CCF8C91"
+				item: { count: 1, id: "archers:aeternium_spear" }
+				type: "item"
+			}]
+			x: -19.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1F456DD33B753BDF"]
+			id: "43E1ED22CB416372"
+			rewards: [
+				{
+					id: "45A50E96F7E47C5C"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "42AAA3939F1B7932"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "15C2FC633D28C56B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(bards_rpg:ruby_lute)item(bards_rpg:aeternium_lyre))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["3DF1D96654248266"]
+			id: "655548B1D57BC8D7"
+			rewards: [
+				{
+					id: "20E4AFD2061A9A47"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "10465A6A90B64650"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67A2ACCEC3A836F2"
+				item: { count: 1, id: "bards_rpg:ruby_rapier" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["655548B1D57BC8D7"]
+			id: "55C22D6A51287370"
+			rewards: [
+				{
+					id: "36D777EF54A2F788"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "07E51355607D8EBD"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "71E034E9700721D8"
+				item: { count: 1, id: "bards_rpg:aeternium_rapier" }
+				type: "item"
+			}]
 			x: 13.5d
-			y: -15.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1EB5AD54E4CA1CF6"]
+			id: "065832C538141FDE"
+			rewards: [
+				{
+					id: "646B947D41D304A1"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "2E27F6B00AE6DA80"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "69352C47E7AE0F40"
+				item: { count: 1, id: "berserker_rpg:ruby_berserker_axe" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -16.5d
+		}
+		{
+			dependencies: ["065832C538141FDE"]
+			id: "343FE13B38497833"
+			rewards: [
+				{
+					id: "376F9F55744993FE"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "2A26E92FC53700E5"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "302EEF7D59C71EAE"
+				item: { count: 1, id: "berserker_rpg:aeternium_berserker_axe" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["588466C9D884CBEC"]
+			id: "73497FCAA8DBC750"
+			rewards: [
+				{
+					id: "53EAE8296AD5ABB0"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "401F0F86DF631BC0"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2D908E688F29DB16"
+				item: { count: 1, id: "elemental_wizards_rpg:staff_ruby_terra" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1A0C7DAB9B467A18"]
+			id: "21BDF5BAE820EE5C"
+			rewards: [
+				{
+					id: "4338347211A581C3"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "42A86C9E97C10AAB"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5B58ED21CC15D3E6"
+				item: { count: 1, id: "elemental_wizards_rpg:staff_crystal_aqua" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["5D630D92DD0C1FC8"]
+			id: "3051ADD8B1FC91F1"
+			rewards: [
+				{
+					id: "358A0717452A7ECA"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "792FD1F92F51A468"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "23A422A0E924A263"
+				item: { count: 1, id: "elemental_wizards_rpg:staff_aeternium_wind" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["20379957375C6E80"]
+			id: "31AD70BFB783FAE2"
+			rewards: [
+				{
+					id: "6BA6CBE9B5BFF43A"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "34298D7E543FD9D4"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C686C2850E49BD6"
+				item: { count: 1, id: "forcemaster_rpg:ruby_knuckle" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["31AD70BFB783FAE2"]
+			id: "5346A4A7D1E29845"
+			rewards: [
+				{
+					id: "63EC6CB313A8EB1B"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "528A9085503BD170"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0FABE4FB6021FEC9"
+				item: { count: 1, id: "forcemaster_rpg:aeternium_knuckle" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["20379957375C6E80"]
+			hide_dependency_lines: true
+			id: "28F3A2FFC3F6B303"
+			rewards: [
+				{
+					id: "2B08C79AF6015B47"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "7D774B40E9EA4F5B"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "51790898598D763F"
+				item: { count: 1, id: "forcemaster_rpg:unique_knuckle_0" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["20379957375C6E80"]
+			hide_dependency_lines: true
+			id: "27FB9DC6E2F93CB4"
+			rewards: [
+				{
+					id: "024989CE12D5FBD8"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 12
+					id: "2AAC8D0E77D8C3BC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "376CFE9B9097AE52"
+				item: { count: 1, id: "forcemaster_rpg:unique_knuckle_1" }
+				type: "item"
+			}]
+			x: -21.5d
+			y: -15.0d
+		}
+		{
+			dependencies: ["754E90873AA60A7B"]
+			id: "48D3EB82FB6E18B6"
+			rewards: [
+				{
+					id: "5E7D80E7F8AB78AA"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "01E7B8021B896FFC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2D0C87621D352CAF"
+				item: { count: 1, id: "paladins:ruby_holy_staff" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2F96CABE275BD800"]
+			id: "0D9AA7EC57E7E6EA"
+			rewards: [
+				{
+					id: "504E5499C891D323"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "069F727448E5FF08"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "308AB9FDDD49117E"
+					item: { count: 1, id: "paladins:ruby_mace" }
+					type: "item"
+				}
+				{
+					id: "531F9AA95D4AC27A"
+					item: { count: 1, id: "paladins:ruby_kite_shield" }
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["0D9AA7EC57E7E6EA"]
+			id: "3112E3356FE5370F"
+			rewards: [
+				{
+					id: "1521B3AA6ADF83D7"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "597408D71ED3335A"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6796CB3E3ED0DF6A"
+					item: { count: 1, id: "paladins:aeternium_mace" }
+					type: "item"
+				}
+				{
+					id: "71185B0C10C40C54"
+					item: { count: 1, id: "paladins:aeternium_kite_shield" }
+					type: "item"
+				}
+			]
+			x: 21.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6E6805FC346D5FFA"]
+			id: "65DEBC2F25C44F4F"
+			rewards: [
+				{
+					id: "3A049ABCB034AC98"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "5F1F8D0DCBA8EFDA"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "66B6C47907E73455"
+				item: { components: { "ftbfiltersystem:filter": "or(item(paladins:ruby_claymore)item(paladins:ruby_great_hammer))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["65DEBC2F25C44F4F"]
+			id: "299C2C8E5C8B9D15"
+			rewards: [
+				{
+					id: "6AF6E322AB5507E6"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "64A82E2247557DAC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "193C56F3C91BAAA5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(paladins:aeternium_claymore)item(paladins:aeternium_great_hammer))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0CEE3566ECB45ACE"]
+			id: "0D82076B4DD4B521"
+			rewards: [
+				{
+					id: "4DBF649D738AC496"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "63A815BC740AB909"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5CBD8B6423A1993F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(rogues:ruby_dagger)item(rogues:ruby_sickle))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0D82076B4DD4B521"]
+			id: "3265DACDC9D0B4D9"
+			rewards: [
+				{
+					id: "07719A93596C376F"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "52F0246940B67A86"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "619AE32E7811A354"
+				item: { components: { "ftbfiltersystem:filter": "or(item(rogues:aeternium_dagger)item(rogues:aeternium_sickle))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["216A06A409596B1D"]
+			id: "4AA2A3AF148E04E4"
+			rewards: [
+				{
+					id: "7D72115E2ADD08B1"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "48F49AF07F766FD0"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4A7437D577AAADEA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(rogues:aeternium_double_axe)item(rogues:aeternium_glaive))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4CC526BD6F4C7BCD"]
+			id: "216A06A409596B1D"
+			rewards: [
+				{
+					id: "516F980552496DB9"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "58B2C4E2EBAC7D93"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55B5C596F09C5EF6"
+				item: { components: { "ftbfiltersystem:filter": "or(item(rogues:ruby_double_axe)item(rogues:ruby_glaive))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["698F2F3B29039853"]
+			id: "3DB947B8B2170FA7"
+			rewards: [
+				{
+					id: "13C2118C67763B2B"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "5DDE3F100C84B1F8"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "15ADC18934165D4D"
+					table_id: 4334342971058975403L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6B11B2DD51983CC3"
+				item: { count: 1, id: "witcher_rpg:ruby_witcher_sword" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["698F2F3B29039853"]
+			id: "772DC7A427F42A95"
+			rewards: [
+				{
+					id: "5AD2FE075AAA35A9"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "0ED38F185C1B9497"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F5AE6E4C10AF911"
+					table_id: 1284031290614944333L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5009316CE2D11F78"
+				item: { count: 1, id: "witcher_rpg:aeternium_witcher_sword" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["40BA7CFAE5D3BA87"]
+			id: "5C6F3EBD0F9B4466"
+			rewards: [
+				{
+					id: "12308260DC236549"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "0C6694A3664AAAAF"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "14D4B5C798F69567"
+				item: { count: 1, id: "wizards:staff_ruby_fire" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["43A4F6D141EC492E"]
+			id: "128A0722729BCB2F"
+			rewards: [
+				{
+					id: "14994D6423CE3436"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "03B8B3C22852AC6C"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "397566CCEE1EEFA2"
+				item: { count: 1, id: "wizards:staff_crystal_arcane" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["45F64755417D29AD"]
+			id: "5FF42EB575119E3D"
+			rewards: [
+				{
+					id: "1485A057C83C0938"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "1141263388F8D9AA"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1EC2454530351855"
+				item: { count: 1, id: "wizards:staff_smaragdant_frost" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 15.5d
 		}
 	]
 }

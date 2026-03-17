@@ -1606,6 +1606,11 @@
 					item: { count: 1, id: "hearthandharvest:tree_tapper" }
 					type: "item"
 				}
+				{
+					id: "07A3153E53430799"
+					item: { count: 1, id: "hearthandharvest:crate" }
+					type: "item"
+				}
 			]
 			x: 4.5d
 			y: -2.5d
